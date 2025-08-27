@@ -1,0 +1,2421 @@
+TransactionAmount,CustomerAge,TransactionDuration,LoginAttempts,AccountBalance,TransactionType,Channel,CustomerOccupation,Location,Target
+14.09,70.0,81.0,1.0,5112.21,Atlanta,Albuquerque,Albuquerque,San Diego,6.0
+376.24,68.0,141.0,1.0,13758.91,Atlanta,Albuquerque,Albuquerque,Houston,7.0
+126.29,19.0,56.0,1.0,1122.35,Atlanta,Austin,Baltimore,Mesa,1.0
+184.5,26.0,25.000000000000004,1.0,8569.06,Atlanta,Austin,Baltimore,Raleigh,6.0
+92.15,18.0,172.0,1.0,781.68,Albuquerque,Austin,Baltimore,Atlanta,0.0
+7.08,37.0,139.0,1.0,13316.71,Atlanta,Albuquerque,Baltimore,Oklahoma City,8.0
+171.42,67.0,291.0,1.0,2796.24,Albuquerque,Albuquerque,Albuquerque,Seattle,2.0
+106.23,51.0,86.0,1.0,9095.14,Albuquerque,Atlanta,Austin,Indianapolis,7.0
+815.96,55.0,120.0,1.0,1021.8800000000001,Albuquerque,Atlanta,Atlanta,Detroit,3.0
+17.78,52.0,59.00000000000001,1.0,7599.5199999999995,Atlanta,Albuquerque,Albuquerque,Nashville,8.0
+190.02,21.0,173.0,1.0,1528.81,Albuquerque,Austin,Atlanta,Albuquerque,0.0
+494.52,24.0,111.0,1.0,1620.02,Atlanta,Austin,Baltimore,Memphis,1.0
+781.76,26.0,123.0,1.0,189.69,Albuquerque,Atlanta,Baltimore,Mesa,1.0
+166.99,18.0,134.0,1.0,299.93,Atlanta,Albuquerque,Baltimore,Memphis,1.0
+465.45,36.0,129.0,1.0,3465.54,Atlanta,Austin,Baltimore,Louisville,1.0
+555.8,19.0,158.0,1.0,1131.26,Atlanta,Albuquerque,Atlanta,Denver,3.0
+492.93,39.0,234.0,1.0,5109.97,Albuquerque,Atlanta,Baltimore,Austin,0.0
+18.68,59.0,106.0,1.0,7948.369999999999,Atlanta,Austin,Atlanta,Columbus,5.0
+71.48,18.0,169.0,1.0,6568.59,Albuquerque,Atlanta,Austin,Albuquerque,0.0
+59.32,71.0,37.99999999999999,1.0,5750.89,Albuquerque,Austin,Baltimore,Columbus,5.0
+85.77,38.0,93.0,1.0,9146.19,Atlanta,Atlanta,Austin,Los Angeles,1.0
+52.2,39.0,120.0,1.0,8974.93,Atlanta,Atlanta,Albuquerque,Las Vegas,7.0
+345.84,22.0,142.0,3.0,1402.5,Atlanta,Austin,Atlanta,Atlanta,0.0
+145.54,21.0,96.0,1.0,1930.96,Atlanta,Austin,Baltimore,Fort Worth,3.0
+7.49,65.0,276.0,1.0,3634.67,Albuquerque,Austin,Austin,Houston,7.0
+246.93,23.0,158.0,5.0,673.3499999999999,Atlanta,Albuquerque,Baltimore,Miami,8.0
+40.32,37.0,95.0,1.0,2686.52,Atlanta,Atlanta,Atlanta,Milwaukee,8.0
+127.45,44.0,197.0,1.0,1772.06,Atlanta,Austin,Albuquerque,Las Vegas,7.0
+56.17,27.0,283.0,1.0,1351.69,Atlanta,Atlanta,Baltimore,Detroit,3.0
+28.31,59.0,20.0,1.0,8334.47,Albuquerque,Austin,Albuquerque,Miami,8.0
+59.12,29.0,257.0,1.0,9823.64,Atlanta,Albuquerque,Albuquerque,Baltimore,0.0
+396.45,49.0,168.00000000000003,3.0,9690.15,Atlanta,Albuquerque,Atlanta,New York,8.0
+877.81,22.0,150.0,1.0,399.0,Atlanta,Austin,Baltimore,Los Angeles,1.0
+255.26,45.0,50.00000000000001,1.0,14815.87,Albuquerque,Atlanta,Albuquerque,San Francisco,6.0
+124.76,49.0,45.0,1.0,5764.72,Atlanta,Atlanta,Atlanta,Seattle,2.0
+78.13,26.0,145.0,1.0,900.61,Atlanta,Atlanta,Baltimore,Milwaukee,8.0
+795.31,66.0,90.0,2.0,7914.879999999999,Atlanta,Albuquerque,Austin,San Jose,2.0
+335.63,55.0,215.99999999999997,1.0,1019.39,Atlanta,Albuquerque,Albuquerque,Mesa,1.0
+328.47,63.0,119.0,1.0,4323.66,Atlanta,Austin,Austin,Oklahoma City,8.0
+34.02,38.0,18.999999999999996,1.0,14214.48,Atlanta,Albuquerque,Austin,San Antonio,6.0
+241.42000000000002,57.0,116.00000000000001,1.0,13357.02,Atlanta,Austin,Albuquerque,Philadelphia,4.0
+55.32,19.0,117.0,1.0,241.79000000000002,Albuquerque,Austin,Albuquerque,Charlotte,5.0
+304.31,27.0,33.0,1.0,868.61,Atlanta,Albuquerque,Baltimore,Tucson,2.0
+435.27,74.0,90.0,1.0,4673.28,Atlanta,Atlanta,Baltimore,Louisville,1.0
+164.49,26.0,75.0,1.0,1509.27,Atlanta,Atlanta,Austin,Chicago,5.0
+510.23999999999995,19.0,105.0,1.0,781.7,Atlanta,Atlanta,Baltimore,Baltimore,0.0
+626.9,26.0,138.0,1.0,265.51,Atlanta,Austin,Baltimore,Oklahoma City,8.0
+22.01,41.0,175.0,1.0,1335.09,Atlanta,Austin,Baltimore,Denver,3.0
+425.34,69.0,121.0,1.0,3907.5399999999995,Albuquerque,Austin,Atlanta,Sacramento,6.0
+424.56,51.0,264.0,1.0,5183.85,Albuquerque,Austin,Austin,Kansas City,7.0
+85.43,67.0,145.0,1.0,14904.9,Atlanta,Austin,Atlanta,Omaha,4.0
+169.5,28.0,142.0,1.0,918.8799999999999,Atlanta,Atlanta,Albuquerque,Virginia Beach,2.0
+104.63,62.0,90.0,1.0,4477.78,Atlanta,Atlanta,Baltimore,San Diego,6.0
+316.95,25.0,83.0,1.0,1324.03,Atlanta,Albuquerque,Austin,Omaha,4.0
+60.540000000000006,57.0,52.00000000000001,1.0,3534.93,Atlanta,Atlanta,Baltimore,Mesa,1.0
+292.56,68.0,61.00000000000001,1.0,4638.37,Albuquerque,Atlanta,Austin,Columbus,5.0
+386.52,48.0,28.0,1.0,5630.61,Albuquerque,Atlanta,Austin,Dallas,5.0
+112.07,23.0,51.00000000000001,1.0,930.3,Atlanta,Atlanta,Atlanta,Indianapolis,7.0
+568.52,46.0,151.99999999999997,1.0,5499.91,Atlanta,Atlanta,Baltimore,Kansas City,7.0
+263.99,79.0,227.0,2.0,4175.02,Atlanta,Albuquerque,Atlanta,Indianapolis,7.0
+349.64,48.0,226.0,1.0,6651.62,Atlanta,Atlanta,Austin,Dallas,5.0
+601.4,56.0,104.0,1.0,8458.29,Atlanta,Austin,Atlanta,Las Vegas,7.0
+5.77,50.0,123.99999999999999,1.0,13988.12,Albuquerque,Atlanta,Atlanta,Philadelphia,4.0
+201.33,42.0,186.0,1.0,2585.07,Atlanta,Austin,Albuquerque,Charlotte,5.0
+298.42,56.0,225.0,1.0,3014.75,Albuquerque,Atlanta,Atlanta,Nashville,8.0
+521.06,25.0,128.0,1.0,1951.42,Atlanta,Atlanta,Austin,Indianapolis,7.0
+117.28,60.0,16.0,1.0,3665.77,Atlanta,Atlanta,Baltimore,Albuquerque,0.0
+189.12,32.0,103.0,1.0,977.01,Albuquerque,Austin,Atlanta,Austin,0.0
+133.55,44.0,220.0,1.0,3846.2800000000007,Albuquerque,Baltimore,Atlanta,Indianapolis,7.0
+143.21,35.0,135.0,1.0,6374.82,Atlanta,Albuquerque,Atlanta,Atlanta,0.0
+24.77,62.0,55.0,1.0,5866.01,Atlanta,Austin,Atlanta,Dallas,5.0
+233.92,26.0,280.0,1.0,6537.62,Atlanta,Albuquerque,Austin,Boston,0.0
+1212.51,20.0,24.0,1.0,605.9499999999999,Albuquerque,Austin,Baltimore,Jacksonville,7.0
+232.12,37.0,51.00000000000001,1.0,6689.87,Atlanta,Atlanta,Baltimore,Indianapolis,7.0
+91.53,44.0,69.00000000000001,1.0,14676.05,Atlanta,Albuquerque,Atlanta,,2.0
+120.29,19.0,77.0,1.0,1362.39,Atlanta,Austin,Baltimore,Kansas City,7.0
+174.25,50.0,67.0,1.0,10528.34,Atlanta,Atlanta,Albuquerque,Milwaukee,8.0
+183.71,38.0,102.0,1.0,552.52,Atlanta,Atlanta,Baltimore,Miami,8.0
+345.39,58.0,80.0,1.0,6451.96,Atlanta,Austin,Albuquerque,Seattle,2.0
+922.55,63.0,87.0,1.0,4715.84,Albuquerque,Baltimore,Atlanta,Phoenix,4.0
+259.91,49.0,170.0,1.0,7176.86,Atlanta,Albuquerque,Austin,Detroit,3.0
+154.71,34.0,157.0,1.0,1523.72,Atlanta,Austin,Albuquerque,Denver,3.0
+1340.19,54.0,30.0,1.0,8654.28,Atlanta,Austin,Albuquerque,San Diego,6.0
+24.56,64.0,69.00000000000001,1.0,9869.93,Atlanta,Atlanta,Albuquerque,Mesa,1.0
+568.07,48.0,115.0,1.0,10556.81,Austin,Albuquerque,Albuquerque,Washington,2.0
+9.61,58.0,179.0,1.0,12883.91,Albuquerque,Austin,Albuquerque,San Diego,6.0
+392.96,24.0,100.00000000000001,1.0,791.65,Albuquerque,Austin,Austin,Milwaukee,8.0
+716.93,60.0,34.0,1.0,4064.02,Atlanta,Albuquerque,Atlanta,Kansas City,7.0
+223.85,53.0,55.0,4.0,2929.91,Atlanta,Atlanta,Baltimore,Houston,7.0
+230.66,21.0,135.0,1.0,618.05,Atlanta,Albuquerque,Atlanta,San Antonio,6.0
+644.17,29.0,72.0,1.0,1143.52,Albuquerque,Atlanta,Atlanta,Mesa,1.0
+508.67999999999995,51.0,127.0,1.0,7708.41,Albuquerque,Atlanta,Baltimore,San Francisco,6.0
+858.63,27.0,185.0,1.0,1872.96,Atlanta,Albuquerque,Atlanta,Louisville,1.0
+25.36,57.0,78.0,1.0,201.04,Atlanta,Atlanta,Austin,Charlotte,5.0
+147.62,71.0,133.0,1.0,2115.8,Atlanta,Atlanta,Albuquerque,San Antonio,6.0
+115.02,37.0,175.0,1.0,7643.66,Atlanta,Atlanta,Atlanta,Fort Worth,3.0
+383.37,30.0,24.0,1.0,8901.93,Albuquerque,Austin,Baltimore,El Paso,3.0
+98.54,20.0,167.0,1.0,9383.43,Austin,Atlanta,Albuquerque,Fort Worth,3.0
+83.24,55.0,164.0,1.0,1181.31,Atlanta,Atlanta,Atlanta,Virginia Beach,2.0
+196.16,27.0,146.0,1.0,9418.86,Atlanta,Albuquerque,Atlanta,Las Vegas,7.0
+129.94,32.0,235.0,1.0,7954.919999999999,Atlanta,Austin,Atlanta,Colorado Springs,5.0
+306.9,46.0,51.00000000000001,1.0,9418.08,Atlanta,Austin,Austin,Seattle,2.0
+114.98,59.0,80.0,1.0,6144.68,Atlanta,Atlanta,Baltimore,Sacramento,6.0
+756.59,27.0,17.0,1.0,420.65,Atlanta,Albuquerque,Austin,Columbus,5.0
+503.76000000000005,22.0,35.0,1.0,447.82,Austin,Albuquerque,Baltimore,New York,8.0
+143.03,63.0,147.0,1.0,7981.450000000001,Albuquerque,Austin,Atlanta,Dallas,5.0
+1045.22,53.0,73.0,1.0,1829.9,Albuquerque,Albuquerque,Austin,Dallas,5.0
+245.54,25.0,180.0,1.0,985.0600000000001,Atlanta,Austin,Atlanta,Fresno,3.0
+254.37000000000003,51.0,174.0,1.0,8849.26,Albuquerque,Austin,Albuquerque,Austin,0.0
+213.76,78.0,282.0,1.0,3528.72,Albuquerque,Albuquerque,Atlanta,Oklahoma City,8.0
+327.86,40.0,104.0,1.0,480.16,Atlanta,Austin,Atlanta,Boston,0.0
+2.5,47.0,107.0,1.0,12145.27,Atlanta,Atlanta,Atlanta,Fresno,3.0
+300.08,68.0,47.0,1.0,13546.75,Atlanta,Albuquerque,Austin,Houston,7.0
+56.98,43.0,122.0,2.0,5688.37,Albuquerque,Austin,Albuquerque,Detroit,3.0
+407.65,26.0,61.99999999999999,1.0,8346.64,Atlanta,Austin,Baltimore,Detroit,3.0
+115.83,39.0,167.0,1.0,6481.04,Atlanta,Austin,Atlanta,Portland,4.0
+53.57,69.0,121.0,1.0,1651.33,Atlanta,Albuquerque,Austin,Washington,2.0
+63.34,46.0,165.0,1.0,11174.94,Atlanta,Atlanta,Albuquerque,Philadelphia,4.0
+317.87,27.0,91.0,1.0,145.5,Atlanta,Austin,Baltimore,Tucson,2.0
+331.65,41.0,61.00000000000001,1.0,4172.57,Atlanta,Atlanta,Atlanta,Oklahoma City,8.0
+5.04,56.0,41.0,1.0,5558.36,Albuquerque,Atlanta,Austin,San Antonio,6.0
+214.54,70.0,247.0,1.0,11151.53,Atlanta,Austin,Atlanta,Louisville,1.0
+598.81,57.0,158.0,1.0,1415.52,Albuquerque,Atlanta,Baltimore,Los Angeles,1.0
+841.28,26.0,80.0,1.0,1103.64,Atlanta,Albuquerque,Albuquerque,Albuquerque,0.0
+38.15,26.0,107.99999999999999,1.0,303.68,Atlanta,Albuquerque,Albuquerque,Milwaukee,8.0
+1036.66,58.0,144.0,1.0,5541.57,Atlanta,Atlanta,Baltimore,San Antonio,6.0
+124.72,33.0,105.0,1.0,6309.8,Atlanta,Austin,Baltimore,Chicago,5.0
+302.45,78.0,40.0,1.0,5133.61,Atlanta,Austin,Albuquerque,Chicago,5.0
+208.04,47.0,273.0,1.0,9344.98,Atlanta,Albuquerque,Baltimore,Charlotte,5.0
+5.77,23.0,254.0,1.0,1117.97,Albuquerque,Austin,Austin,Oklahoma City,8.0
+381.33,56.0,75.0,1.0,11835.35,Albuquerque,Atlanta,Austin,Jacksonville,7.0
+16.16,50.0,123.99999999999999,1.0,14401.17,Atlanta,Albuquerque,Baltimore,Los Angeles,1.0
+486.0799999999999,18.0,68.00000000000001,1.0,1748.69,Atlanta,Atlanta,Austin,Sacramento,6.0
+336.39,21.0,18.0,1.0,1000.46,Atlanta,Austin,Albuquerque,New York,8.0
+997.4299999999998,69.0,118.0,1.0,6810.05,Atlanta,Albuquerque,Albuquerque,Memphis,1.0
+234.57,23.0,120.0,1.0,263.98,Atlanta,Austin,Austin,Philadelphia,4.0
+6.0,30.0,246.0,1.0,5442.76,Atlanta,Austin,Austin,Virginia Beach,2.0
+1049.92,80.0,21.000000000000004,1.0,2037.85,Albuquerque,Atlanta,Atlanta,Albuquerque,0.0
+227.14,18.0,294.0,1.0,341.94,Atlanta,Austin,Baltimore,San Antonio,6.0
+233.74,66.0,17.0,1.0,1066.59,Atlanta,Atlanta,Albuquerque,San Francisco,6.0
+45.85,20.0,91.99999999999999,1.0,1659.15,Atlanta,Albuquerque,Atlanta,Tucson,2.0
+973.3899999999999,77.0,296.0,1.0,2042.22,Albuquerque,Austin,Atlanta,Seattle,2.0
+415.5,66.0,141.0,1.0,10113.66,Albuquerque,Austin,Baltimore,New York,8.0
+265.76,54.0,91.99999999999999,1.0,4446.17,Albuquerque,Atlanta,Albuquerque,Memphis,1.0
+69.4,80.0,113.0,1.0,6452.77,Atlanta,Atlanta,Baltimore,Charlotte,5.0
+332.93,35.0,293.0,1.0,2788.2,Atlanta,Austin,Albuquerque,Washington,2.0
+267.9,20.0,160.0,1.0,596.1599999999999,Albuquerque,Austin,Albuquerque,Louisville,1.0
+496.0299999999999,61.0,265.0,1.0,12904.66,Atlanta,Atlanta,Albuquerque,Detroit,3.0
+376.26,37.0,245.0,1.0,9062.4,Albuquerque,Atlanta,Austin,Tucson,2.0
+83.02,36.0,171.0,1.0,9009.56,Atlanta,Atlanta,Albuquerque,Nashville,8.0
+93.26,20.0,72.0,1.0,1152.2,Atlanta,Atlanta,Austin,Kansas City,7.0
+803.37,68.0,129.0,1.0,12168.37,Atlanta,Albuquerque,Atlanta,Memphis,1.0
+35.76,23.0,122.0,1.0,611.8599999999999,Atlanta,Atlanta,Austin,Baltimore,0.0
+28.53,62.0,99.0,1.0,8670.53,Albuquerque,Austin,Austin,Chicago,5.0
+139.53,53.0,177.0,1.0,10098.86,Atlanta,Atlanta,Atlanta,Houston,7.0
+307.57,33.0,285.0,1.0,5307.74,Atlanta,Albuquerque,Baltimore,Detroit,3.0
+60.650000000000006,56.0,53.00000000000001,1.0,1047.28,Atlanta,Austin,Austin,Chicago,5.0
+74.86,70.0,125.0,1.0,6921.48,Atlanta,Atlanta,Baltimore,Denver,3.0
+231.91,34.0,165.0,1.0,112.76,Atlanta,Atlanta,Baltimore,Portland,4.0
+126.20999999999998,75.0,268.0,1.0,5669.66,Atlanta,Albuquerque,Atlanta,El Paso,3.0
+506.28,53.0,162.0,2.0,1309.95,Atlanta,Albuquerque,Baltimore,Baltimore,0.0
+304.35,31.0,36.0,1.0,4057.1,Atlanta,Austin,Austin,Phoenix,4.0
+281.85,22.0,109.0,1.0,1585.98,Albuquerque,Austin,Atlanta,Philadelphia,4.0
+777.88,31.0,17.0,1.0,6825.55,Atlanta,Atlanta,Austin,Jacksonville,7.0
+119.18,56.0,96.0,1.0,5516.5,Albuquerque,Atlanta,Baltimore,Virginia Beach,2.0
+177.19,76.0,43.0,1.0,5343.3,Atlanta,Albuquerque,Albuquerque,Las Vegas,7.0
+260.88,22.0,36.0,1.0,903.05,Atlanta,Albuquerque,Atlanta,Portland,4.0
+169.47,24.0,18.999999999999996,1.0,1806.16,Atlanta,Austin,Austin,Jacksonville,7.0
+73.23,26.0,14.0,1.0,787.7399999999999,Atlanta,Albuquerque,Austin,Mesa,1.0
+1362.55,29.0,106.0,1.0,2429.68,Albuquerque,Albuquerque,Atlanta,Philadelphia,4.0
+792.57,19.0,164.0,1.0,770.37,Atlanta,Albuquerque,Albuquerque,Los Angeles,1.0
+237.06,71.0,45.99999999999999,1.0,1182.77,Atlanta,Atlanta,Austin,Washington,2.0
+34.17,54.0,53.99999999999999,1.0,726.55,Austin,Atlanta,Albuquerque,Louisville,1.0
+740.25,41.0,123.0,1.0,14464.3,Albuquerque,Atlanta,Albuquerque,Las Vegas,7.0
+453.54,58.0,82.0,1.0,12046.3,Albuquerque,Austin,Baltimore,Virginia Beach,2.0
+300.47,73.0,100.00000000000001,1.0,7885.64,Atlanta,Atlanta,Atlanta,Jacksonville,7.0
+110.93,19.0,201.0,1.0,1952.3499999999997,Albuquerque,Atlanta,Albuquerque,Los Angeles,1.0
+201.69,59.0,299.0,1.0,7328.52,Austin,Atlanta,Austin,Colorado Springs,5.0
+399.21,59.0,109.0,1.0,3210.39,Atlanta,Atlanta,Austin,Tucson,2.0
+1041.88,78.0,57.0,1.0,5726.2,Atlanta,Austin,Austin,Detroit,3.0
+630.36,62.0,52.00000000000001,1.0,1363.65,Atlanta,Atlanta,Austin,Colorado Springs,5.0
+10.94,60.0,245.0,1.0,1241.99,Atlanta,Austin,Albuquerque,Atlanta,0.0
+215.9,38.0,235.0,1.0,7873.280000000001,Atlanta,Atlanta,Atlanta,Tucson,2.0
+1422.55,79.0,165.0,1.0,5674.32,Atlanta,Atlanta,Austin,Seattle,2.0
+226.37,49.0,141.0,1.0,9840.04,Atlanta,Atlanta,Atlanta,Memphis,1.0
+444.89,43.0,101.0,1.0,10328.23,Atlanta,Albuquerque,Austin,Denver,3.0
+280.57,25.0,24.0,1.0,293.24,Atlanta,Albuquerque,Atlanta,Oklahoma City,8.0
+488.54,52.0,132.0,1.0,7486.63,Atlanta,Albuquerque,Atlanta,Houston,7.0
+3.3,50.0,131.0,1.0,11385.37,Atlanta,Albuquerque,Albuquerque,Kansas City,7.0
+199.39,69.0,165.0,1.0,7264.79,Albuquerque,Albuquerque,Austin,Raleigh,6.0
+20.36,62.0,75.0,1.0,2762.48,Atlanta,Albuquerque,Albuquerque,Portland,4.0
+493.11,53.0,236.0,1.0,7432.99,Austin,Albuquerque,Albuquerque,El Paso,3.0
+307.41,19.0,14.0,1.0,1057.0,Atlanta,Albuquerque,Austin,Milwaukee,8.0
+11.18,43.0,161.0,1.0,5956.89,Albuquerque,Baltimore,Albuquerque,Detroit,3.0
+313.82,59.0,151.0,1.0,7261.59,Atlanta,Albuquerque,Baltimore,Atlanta,0.0
+140.98,60.0,100.00000000000001,1.0,8127.4800000000005,Atlanta,Atlanta,Austin,Philadelphia,4.0
+288.04,68.0,63.0,1.0,1748.02,Atlanta,Albuquerque,Albuquerque,Fort Worth,3.0
+800.55,31.0,107.99999999999999,1.0,9660.22,Albuquerque,Austin,Atlanta,Las Vegas,7.0
+485.54,46.0,143.0,1.0,6371.51,Atlanta,Albuquerque,Albuquerque,Omaha,4.0
+521.15,54.0,214.0,1.0,9442.47,Atlanta,Atlanta,Albuquerque,Charlotte,5.0
+304.93,65.0,158.0,1.0,13531.22,Atlanta,Austin,Atlanta,Virginia Beach,2.0
+432.08,40.0,145.0,1.0,11500.62,Atlanta,Albuquerque,Atlanta,Chicago,5.0
+694.2,61.0,72.0,1.0,1389.37,Atlanta,Atlanta,Albuquerque,San Diego,6.0
+116.86,55.0,171.0,1.0,6706.56,Atlanta,Albuquerque,Baltimore,Boston,0.0
+74.88,25.0,202.0,1.0,420.67,Atlanta,Albuquerque,Albuquerque,Oklahoma City,8.0
+890.24,33.0,161.0,1.0,5140.93,Atlanta,Atlanta,Albuquerque,Phoenix,4.0
+361.27,63.0,180.0,1.0,7945.57,Albuquerque,Atlanta,Atlanta,Denver,3.0
+131.56,44.0,42.00000000000001,1.0,5873.54,Atlanta,Albuquerque,Albuquerque,San Jose,2.0
+485.51,76.0,37.0,1.0,3074.45,Albuquerque,Albuquerque,Austin,Milwaukee,8.0
+547.87,64.0,131.0,1.0,6155.76,Austin,Atlanta,Albuquerque,Virginia Beach,2.0
+457.3,28.0,15.0,1.0,8318.29,Albuquerque,Austin,Austin,Fort Worth,3.0
+506.24,58.0,64.0,1.0,230.09,Albuquerque,Austin,Atlanta,Louisville,1.0
+486.59,57.0,119.0,1.0,2513.56,Atlanta,Baltimore,Albuquerque,Las Vegas,7.0
+163.68,41.0,292.0,1.0,10090.05,Atlanta,Atlanta,Atlanta,Portland,4.0
+581.65,22.0,176.0,1.0,480.19000000000005,Atlanta,Albuquerque,Baltimore,Nashville,8.0
+52.01,48.0,85.0,1.0,1120.88,Albuquerque,Austin,Atlanta,Memphis,1.0
+630.24,21.0,61.99999999999999,1.0,370.81,Atlanta,Atlanta,Austin,Louisville,1.0
+523.74,43.0,159.0,1.0,13498.55,Albuquerque,Atlanta,Austin,Atlanta,0.0
+705.6,40.0,123.99999999999999,3.0,14804.7,Atlanta,Atlanta,Baltimore,Philadelphia,4.0
+217.5,46.0,35.0,1.0,3057.4,Atlanta,Austin,Baltimore,Fresno,3.0
+91.48,51.0,141.0,1.0,14942.779999999999,Albuquerque,Austin,Albuquerque,Virginia Beach,2.0
+5.25,39.0,49.0,1.0,14143.32,Atlanta,Austin,Atlanta,Phoenix,4.0
+54.03,56.0,161.0,1.0,6736.3,Albuquerque,Atlanta,Atlanta,Houston,7.0
+736.73,48.0,10.0,1.0,3313.07,Atlanta,Atlanta,Austin,San Francisco,6.0
+368.91,54.0,14.0,1.0,829.7099999999999,Atlanta,Albuquerque,Baltimore,Seattle,2.0
+33.06,53.0,170.0,1.0,1540.87,Atlanta,Austin,Baltimore,Atlanta,0.0
+66.5,32.0,144.0,1.0,6820.23,Albuquerque,Atlanta,Albuquerque,Kansas City,7.0
+177.08,35.0,85.0,1.0,13475.14,Atlanta,Austin,Albuquerque,,2.0
+588.54,32.0,130.0,1.0,714.4499999999999,Atlanta,Austin,Baltimore,San Jose,2.0
+173.5,21.0,282.0,1.0,1306.91,Albuquerque,Atlanta,Atlanta,Portland,4.0
+78.33,56.0,189.0,1.0,7255.33,Atlanta,Albuquerque,Atlanta,Los Angeles,1.0
+40.66,59.0,156.0,1.0,1153.84,Albuquerque,Austin,Baltimore,Seattle,2.0
+97.22,77.0,55.0,1.0,6647.73,Atlanta,Atlanta,Atlanta,Louisville,1.0
+34.07,22.0,81.0,1.0,8709.77,Atlanta,Albuquerque,Atlanta,Fort Worth,3.0
+492.06000000000006,23.0,74.0,1.0,857.9,Albuquerque,Austin,Austin,Charlotte,5.0
+842.01,53.0,185.0,1.0,509.45000000000005,Albuquerque,Austin,Atlanta,Washington,2.0
+73.55,51.0,158.0,1.0,2812.06,Atlanta,Atlanta,Austin,Denver,3.0
+760.53,57.0,118.0,1.0,6179.91,Atlanta,Austin,Austin,San Francisco,6.0
+371.69,67.0,143.0,1.0,3484.32,Atlanta,Albuquerque,Atlanta,San Jose,2.0
+218.96,18.0,13.0,1.0,754.21,Atlanta,Austin,Baltimore,El Paso,3.0
+227.39,18.0,65.0,1.0,751.09,Atlanta,Austin,Albuquerque,Baltimore,0.0
+237.99,39.0,86.0,1.0,8510.09,Albuquerque,Albuquerque,Atlanta,Kansas City,7.0
+186.6,58.0,13.0,1.0,1508.72,Atlanta,Atlanta,Albuquerque,New York,8.0
+341.15,18.0,148.0,1.0,511.36999999999995,Atlanta,Austin,Austin,Denver,3.0
+434.58,59.0,215.0,1.0,12648.32,Atlanta,Atlanta,Austin,Fresno,3.0
+312.88,54.0,44.0,1.0,233.21,Atlanta,Albuquerque,Austin,Raleigh,6.0
+75.15,23.0,154.0,1.0,1092.92,Atlanta,Atlanta,Atlanta,Washington,2.0
+23.3,59.0,161.0,1.0,6711.15,Atlanta,Albuquerque,Atlanta,Seattle,2.0
+47.38,25.0,61.00000000000001,1.0,459.37,Atlanta,Austin,Baltimore,Philadelphia,4.0
+512.81,79.0,30.0,1.0,6994.34,Albuquerque,Austin,Baltimore,San Antonio,6.0
+488.15000000000003,43.0,168.00000000000003,1.0,7071.09,Albuquerque,Atlanta,Albuquerque,Philadelphia,4.0
+12.82,44.0,156.0,1.0,9045.19,Atlanta,Baltimore,Albuquerque,San Diego,6.0
+66.9,79.0,129.0,4.0,5238.71,Atlanta,Atlanta,Austin,Miami,8.0
+535.91,43.0,22.0,1.0,9642.12,Albuquerque,Atlanta,Albuquerque,New York,8.0
+270.72,26.0,53.00000000000001,1.0,6263.96,Albuquerque,Austin,Baltimore,San Francisco,6.0
+97.98,72.0,18.0,1.0,7460.329999999999,Atlanta,Atlanta,Baltimore,Virginia Beach,2.0
+196.08,61.0,98.0,1.0,4233.82,Atlanta,Austin,Baltimore,Omaha,4.0
+251.18000000000004,42.0,246.0,1.0,8303.9,Atlanta,Albuquerque,Austin,Las Vegas,7.0
+44.52,28.0,205.0,1.0,314.28,Atlanta,Austin,Austin,Dallas,5.0
+178.87,35.0,180.0,1.0,5241.23,Atlanta,Albuquerque,Atlanta,Phoenix,4.0
+1176.28,54.0,174.0,5.0,323.69,Atlanta,Albuquerque,Austin,San Francisco,6.0
+386.68,46.0,128.0,1.0,6863.06,Atlanta,Atlanta,Baltimore,Oklahoma City,8.0
+167.14,76.0,20.0,1.0,3877.7299999999996,Albuquerque,Atlanta,Atlanta,Fort Worth,3.0
+345.22,69.0,253.0,1.0,4046.5800000000004,Albuquerque,Austin,Atlanta,Houston,7.0
+74.85,72.0,117.0,1.0,2409.73,Atlanta,Austin,Baltimore,Phoenix,4.0
+671.73,58.0,53.99999999999999,1.0,5211.88,Atlanta,Austin,Baltimore,Nashville,8.0
+255.03999999999996,45.0,151.99999999999997,1.0,6217.86,Atlanta,Atlanta,Austin,Virginia Beach,2.0
+45.77,25.0,109.0,1.0,5978.12,Atlanta,Atlanta,Albuquerque,Columbus,5.0
+329.69,26.0,66.0,1.0,1671.66,Atlanta,Austin,Atlanta,Oklahoma City,8.0
+362.04,58.0,198.0,2.0,8421.88,Atlanta,Atlanta,Albuquerque,Dallas,5.0
+11.92,53.0,52.00000000000001,1.0,14611.9,Atlanta,Atlanta,Albuquerque,Los Angeles,1.0
+47.42,64.0,28.0,1.0,8253.52,Atlanta,Atlanta,Baltimore,San Jose,2.0
+35.99,63.0,129.0,1.0,4489.79,Atlanta,Albuquerque,Baltimore,Colorado Springs,5.0
+151.19,37.0,96.0,1.0,11903.82,Atlanta,Austin,Austin,Louisville,1.0
+242.62,22.0,234.0,1.0,483.02000000000004,Atlanta,Atlanta,Baltimore,Raleigh,6.0
+48.72,21.0,17.0,1.0,816.0799999999999,Atlanta,Albuquerque,Austin,Oklahoma City,8.0
+43.46,25.0,80.0,1.0,578.06,Atlanta,Atlanta,Albuquerque,Jacksonville,7.0
+1036.21,25.0,126.0,1.0,477.3,Atlanta,Albuquerque,Austin,Chicago,5.0
+443.79,53.0,87.0,1.0,3133.85,Atlanta,Austin,Atlanta,Kansas City,7.0
+365.14,68.0,57.0,1.0,5894.09,Atlanta,Atlanta,Atlanta,Philadelphia,4.0
+757.41,22.0,37.0,1.0,9532.42,Atlanta,Atlanta,Atlanta,Atlanta,0.0
+20.54,51.0,72.0,1.0,5327.03,Atlanta,Albuquerque,Baltimore,Indianapolis,7.0
+475.36,34.0,105.0,1.0,2000.6,Atlanta,Albuquerque,Atlanta,Detroit,3.0
+34.74,56.0,24.0,1.0,6827.57,Atlanta,Austin,Austin,Washington,2.0
+689.54,27.0,93.0,1.0,1633.76,Atlanta,Atlanta,Baltimore,Nashville,8.0
+211.18,73.0,90.0,1.0,4069.1699999999996,Atlanta,Atlanta,Albuquerque,Atlanta,0.0
+211.36,51.0,286.0,1.0,7943.469999999999,Atlanta,Austin,Atlanta,San Antonio,6.0
+744.41,39.0,107.0,1.0,8842.47,Atlanta,Atlanta,Atlanta,Los Angeles,1.0
+61.43,24.0,170.0,1.0,1882.77,Atlanta,Atlanta,Atlanta,San Jose,2.0
+167.44,37.0,82.0,1.0,12526.71,Atlanta,Atlanta,Austin,Nashville,8.0
+361.46,21.0,83.0,1.0,4737.84,Atlanta,Albuquerque,Atlanta,Miami,8.0
+378.85,78.0,126.0,1.0,2300.53,Atlanta,Atlanta,Atlanta,Colorado Springs,5.0
+241.10999999999999,30.0,55.0,1.0,12385.05,Atlanta,Austin,Baltimore,Boston,0.0
+131.93,31.0,13.0,1.0,4547.06,Atlanta,Albuquerque,Albuquerque,Colorado Springs,5.0
+20.28,36.0,213.0,1.0,2047.83,Atlanta,Albuquerque,Atlanta,Mesa,1.0
+415.88,70.0,170.0,1.0,10008.33,Atlanta,Austin,Albuquerque,Colorado Springs,5.0
+1221.65,27.0,153.0,1.0,243.92,Atlanta,Albuquerque,Baltimore,Chicago,5.0
+100.66,50.0,144.0,1.0,14473.33,Atlanta,Atlanta,Austin,Austin,0.0
+485.54,19.0,148.0,1.0,1533.32,Albuquerque,Austin,Albuquerque,Oklahoma City,8.0
+321.15,46.0,179.0,1.0,7005.05,Atlanta,Albuquerque,Austin,Colorado Springs,5.0
+711.3,21.0,51.00000000000001,1.0,955.4,Austin,Albuquerque,Atlanta,Raleigh,6.0
+12.23,42.0,139.0,1.0,7844.880000000001,Atlanta,Albuquerque,Austin,Fresno,3.0
+350.94,20.0,64.0,1.0,221.56,Albuquerque,Atlanta,Albuquerque,Dallas,5.0
+301.85,54.0,25.000000000000004,1.0,6586.19,Atlanta,Austin,Baltimore,Albuquerque,0.0
+29.34,65.0,30.0,1.0,3944.82,Atlanta,Albuquerque,Albuquerque,Atlanta,0.0
+231.71,27.0,148.0,1.0,1127.98,Atlanta,Atlanta,Albuquerque,El Paso,3.0
+179.43,58.0,244.0,1.0,2626.63,Atlanta,Austin,Albuquerque,Oklahoma City,8.0
+36.71,48.0,55.0,1.0,6459.38,Atlanta,Albuquerque,Albuquerque,Austin,0.0
+138.12,53.0,281.0,1.0,1649.69,Albuquerque,Albuquerque,Baltimore,Phoenix,4.0
+233.24,33.0,72.0,1.0,6939.23,Atlanta,Atlanta,Atlanta,Phoenix,4.0
+609.14,39.0,177.0,1.0,9033.87,Albuquerque,Austin,Atlanta,Denver,3.0
+436.64,31.0,111.0,1.0,14365.18,Atlanta,Atlanta,Austin,New York,8.0
+870.43,29.0,55.0,1.0,10115.18,Atlanta,Austin,Austin,Los Angeles,1.0
+354.4,74.0,128.0,1.0,7358.65,Atlanta,Albuquerque,Baltimore,San Antonio,6.0
+22.63,53.0,112.0,1.0,4438.03,Atlanta,Austin,Atlanta,El Paso,3.0
+182.19,26.0,53.00000000000001,1.0,1176.1,Atlanta,Albuquerque,Albuquerque,Seattle,2.0
+126.81,26.0,290.0,1.0,5427.98,Atlanta,Albuquerque,Baltimore,Omaha,4.0
+288.17,37.0,50.00000000000001,1.0,3653.11,Albuquerque,Austin,Baltimore,San Jose,2.0
+118.77,55.0,123.0,1.0,2104.82,Atlanta,Atlanta,Austin,Columbus,5.0
+651.82,21.0,166.0,1.0,1802.77,Atlanta,Austin,Baltimore,Jacksonville,7.0
+66.65,37.0,33.0,1.0,3559.96,Albuquerque,Baltimore,Albuquerque,Sacramento,6.0
+98.53,69.0,166.0,1.0,3564.8,Atlanta,Albuquerque,Atlanta,Colorado Springs,5.0
+138.95,71.0,30.0,1.0,6752.92,Atlanta,Albuquerque,Albuquerque,Louisville,1.0
+33.89,26.0,177.0,1.0,1444.75,Atlanta,Atlanta,Austin,Raleigh,6.0
+23.71,58.0,164.0,1.0,10788.89,Albuquerque,Atlanta,Albuquerque,Tucson,2.0
+1830.0,55.0,238.0,1.0,2235.7,Albuquerque,Albuquerque,Albuquerque,Omaha,4.0
+26.06,65.0,283.0,1.0,12893.63,Albuquerque,Albuquerque,Baltimore,San Antonio,6.0
+17.07,27.0,44.0,1.0,2798.15,Atlanta,Albuquerque,Baltimore,San Francisco,6.0
+703.89,46.0,61.99999999999999,1.0,3583.67,Atlanta,Atlanta,Boston,Dallas,5.0
+1271.9,47.0,155.0,1.0,2120.8,Atlanta,Atlanta,Austin,Oklahoma City,8.0
+26.55,77.0,228.0,1.0,3085.38,Atlanta,Baltimore,Atlanta,Kansas City,7.0
+147.4,42.0,259.0,1.0,6797.71,Albuquerque,Austin,Albuquerque,Albuquerque,0.0
+202.11,27.0,18.0,1.0,746.47,Atlanta,Albuquerque,Austin,El Paso,3.0
+308.42,75.0,39.0,1.0,5427.81,Atlanta,Atlanta,Atlanta,New York,8.0
+11.18,53.0,144.0,1.0,7467.300000000001,Atlanta,Austin,Baltimore,Colorado Springs,5.0
+294.15,38.0,136.0,1.0,6362.16,Atlanta,Austin,Albuquerque,Virginia Beach,2.0
+139.45,27.0,30.999999999999996,1.0,1305.76,Atlanta,Albuquerque,Austin,Philadelphia,4.0
+432.63,29.0,137.0,1.0,13648.36,Atlanta,Austin,Atlanta,Houston,7.0
+131.43,43.0,65.0,1.0,1337.5,Albuquerque,Atlanta,Atlanta,Boston,0.0
+516.72,42.0,128.0,1.0,2015.6900000000003,Albuquerque,Atlanta,Baltimore,Denver,3.0
+121.82000000000001,69.0,123.0,3.0,8354.54,Atlanta,Atlanta,Atlanta,Raleigh,6.0
+374.5,26.0,178.0,1.0,1671.51,Albuquerque,Austin,Austin,Omaha,4.0
+166.13,68.0,227.0,1.0,11822.53,Atlanta,Austin,Albuquerque,Sacramento,6.0
+626.9,23.0,146.0,1.0,587.1099999999999,Albuquerque,Atlanta,Atlanta,Austin,0.0
+466.85,56.0,165.0,1.0,5422.53,Atlanta,Atlanta,Atlanta,Albuquerque,0.0
+788.84,58.0,231.0,1.0,1913.73,Atlanta,Atlanta,Austin,Phoenix,4.0
+525.28,69.0,134.0,1.0,4693.6,Atlanta,Austin,Baltimore,Miami,8.0
+110.17,30.0,137.0,1.0,464.2,Albuquerque,Albuquerque,Austin,Sacramento,6.0
+632.69,80.0,75.99999999999999,1.0,4363.74,Atlanta,Atlanta,Baltimore,Boston,0.0
+124.35,72.0,90.0,1.0,3319.76,Atlanta,Albuquerque,Baltimore,El Paso,3.0
+43.85,62.0,122.0,1.0,4356.98,Atlanta,Albuquerque,Atlanta,Milwaukee,8.0
+283.81,28.0,29.000000000000004,1.0,1519.35,Atlanta,Austin,Austin,Austin,0.0
+168.53,71.0,112.0,1.0,5962.58,Atlanta,Albuquerque,Albuquerque,Charlotte,5.0
+218.59,40.0,123.0,1.0,6699.23,Atlanta,Austin,Atlanta,Philadelphia,4.0
+132.84,21.0,143.0,1.0,822.73,Albuquerque,Atlanta,Austin,Nashville,8.0
+157.37,42.0,289.0,1.0,13964.31,Atlanta,Atlanta,Austin,Milwaukee,8.0
+144.77,20.0,159.0,1.0,867.3199999999999,Atlanta,Austin,Boston,Detroit,3.0
+643.22,64.0,93.0,1.0,1035.86,Atlanta,Austin,Austin,Atlanta,0.0
+1392.54,41.0,297.0,1.0,13347.69,Austin,Albuquerque,Baltimore,Omaha,4.0
+208.07,32.0,36.0,1.0,8478.9,Atlanta,Austin,Austin,Kansas City,7.0
+295.5,59.0,36.0,1.0,6280.66,Atlanta,Albuquerque,Baltimore,San Jose,2.0
+30.229999999999997,44.0,99.0,1.0,481.13,Atlanta,Albuquerque,Albuquerque,Fresno,3.0
+112.05,26.0,159.0,1.0,1122.88,Atlanta,Albuquerque,Baltimore,Fort Worth,3.0
+180.24,58.0,144.0,1.0,8431.23,Albuquerque,Austin,Atlanta,,2.0
+13.71,38.0,148.0,1.0,8342.79,Atlanta,Albuquerque,Austin,Virginia Beach,2.0
+96.54,58.0,95.0,1.0,7182.22,Atlanta,Albuquerque,Atlanta,Columbus,5.0
+79.35,67.0,70.0,1.0,1692.15,Albuquerque,Austin,Austin,Colorado Springs,5.0
+101.04,27.0,160.0,1.0,1695.57,Albuquerque,Atlanta,Baltimore,Raleigh,6.0
+74.42,49.0,68.00000000000001,1.0,6264.21,Albuquerque,Albuquerque,Atlanta,Raleigh,6.0
+39.66,52.0,169.0,1.0,8497.34,Atlanta,Austin,Austin,New York,8.0
+99.36,40.0,45.99999999999999,1.0,1272.12,Albuquerque,Atlanta,Austin,Fresno,3.0
+123.85,56.0,244.0,1.0,3959.62,Atlanta,Albuquerque,Atlanta,Nashville,8.0
+426.93,19.0,247.99999999999997,1.0,476.18999999999994,Atlanta,Austin,Albuquerque,Milwaukee,8.0
+133.73,25.0,123.0,1.0,1872.2200000000003,Atlanta,Austin,Atlanta,Detroit,3.0
+222.39,49.0,73.0,1.0,3117.39,Albuquerque,Atlanta,Austin,Philadelphia,4.0
+215.94,22.0,140.0,1.0,1841.69,Atlanta,Atlanta,Baltimore,Columbus,5.0
+6.3,80.0,283.0,5.0,7697.680000000001,Austin,Atlanta,Albuquerque,Tucson,2.0
+826.23,29.0,209.0,1.0,7580.590000000001,Atlanta,Atlanta,Atlanta,Denver,3.0
+131.46,67.0,258.0,1.0,6642.33,Atlanta,Austin,Austin,Raleigh,6.0
+202.86,61.0,149.0,1.0,7642.250000000001,Atlanta,Albuquerque,Atlanta,Omaha,4.0
+268.39,26.0,171.0,1.0,136.74,Albuquerque,Baltimore,Albuquerque,San Antonio,6.0
+194.85,23.0,130.0,4.0,319.84,Albuquerque,Austin,Albuquerque,Fresno,3.0
+137.35,40.0,220.0,1.0,12662.66,Austin,Atlanta,Atlanta,Baltimore,0.0
+712.75,44.0,25.000000000000004,1.0,8126.0599999999995,Albuquerque,Atlanta,Baltimore,Nashville,8.0
+353.82,42.0,143.0,1.0,705.7499999999999,Atlanta,Albuquerque,Boston,,2.0
+212.74,27.0,128.0,1.0,7645.469999999999,Atlanta,Albuquerque,Atlanta,San Diego,6.0
+364.42,51.0,146.0,1.0,8119.73,Atlanta,Austin,Atlanta,Miami,8.0
+195.12,46.0,144.0,1.0,6101.15,Atlanta,Austin,Atlanta,San Francisco,6.0
+230.61,80.0,204.0,1.0,2561.42,Atlanta,Albuquerque,Austin,Kansas City,7.0
+739.28,58.0,47.0,1.0,11905.64,Albuquerque,Atlanta,Austin,Detroit,3.0
+390.35,64.0,61.00000000000001,1.0,7095.88,Atlanta,Atlanta,Albuquerque,Chicago,5.0
+242.03000000000003,58.0,123.99999999999999,1.0,4382.73,Atlanta,Austin,Atlanta,Mesa,1.0
+242.39000000000001,18.0,271.0,1.0,1328.73,Atlanta,Austin,Austin,Milwaukee,8.0
+135.03,23.0,180.0,1.0,1278.0,Albuquerque,Austin,Baltimore,Omaha,4.0
+83.5,61.0,91.0,5.0,1749.79,Atlanta,Albuquerque,Baltimore,Mesa,1.0
+193.54,80.0,267.0,1.0,2929.51,Atlanta,Albuquerque,Albuquerque,El Paso,3.0
+617.36,29.0,61.00000000000001,1.0,8926.38,Atlanta,Austin,Atlanta,Tucson,2.0
+775.23,59.0,37.99999999999999,1.0,5977.59,Albuquerque,Austin,Boston,Charlotte,5.0
+266.57,72.0,100.00000000000001,1.0,7676.92,Atlanta,Baltimore,Austin,Colorado Springs,5.0
+153.4,45.0,144.0,1.0,4657.7,Atlanta,Austin,Atlanta,Chicago,5.0
+946.94,53.0,251.0,1.0,5579.11,Albuquerque,Austin,Atlanta,Nashville,8.0
+5.12,34.0,90.0,1.0,3293.01,Albuquerque,Albuquerque,Atlanta,Chicago,5.0
+119.11,57.0,131.0,1.0,7998.25,Albuquerque,Atlanta,Baltimore,San Diego,6.0
+1096.7,24.0,147.0,1.0,1093.89,Atlanta,Atlanta,Albuquerque,Washington,2.0
+119.72,30.0,123.0,1.0,3435.34,Atlanta,Albuquerque,Albuquerque,Phoenix,4.0
+107.4,58.0,32.0,1.0,344.07,Atlanta,Albuquerque,Albuquerque,Indianapolis,7.0
+115.92,53.0,57.0,1.0,3897.17,Atlanta,Atlanta,Baltimore,Austin,0.0
+438.04,67.0,247.0,1.0,5358.95,Albuquerque,Albuquerque,Atlanta,Detroit,3.0
+677.29,27.0,287.0,1.0,627.79,Atlanta,Austin,Albuquerque,Jacksonville,7.0
+296.0,35.0,247.99999999999997,1.0,7418.82,Atlanta,Atlanta,Albuquerque,Austin,0.0
+299.09,36.0,84.00000000000001,1.0,5615.26,Albuquerque,Atlanta,Baltimore,Fort Worth,3.0
+461.52,24.0,44.0,1.0,1995.1799999999998,Albuquerque,Atlanta,Austin,Virginia Beach,2.0
+100.52,50.0,110.0,1.0,453.39,Atlanta,Albuquerque,Albuquerque,Tucson,2.0
+85.35,66.0,166.0,1.0,2173.76,Atlanta,Austin,Atlanta,Fort Worth,3.0
+79.76,39.0,170.0,1.0,6452.14,Albuquerque,Atlanta,Baltimore,Baltimore,0.0
+778.49,75.0,107.0,1.0,7713.67,Atlanta,Albuquerque,Albuquerque,Denver,3.0
+386.38,42.0,135.0,1.0,5528.36,Albuquerque,Austin,Austin,Los Angeles,1.0
+165.25,35.0,106.0,1.0,9939.94,Albuquerque,Albuquerque,Atlanta,Baltimore,0.0
+14.29,34.0,150.0,1.0,7016.99,Albuquerque,Atlanta,Atlanta,Sacramento,6.0
+232.79,55.0,145.0,1.0,2661.3,Albuquerque,Austin,Atlanta,El Paso,3.0
+1237.56,60.0,159.0,1.0,9410.17,Atlanta,Albuquerque,Austin,Seattle,2.0
+293.97,68.0,153.0,1.0,7371.85,Atlanta,Austin,Albuquerque,Fresno,3.0
+136.32,19.0,113.0,1.0,264.83,Atlanta,Albuquerque,Baltimore,Dallas,5.0
+251.06,36.0,34.0,1.0,10001.66,Atlanta,Albuquerque,Austin,Charlotte,5.0
+50.17,77.0,35.0,1.0,7752.140000000001,Atlanta,Austin,Atlanta,Memphis,1.0
+21.4,34.0,258.0,1.0,9594.11,Atlanta,Albuquerque,Albuquerque,San Antonio,6.0
+73.28,21.0,21.000000000000004,1.0,1329.41,Atlanta,Austin,Albuquerque,Louisville,1.0
+70.23,38.0,260.0,1.0,11624.93,Albuquerque,Atlanta,Baltimore,Tucson,2.0
+689.29,22.0,100.00000000000001,1.0,168.84,Atlanta,Albuquerque,Boston,Milwaukee,8.0
+745.03,28.0,231.0,1.0,160.57,Atlanta,Atlanta,Atlanta,Dallas,5.0
+54.61,58.0,160.0,1.0,7135.64,Atlanta,Atlanta,Atlanta,Charlotte,5.0
+54.05,27.0,146.0,1.0,469.13999999999993,Atlanta,Albuquerque,Boston,Oklahoma City,8.0
+107.47,67.0,144.0,1.0,7517.499999999999,Atlanta,Austin,Albuquerque,Raleigh,6.0
+611.11,20.0,282.0,4.0,919.84,Atlanta,Atlanta,Baltimore,Colorado Springs,5.0
+219.63,48.0,44.0,1.0,8013.63,Atlanta,Atlanta,Austin,Las Vegas,7.0
+93.52,51.0,97.0,1.0,2791.2,Atlanta,Austin,Albuquerque,Dallas,5.0
+275.92,62.0,107.0,1.0,1777.38,Albuquerque,Austin,Austin,Miami,8.0
+376.79,68.0,265.0,1.0,7749.14,Atlanta,Atlanta,Atlanta,Chicago,5.0
+8.98,66.0,56.0,1.0,4516.76,Atlanta,Atlanta,Albuquerque,Miami,8.0
+697.32,68.0,91.0,1.0,2016.0200000000002,Atlanta,Albuquerque,Austin,Fort Worth,3.0
+17.45,18.0,88.0,1.0,1959.52,Albuquerque,Austin,Atlanta,Los Angeles,1.0
+302.16,80.0,138.0,5.0,3876.61,Albuquerque,Albuquerque,Atlanta,San Antonio,6.0
+442.74,23.0,136.0,1.0,1790.27,Atlanta,Austin,Atlanta,Albuquerque,0.0
+623.9,27.0,249.0,1.0,711.4699999999999,Albuquerque,Atlanta,Baltimore,New York,8.0
+445.41,35.0,235.0,3.0,12154.66,Atlanta,Albuquerque,Atlanta,Philadelphia,4.0
+63.41,26.0,36.0,1.0,1546.22,Atlanta,Atlanta,Baltimore,Atlanta,0.0
+346.85,44.0,88.0,1.0,7208.15,Albuquerque,Austin,Atlanta,Boston,0.0
+71.95,59.0,53.00000000000001,1.0,9267.32,Albuquerque,Austin,Austin,Mesa,1.0
+7.5,63.0,36.0,1.0,6485.78,Albuquerque,Albuquerque,Austin,Boston,0.0
+206.46,65.0,279.0,1.0,3984.38,Atlanta,Albuquerque,Baltimore,Columbus,5.0
+423.11,60.0,47.0,1.0,412.78,Albuquerque,Atlanta,Albuquerque,Boston,0.0
+35.84,54.0,172.0,1.0,4795.65,Atlanta,Albuquerque,Albuquerque,New York,8.0
+88.6,28.0,105.0,1.0,246.57,Atlanta,Austin,Atlanta,Milwaukee,8.0
+1431.3,18.0,168.00000000000003,1.0,1058.13,Albuquerque,Atlanta,Austin,Kansas City,7.0
+22.46,54.0,78.0,1.0,6631.5,Atlanta,Atlanta,Baltimore,Seattle,2.0
+334.89,21.0,260.0,1.0,1661.68,Albuquerque,Austin,Albuquerque,Philadelphia,4.0
+319.27,54.0,59.00000000000001,1.0,5504.01,Atlanta,Albuquerque,Atlanta,Jacksonville,7.0
+144.3,18.0,88.0,1.0,312.19,Atlanta,Albuquerque,Austin,,2.0
+348.7,69.0,149.0,1.0,2445.58,Albuquerque,Atlanta,Atlanta,Virginia Beach,2.0
+366.21,62.0,181.0,1.0,10862.99,Albuquerque,Atlanta,Atlanta,Oklahoma City,8.0
+99.11,55.0,12.0,1.0,5414.87,Atlanta,Baltimore,Baltimore,Tucson,2.0
+539.35,55.0,127.0,1.0,3919.4399999999996,Austin,Baltimore,Albuquerque,Philadelphia,4.0
+188.99,58.0,91.99999999999999,1.0,7315.34,Atlanta,Austin,Atlanta,Denver,3.0
+1416.69,46.0,58.00000000000001,1.0,3740.7300000000005,Atlanta,Albuquerque,Albuquerque,Sacramento,6.0
+710.14,26.0,227.0,1.0,465.62999999999994,Austin,Austin,Baltimore,Portland,4.0
+308.68,53.0,170.0,1.0,9992.36,Albuquerque,Atlanta,Baltimore,Portland,4.0
+166.68,57.0,139.0,1.0,5141.19,Albuquerque,Atlanta,Atlanta,El Paso,3.0
+505.18999999999994,30.0,128.0,5.0,5326.68,Atlanta,Atlanta,Albuquerque,Kansas City,7.0
+66.58,23.0,79.0,1.0,1636.32,Albuquerque,Austin,Albuquerque,Houston,7.0
+223.43,77.0,178.0,1.0,7932.410000000001,Albuquerque,Austin,Austin,Fresno,3.0
+659.95,60.0,114.0,1.0,3927.6900000000005,Atlanta,Albuquerque,Atlanta,San Francisco,6.0
+634.86,27.0,45.0,1.0,588.4999999999999,Atlanta,Atlanta,Albuquerque,Fresno,3.0
+286.5,30.0,60.00000000000001,1.0,8517.95,Albuquerque,Austin,Austin,San Jose,2.0
+322.96,76.0,168.00000000000003,1.0,2401.59,Atlanta,Albuquerque,Baltimore,Raleigh,6.0
+654.48,19.0,114.0,1.0,6776.41,Atlanta,Atlanta,Atlanta,Mesa,1.0
+157.97,48.0,140.0,1.0,5529.92,Atlanta,Austin,Albuquerque,Phoenix,4.0
+120.90000000000002,40.0,52.00000000000001,1.0,9009.42,Atlanta,Austin,Baltimore,Sacramento,6.0
+254.77,57.0,57.0,1.0,5994.87,Atlanta,Albuquerque,Austin,Baltimore,0.0
+795.96,65.0,119.0,1.0,5468.58,Atlanta,Albuquerque,Albuquerque,Virginia Beach,2.0
+149.25,39.0,142.0,1.0,5677.52,Albuquerque,Albuquerque,Baltimore,Fresno,3.0
+3.42,43.0,158.0,1.0,14180.21,Atlanta,Austin,Baltimore,San Diego,6.0
+68.19,40.0,189.0,1.0,9895.1,Atlanta,Atlanta,Albuquerque,Tucson,2.0
+493.4200000000001,39.0,111.0,1.0,2232.84,Atlanta,Baltimore,Austin,Jacksonville,7.0
+37.57,57.0,42.00000000000001,1.0,7739.54,Atlanta,Albuquerque,Baltimore,Las Vegas,7.0
+127.00000000000001,19.0,68.00000000000001,5.0,431.16,Albuquerque,Atlanta,Austin,Chicago,5.0
+96.89,59.0,53.00000000000001,1.0,6044.93,Atlanta,Austin,Baltimore,Milwaukee,8.0
+448.33,25.0,161.0,1.0,922.19,Atlanta,Atlanta,Baltimore,San Francisco,6.0
+1116.48,51.0,55.0,1.0,447.53,Albuquerque,Austin,Atlanta,Jacksonville,7.0
+8.65,48.0,273.0,1.0,10778.35,Albuquerque,Atlanta,Atlanta,Seattle,2.0
+539.81,46.0,177.0,1.0,2051.25,Atlanta,Austin,Albuquerque,Miami,8.0
+363.53,63.0,142.0,1.0,1038.91,Atlanta,Albuquerque,Baltimore,Philadelphia,4.0
+64.9,51.0,72.0,1.0,6854.61,Albuquerque,Austin,Baltimore,Fresno,3.0
+358.18,18.0,157.0,1.0,619.86,Atlanta,Austin,Baltimore,Columbus,5.0
+167.2,30.0,84.00000000000001,1.0,11320.83,Albuquerque,Atlanta,Baltimore,Milwaukee,8.0
+121.90999999999998,60.0,133.0,1.0,14510.8,Atlanta,Atlanta,Atlanta,Las Vegas,7.0
+137.57,54.0,70.0,1.0,5103.67,Atlanta,Albuquerque,Baltimore,Fresno,3.0
+534.62,55.0,45.0,1.0,13793.53,Atlanta,Austin,Atlanta,Washington,2.0
+463.92,50.0,199.0,1.0,2403.39,Atlanta,Austin,Austin,Las Vegas,7.0
+320.14,60.0,96.0,1.0,3075.97,Atlanta,Austin,Austin,San Jose,2.0
+214.93,28.0,52.00000000000001,1.0,7835.4,Atlanta,Austin,Austin,Tucson,2.0
+660.02,20.0,84.00000000000001,1.0,414.43,Atlanta,Albuquerque,Baltimore,Kansas City,7.0
+345.81,40.0,135.0,1.0,6116.8,Albuquerque,Atlanta,Austin,San Francisco,6.0
+143.54,71.0,80.0,1.0,6067.62,Atlanta,Austin,Austin,Memphis,1.0
+42.55,53.0,29.000000000000004,1.0,7341.43,Atlanta,Albuquerque,Austin,San Diego,6.0
+1063.25,21.0,128.0,1.0,1240.71,Atlanta,Austin,Austin,San Antonio,6.0
+541.79,22.0,125.0,1.0,1454.08,Albuquerque,Atlanta,Baltimore,Philadelphia,4.0
+40.57,26.0,63.0,1.0,1476.91,Atlanta,Atlanta,Atlanta,Detroit,3.0
+120.24000000000001,18.0,131.0,2.0,1943.1300000000003,Albuquerque,Atlanta,Albuquerque,Fresno,3.0
+498.66999999999996,28.0,244.0,1.0,1719.97,Albuquerque,Austin,Atlanta,Indianapolis,7.0
+227.22,53.0,220.0,1.0,832.82,Albuquerque,Atlanta,Albuquerque,Indianapolis,7.0
+1182.86,30.0,34.0,1.0,7696.16,Atlanta,Atlanta,Atlanta,San Diego,6.0
+56.94,76.0,74.0,1.0,7004.63,Atlanta,Albuquerque,Albuquerque,San Francisco,6.0
+629.82,68.0,159.0,1.0,6385.69,Atlanta,Austin,Austin,Fresno,3.0
+59.44,35.0,176.0,1.0,5472.03,Albuquerque,Austin,Albuquerque,Denver,3.0
+186.69,30.0,53.99999999999999,1.0,8602.22,Atlanta,Atlanta,Atlanta,El Paso,3.0
+230.46,19.0,179.0,1.0,162.53,Atlanta,Albuquerque,Austin,Phoenix,4.0
+65.09,44.0,159.0,1.0,9370.9,Atlanta,Austin,Austin,Houston,7.0
+457.09,55.0,63.0,1.0,8570.82,Atlanta,Austin,Austin,Columbus,5.0
+552.02,44.0,100.00000000000001,1.0,522.08,Albuquerque,Austin,Austin,Phoenix,4.0
+377.12,34.0,61.00000000000001,1.0,836.6699999999998,Atlanta,Austin,Albuquerque,El Paso,3.0
+204.56,18.0,179.0,1.0,364.72,Atlanta,Austin,Atlanta,San Diego,6.0
+420.28,35.0,144.0,1.0,8557.32,Atlanta,Atlanta,Albuquerque,Portland,4.0
+97.09,24.0,202.0,4.0,1579.57,Atlanta,Albuquerque,Atlanta,Dallas,5.0
+124.59,27.0,171.0,1.0,129.29,Atlanta,Atlanta,Albuquerque,Oklahoma City,8.0
+73.88,39.0,34.0,1.0,6474.41,Atlanta,Albuquerque,Austin,Indianapolis,7.0
+106.16,56.0,277.0,4.0,7487.790000000001,Atlanta,Austin,Albuquerque,Detroit,3.0
+245.93,54.0,172.0,1.0,7986.629999999999,Atlanta,Albuquerque,Austin,Jacksonville,7.0
+622.41,64.0,125.0,1.0,7322.01,Albuquerque,Austin,Baltimore,Louisville,1.0
+43.73,34.0,145.0,1.0,9929.43,Atlanta,Austin,Albuquerque,Austin,0.0
+1282.86,19.0,68.00000000000001,1.0,1830.98,Atlanta,Austin,Albuquerque,San Antonio,6.0
+2.03,33.0,28.0,1.0,3012.31,Atlanta,Atlanta,Atlanta,San Francisco,6.0
+770.65,31.0,137.0,1.0,7198.8,Atlanta,Austin,Albuquerque,San Jose,2.0
+260.31,63.0,113.0,1.0,10980.38,Albuquerque,Austin,Albuquerque,Sacramento,6.0
+356.1,26.0,187.0,1.0,868.35,Albuquerque,Atlanta,Baltimore,Kansas City,7.0
+27.07,80.0,39.0,1.0,3773.2899999999995,Albuquerque,Atlanta,Austin,Omaha,4.0
+119.89,67.0,60.00000000000001,1.0,6697.77,Atlanta,Albuquerque,Baltimore,Milwaukee,8.0
+106.39,37.0,281.0,1.0,9410.99,Albuquerque,Atlanta,Boston,Omaha,4.0
+12.04,37.0,58.00000000000001,1.0,6213.32,Atlanta,Atlanta,Atlanta,Kansas City,7.0
+365.7,21.0,115.0,2.0,368.78,Atlanta,Austin,Austin,,2.0
+29.38,28.0,63.0,1.0,1663.31,Atlanta,Albuquerque,Albuquerque,Miami,8.0
+319.85,60.0,148.0,1.0,711.6599999999999,Albuquerque,Atlanta,Austin,Portland,4.0
+350.14,75.0,37.99999999999999,1.0,2403.25,Atlanta,Atlanta,Baltimore,Tucson,2.0
+163.94,52.0,73.0,1.0,5957.37,Atlanta,Atlanta,Albuquerque,,2.0
+170.53,24.0,58.00000000000001,1.0,801.01,Atlanta,Albuquerque,Baltimore,Phoenix,4.0
+262.22,40.0,136.0,1.0,5711.71,Albuquerque,Atlanta,Albuquerque,Nashville,8.0
+41.49,24.0,13.0,1.0,928.33,Atlanta,Austin,Albuquerque,Memphis,1.0
+121.43,52.0,243.0,1.0,7365.28,Albuquerque,Albuquerque,Baltimore,Tucson,2.0
+350.46,51.0,165.0,1.0,5839.38,Albuquerque,Atlanta,Austin,Baltimore,0.0
+220.41,26.0,155.0,1.0,5116.98,Albuquerque,Austin,Albuquerque,Dallas,5.0
+33.46,72.0,111.0,1.0,3641.07,Atlanta,Atlanta,Baltimore,Jacksonville,7.0
+104.79,70.0,223.0,1.0,1352.19,Albuquerque,Austin,Austin,San Antonio,6.0
+246.27000000000004,29.0,141.0,1.0,7299.86,Atlanta,Atlanta,Albuquerque,Sacramento,6.0
+48.85,19.0,176.0,1.0,1503.56,Austin,Albuquerque,Baltimore,Chicago,5.0
+332.0,69.0,17.0,1.0,5943.13,Atlanta,Baltimore,Atlanta,San Antonio,6.0
+118.1,54.0,167.0,1.0,895.6599999999999,Atlanta,Atlanta,Albuquerque,Omaha,4.0
+84.59,67.0,10.0,1.0,5669.1,Atlanta,Austin,Atlanta,Charlotte,5.0
+295.64,21.0,82.0,1.0,1061.96,Albuquerque,Albuquerque,Atlanta,Tucson,2.0
+514.33,25.0,160.0,1.0,1592.94,Atlanta,Austin,Atlanta,Indianapolis,7.0
+94.59,39.0,34.0,1.0,6171.89,Atlanta,Albuquerque,Albuquerque,Philadelphia,4.0
+80.43,59.0,157.0,1.0,5987.67,Atlanta,Austin,Atlanta,Jacksonville,7.0
+54.25,68.0,37.0,1.0,14783.33,Albuquerque,Austin,Atlanta,San Francisco,6.0
+178.88,76.0,93.0,4.0,4708.29,Albuquerque,Atlanta,Atlanta,Milwaukee,8.0
+518.85,22.0,82.0,1.0,1806.0,Atlanta,Atlanta,Austin,Atlanta,0.0
+10.65,54.0,161.0,1.0,13240.72,Albuquerque,Austin,Atlanta,Colorado Springs,5.0
+198.62,27.0,84.00000000000001,1.0,1196.07,Atlanta,Austin,Albuquerque,Kansas City,7.0
+107.03,27.0,73.0,1.0,1408.07,Atlanta,Atlanta,Baltimore,New York,8.0
+139.57,19.0,263.0,3.0,271.78,Albuquerque,Austin,Baltimore,Detroit,3.0
+312.47,49.0,148.0,4.0,9419.27,Albuquerque,Austin,Atlanta,San Diego,6.0
+346.11,41.0,213.0,1.0,9551.64,Albuquerque,Albuquerque,Baltimore,Los Angeles,1.0
+138.06,44.0,159.0,1.0,1070.47,Atlanta,Baltimore,Atlanta,Miami,8.0
+158.02,49.0,120.0,1.0,9374.24,Albuquerque,Austin,Baltimore,Portland,4.0
+830.01,66.0,96.0,1.0,4253.18,Atlanta,Austin,Austin,Boston,0.0
+435.5,55.0,112.0,1.0,6981.03,Albuquerque,Atlanta,Austin,Fort Worth,3.0
+110.49,57.0,48.0,1.0,10483.93,Albuquerque,Albuquerque,Atlanta,Phoenix,4.0
+329.4,34.0,68.00000000000001,1.0,9588.07,Albuquerque,Atlanta,Atlanta,Colorado Springs,5.0
+635.4,47.0,106.0,1.0,1238.11,Atlanta,Austin,Atlanta,New York,8.0
+769.97,22.0,22.999999999999996,1.0,1244.93,Atlanta,Albuquerque,Atlanta,Sacramento,6.0
+175.07,26.0,169.0,1.0,1040.25,Albuquerque,Austin,Atlanta,Mesa,1.0
+7.31,78.0,282.0,1.0,5757.67,Albuquerque,Atlanta,Albuquerque,San Jose,2.0
+32.54,25.0,183.0,4.0,1544.88,Atlanta,Baltimore,Atlanta,Los Angeles,1.0
+56.12,30.0,102.0,1.0,8839.67,Atlanta,Atlanta,Albuquerque,Boston,0.0
+424.7,56.0,178.0,1.0,6239.89,Albuquerque,Albuquerque,Albuquerque,Los Angeles,1.0
+35.73,65.0,87.0,1.0,9073.17,Atlanta,Atlanta,Austin,Portland,4.0
+3.44,78.0,107.99999999999999,1.0,7561.33,Atlanta,Atlanta,Baltimore,Fort Worth,3.0
+1342.25,21.0,235.0,1.0,694.03,Atlanta,Atlanta,Atlanta,,2.0
+139.03,50.0,81.0,1.0,2276.57,Albuquerque,Atlanta,Atlanta,Fresno,3.0
+254.92,28.0,169.0,1.0,2791.12,Atlanta,Albuquerque,Baltimore,Jacksonville,7.0
+115.11,28.0,139.0,1.0,9808.97,Albuquerque,Austin,Austin,Louisville,1.0
+171.11,57.0,171.0,1.0,6324.09,Albuquerque,Atlanta,Austin,New York,8.0
+168.54,70.0,142.0,2.0,13406.0,Atlanta,Austin,Atlanta,Seattle,2.0
+408.46,64.0,28.0,1.0,3140.79,Austin,Albuquerque,Albuquerque,Indianapolis,7.0
+1162.42,30.0,45.0,1.0,10357.26,Albuquerque,Austin,Austin,,2.0
+342.17,21.0,247.0,1.0,461.83,Atlanta,Austin,Albuquerque,Indianapolis,7.0
+580.71,53.0,95.0,1.0,5670.0,Atlanta,Atlanta,Austin,Albuquerque,0.0
+821.54,79.0,36.0,1.0,4040.3199999999997,Atlanta,Atlanta,Albuquerque,Seattle,2.0
+253.47,20.0,238.0,1.0,220.51,Atlanta,Albuquerque,Albuquerque,Boston,0.0
+22.81,62.0,75.0,1.0,3634.76,Atlanta,Atlanta,Austin,Mesa,1.0
+266.57,39.0,96.0,1.0,7180.48,Albuquerque,Austin,Albuquerque,San Jose,2.0
+374.61,75.0,37.0,1.0,1389.71,Albuquerque,Atlanta,Albuquerque,Louisville,1.0
+339.35,78.0,70.0,1.0,5002.7,Albuquerque,Austin,Austin,Philadelphia,4.0
+810.36,20.0,67.0,1.0,9239.12,Albuquerque,Austin,Albuquerque,Raleigh,6.0
+9.83,24.0,86.0,1.0,666.42,Atlanta,Atlanta,Albuquerque,Raleigh,6.0
+135.57,51.0,116.00000000000001,1.0,11351.64,Albuquerque,Atlanta,Albuquerque,Sacramento,6.0
+340.05,43.0,37.0,1.0,7234.15,Atlanta,Atlanta,Albuquerque,Fort Worth,3.0
+283.45,27.0,127.0,1.0,2049.51,Atlanta,Baltimore,Austin,Las Vegas,7.0
+100.99,68.0,114.0,1.0,8865.27,Atlanta,Austin,Baltimore,Virginia Beach,2.0
+90.88,18.0,176.0,1.0,3908.4700000000003,Albuquerque,Atlanta,Baltimore,Memphis,1.0
+655.15,26.0,264.0,1.0,5587.44,Atlanta,Albuquerque,Boston,Columbus,5.0
+320.55,50.0,118.0,1.0,438.75,Atlanta,Albuquerque,Austin,Portland,4.0
+41.51,28.0,48.0,1.0,609.5999999999999,Atlanta,Atlanta,Albuquerque,Denver,3.0
+71.53,68.0,39.0,1.0,2393.73,Albuquerque,Albuquerque,Baltimore,Charlotte,5.0
+467.13,54.0,45.0,1.0,3914.84,Atlanta,Albuquerque,Baltimore,Sacramento,6.0
+235.4,28.0,70.0,1.0,818.3599999999999,Atlanta,Austin,Atlanta,San Jose,2.0
+159.32,18.0,100.00000000000001,1.0,304.44,Albuquerque,Atlanta,Baltimore,San Antonio,6.0
+50.83,30.0,48.0,1.0,9553.42,Atlanta,Albuquerque,Atlanta,Boston,0.0
+56.89,59.0,56.0,1.0,3034.67,Atlanta,Atlanta,Baltimore,Omaha,4.0
+20.22,43.0,138.0,1.0,5515.32,Albuquerque,Atlanta,Austin,Austin,0.0
+50.4,36.0,84.00000000000001,1.0,1677.01,Albuquerque,Austin,Austin,Las Vegas,7.0
+73.88,53.0,131.0,1.0,4055.55,Albuquerque,Albuquerque,Albuquerque,Mesa,1.0
+119.61,33.0,53.00000000000001,1.0,9899.94,Albuquerque,Atlanta,Atlanta,Tucson,2.0
+1241.05,18.0,129.0,1.0,756.74,Albuquerque,Atlanta,Albuquerque,Omaha,4.0
+116.58,43.0,247.0,1.0,2620.74,Atlanta,Austin,Baltimore,Las Vegas,7.0
+1919.1100000000001,30.0,161.0,1.0,11090.24,Atlanta,Atlanta,Atlanta,Miami,8.0
+391.96,64.0,79.0,1.0,2174.16,Atlanta,Albuquerque,Atlanta,Virginia Beach,2.0
+156.26,46.0,160.0,1.0,7854.100000000001,Austin,Austin,Atlanta,Austin,0.0
+427.0,49.0,163.0,1.0,8253.65,Atlanta,Austin,Austin,Miami,8.0
+443.68,18.0,137.0,1.0,874.1499999999999,Albuquerque,Baltimore,Albuquerque,Phoenix,4.0
+101.76,31.0,26.0,1.0,6043.25,Atlanta,Austin,Baltimore,Baltimore,0.0
+67.57,37.0,107.0,1.0,2766.12,Atlanta,Austin,Baltimore,San Francisco,6.0
+326.29,56.0,179.0,1.0,8171.259999999999,Atlanta,Albuquerque,Austin,Dallas,5.0
+158.56,33.0,100.00000000000001,1.0,5401.21,Atlanta,Atlanta,Baltimore,Fresno,3.0
+56.02,27.0,142.0,1.0,3548.02,Atlanta,Albuquerque,Austin,Nashville,8.0
+288.28,27.0,36.0,1.0,160.83,Atlanta,Atlanta,Albuquerque,Louisville,1.0
+245.67,24.0,107.0,1.0,752.2499999999999,Atlanta,Atlanta,Austin,Boston,0.0
+152.18,39.0,176.0,4.0,2459.84,Albuquerque,Atlanta,Atlanta,Baltimore,0.0
+114.35,41.0,21.000000000000004,1.0,469.12,Albuquerque,Atlanta,Austin,San Jose,2.0
+373.27,61.0,79.0,1.0,8441.61,Albuquerque,Atlanta,Baltimore,San Jose,2.0
+504.63000000000005,60.0,168.00000000000003,1.0,3806.16,Atlanta,Atlanta,Baltimore,El Paso,3.0
+126.22,46.0,77.0,4.0,6133.41,Albuquerque,Atlanta,Austin,Mesa,1.0
+820.15,47.0,181.0,1.0,8802.97,Albuquerque,Atlanta,Atlanta,Charlotte,5.0
+986.8099999999998,68.0,127.0,1.0,14881.77,Atlanta,Austin,Boston,Fresno,3.0
+8.37,63.0,135.0,1.0,1106.34,Atlanta,Austin,Albuquerque,Portland,4.0
+197.49,53.0,30.0,1.0,5005.33,Austin,Austin,Austin,Philadelphia,4.0
+637.97,58.0,90.0,1.0,7949.03,Austin,Atlanta,Austin,Atlanta,0.0
+13.52,26.0,65.0,1.0,259.77,Atlanta,Austin,Atlanta,Austin,0.0
+432.1,49.0,240.0,1.0,2114.3,Atlanta,Austin,Boston,San Francisco,6.0
+375.17,51.0,66.0,2.0,5495.3,Albuquerque,Austin,Atlanta,Portland,4.0
+642.68,50.0,94.0,1.0,8461.46,Atlanta,Atlanta,Austin,Omaha,4.0
+78.44,52.0,292.0,1.0,6870.84,Atlanta,Atlanta,Boston,Phoenix,4.0
+139.72,49.0,201.0,1.0,5058.83,Austin,Austin,Albuquerque,Albuquerque,0.0
+499.99,31.0,296.0,1.0,8885.0,Albuquerque,Albuquerque,Baltimore,Indianapolis,7.0
+10.07,24.0,49.0,1.0,530.81,Albuquerque,Austin,Boston,Miami,8.0
+120.61999999999999,23.0,85.0,1.0,9379.53,Atlanta,Austin,Baltimore,Austin,0.0
+578.49,59.0,180.0,1.0,6475.13,Albuquerque,Atlanta,Albuquerque,Columbus,5.0
+119.3,34.0,22.0,5.0,319.04,Albuquerque,Austin,Austin,Boston,0.0
+280.92,41.0,168.00000000000003,1.0,5298.85,Albuquerque,Atlanta,Austin,Charlotte,5.0
+42.42,21.0,102.0,1.0,490.57,Albuquerque,Atlanta,Albuquerque,Colorado Springs,5.0
+77.03,67.0,259.0,1.0,11310.27,Albuquerque,Atlanta,Albuquerque,Austin,0.0
+22.59,62.0,45.0,1.0,3988.75,Albuquerque,Albuquerque,Baltimore,Miami,8.0
+568.76,51.0,155.0,1.0,7484.319999999999,Atlanta,Albuquerque,Baltimore,Washington,2.0
+25.94,58.0,211.0,5.0,4815.11,Albuquerque,Atlanta,Albuquerque,Jacksonville,7.0
+105.94,51.0,207.0,1.0,5963.1,Atlanta,Atlanta,Austin,Houston,7.0
+733.29,52.0,94.0,5.0,10427.0,Albuquerque,Albuquerque,Albuquerque,Dallas,5.0
+350.15,21.0,195.0,1.0,296.47,Albuquerque,Albuquerque,Albuquerque,Jacksonville,7.0
+1151.18,65.0,105.0,1.0,1100.06,Atlanta,Albuquerque,Baltimore,Denver,3.0
+183.67,19.0,238.0,1.0,910.26,Atlanta,Atlanta,Austin,Fort Worth,3.0
+278.27,29.0,123.0,1.0,6684.34,Atlanta,Albuquerque,Austin,Los Angeles,1.0
+470.3,40.0,88.0,1.0,8524.09,Albuquerque,Austin,Albuquerque,Memphis,1.0
+261.69,53.0,84.00000000000001,1.0,5126.65,Albuquerque,Albuquerque,Austin,Portland,4.0
+365.04,22.0,94.0,1.0,873.8899999999999,Atlanta,Albuquerque,Albuquerque,Jacksonville,7.0
+211.1,57.0,136.0,1.0,7059.77,Albuquerque,Atlanta,Austin,Louisville,1.0
+21.49,58.0,240.0,1.0,11991.24,Albuquerque,Atlanta,Baltimore,Atlanta,0.0
+63.58,18.0,199.0,1.0,8086.040000000001,Atlanta,Austin,Austin,Fort Worth,3.0
+321.86,63.0,167.0,1.0,12626.49,Albuquerque,Atlanta,Atlanta,Miami,8.0
+12.11,75.0,127.0,1.0,1730.28,Atlanta,Austin,Atlanta,Baltimore,0.0
+642.54,44.0,28.0,1.0,3143.17,Atlanta,Atlanta,Albuquerque,Baltimore,0.0
+210.45,27.0,146.0,1.0,1242.49,Austin,Atlanta,Austin,Denver,3.0
+313.65,55.0,173.0,1.0,1886.36,Albuquerque,Atlanta,Austin,Houston,7.0
+99.76,26.0,131.0,1.0,416.89,Atlanta,Austin,Baltimore,Washington,2.0
+115.32,53.0,113.0,1.0,5929.08,Albuquerque,Atlanta,Atlanta,Los Angeles,1.0
+33.61,23.0,72.0,1.0,479.08,Albuquerque,Baltimore,Austin,Jacksonville,7.0
+498.59,33.0,32.0,1.0,5862.99,Atlanta,Austin,Atlanta,Sacramento,6.0
+98.81,27.0,91.0,1.0,797.1,Albuquerque,Albuquerque,Baltimore,Milwaukee,8.0
+1.8700000000000003,65.0,147.0,1.0,7287.94,Albuquerque,Atlanta,Atlanta,Chicago,5.0
+78.92,59.0,95.0,1.0,5624.86,Austin,Austin,Albuquerque,Los Angeles,1.0
+194.29,39.0,10.0,1.0,2988.41,Atlanta,Austin,Baltimore,Indianapolis,7.0
+28.73,53.0,185.0,1.0,2712.96,Atlanta,Albuquerque,Atlanta,Austin,0.0
+105.53,24.0,88.0,1.0,1433.66,Albuquerque,Austin,Austin,Seattle,2.0
+737.34,30.0,34.0,1.0,7336.56,Atlanta,Baltimore,Baltimore,Los Angeles,1.0
+237.86,18.0,210.0,1.0,475.62999999999994,Albuquerque,Austin,Albuquerque,New York,8.0
+409.61,65.0,89.0,1.0,11698.15,Atlanta,Atlanta,Baltimore,Phoenix,4.0
+75.53,21.0,157.0,1.0,1034.35,Atlanta,Austin,Albuquerque,San Francisco,6.0
+72.75,64.0,15.0,1.0,12042.79,Atlanta,Albuquerque,Atlanta,Charlotte,5.0
+39.11,26.0,143.0,1.0,518.54,Albuquerque,Austin,Austin,Jacksonville,7.0
+1309.79,23.0,139.0,1.0,1258.93,Albuquerque,Austin,Austin,Indianapolis,7.0
+729.38,68.0,90.0,1.0,9127.65,Albuquerque,Albuquerque,Baltimore,Austin,0.0
+137.49,34.0,50.00000000000001,1.0,4471.05,Atlanta,Albuquerque,Albuquerque,Raleigh,6.0
+504.71,29.0,61.00000000000001,1.0,6214.54,Atlanta,Austin,Austin,Colorado Springs,5.0
+371.47,24.0,58.00000000000001,1.0,1187.04,Albuquerque,Austin,Baltimore,Fort Worth,3.0
+430.35,36.0,205.0,1.0,354.9,Atlanta,Albuquerque,Atlanta,Raleigh,6.0
+230.32,35.0,56.0,1.0,791.46,Atlanta,Austin,Austin,Charlotte,5.0
+121.71,52.0,140.0,1.0,5878.89,Albuquerque,Atlanta,Baltimore,Dallas,5.0
+98.87,20.0,179.0,1.0,533.2,Albuquerque,Atlanta,Austin,Colorado Springs,5.0
+117.55,24.0,35.0,1.0,897.94,Albuquerque,Austin,Albuquerque,Tucson,2.0
+244.64,30.0,103.0,1.0,9159.56,Albuquerque,Austin,Albuquerque,Indianapolis,7.0
+321.93,45.0,12.0,1.0,4392.73,Atlanta,Austin,Austin,San Diego,6.0
+1092.73,58.0,11.0,1.0,1390.98,Atlanta,Austin,Baltimore,New York,8.0
+283.23,40.0,98.0,1.0,2008.7700000000002,Albuquerque,Atlanta,Atlanta,Columbus,5.0
+346.65,30.0,60.00000000000001,1.0,6356.96,Albuquerque,Atlanta,Baltimore,Colorado Springs,5.0
+381.62,64.0,164.0,1.0,6009.12,Atlanta,Atlanta,Austin,Memphis,1.0
+388.65,76.0,43.0,1.0,7896.850000000001,Albuquerque,Austin,Austin,Washington,2.0
+29.22,24.0,151.0,1.0,1649.43,Albuquerque,Austin,Albuquerque,Boston,0.0
+46.75,67.0,150.0,1.0,2840.43,Albuquerque,Austin,Baltimore,Miami,8.0
+348.64,57.0,128.0,1.0,3274.96,Atlanta,Albuquerque,Austin,New York,8.0
+319.17,73.0,81.0,1.0,6501.56,Atlanta,Albuquerque,Austin,Sacramento,6.0
+73.95,26.0,75.99999999999999,1.0,363.92,Atlanta,Austin,Baltimore,Seattle,2.0
+389.63,27.0,99.0,1.0,9748.48,Albuquerque,Albuquerque,Albuquerque,Raleigh,6.0
+217.61,19.0,45.0,1.0,1404.53,Albuquerque,Atlanta,Albuquerque,Raleigh,6.0
+199.84,21.0,150.0,1.0,706.44,Albuquerque,Albuquerque,Albuquerque,Philadelphia,4.0
+56.35,44.0,75.0,1.0,5095.73,Albuquerque,Atlanta,Austin,Sacramento,6.0
+248.95000000000002,65.0,29.000000000000004,1.0,3059.79,Atlanta,Atlanta,Atlanta,Columbus,5.0
+142.58,33.0,145.0,1.0,7844.23,Albuquerque,Atlanta,Baltimore,Oklahoma City,8.0
+1020.7299999999999,28.0,87.0,1.0,1119.61,Albuquerque,Austin,Albuquerque,San Francisco,6.0
+84.34,58.0,247.99999999999997,3.0,5313.97,Albuquerque,Austin,Baltimore,Tucson,2.0
+1607.55,31.0,156.0,1.0,6227.99,Atlanta,Austin,Boston,Milwaukee,8.0
+333.78,60.0,98.0,1.0,6810.94,Albuquerque,Albuquerque,Albuquerque,San Antonio,6.0
+332.59,55.0,143.0,1.0,1457.07,Albuquerque,Albuquerque,Austin,Miami,8.0
+236.81,22.0,15.0,1.0,813.68,Albuquerque,Austin,Baltimore,Austin,0.0
+417.8,27.0,130.0,1.0,1518.82,Albuquerque,Atlanta,Atlanta,Memphis,1.0
+319.27,50.0,150.0,1.0,10269.78,Atlanta,Austin,Austin,Baltimore,0.0
+384.1,42.0,172.0,1.0,672.7899999999998,Atlanta,Albuquerque,Baltimore,Austin,0.0
+820.62,61.0,158.0,1.0,6024.8,Atlanta,Austin,Austin,Omaha,4.0
+474.77,56.0,50.00000000000001,1.0,2158.59,Albuquerque,Austin,Albuquerque,Mesa,1.0
+542.72,43.0,91.99999999999999,1.0,6011.8,Atlanta,Atlanta,Baltimore,Los Angeles,1.0
+79.8,73.0,75.99999999999999,1.0,6372.58,Albuquerque,Austin,Albuquerque,Columbus,5.0
+46.24,57.0,52.00000000000001,1.0,2569.56,Atlanta,Atlanta,Baltimore,Washington,2.0
+327.8,61.0,53.99999999999999,1.0,10585.48,Atlanta,Albuquerque,Atlanta,Baltimore,0.0
+445.79,52.0,161.0,1.0,717.9899999999999,Albuquerque,Albuquerque,Atlanta,Las Vegas,7.0
+55.89,72.0,150.0,1.0,3689.65,Albuquerque,Austin,Atlanta,Fort Worth,3.0
+158.41,28.0,16.0,1.0,1512.16,Atlanta,Albuquerque,Albuquerque,Dallas,5.0
+101.19,64.0,75.0,1.0,14389.45,Albuquerque,Austin,Austin,Raleigh,6.0
+827.14,36.0,265.0,4.0,9800.21,Albuquerque,Atlanta,Albuquerque,Houston,7.0
+61.970000000000006,74.0,95.0,1.0,7014.69,Albuquerque,Albuquerque,Austin,Baltimore,0.0
+27.21,79.0,102.0,1.0,3520.61,Albuquerque,Albuquerque,Atlanta,Austin,0.0
+173.74,80.0,64.0,1.0,4913.42,Atlanta,Atlanta,Austin,El Paso,3.0
+176.11,38.0,105.0,1.0,9155.35,Albuquerque,Atlanta,Baltimore,Miami,8.0
+88.4,46.0,174.0,1.0,2567.53,Albuquerque,Albuquerque,Austin,Jacksonville,7.0
+567.92,53.0,14.0,1.0,3779.4699999999993,Albuquerque,Atlanta,Albuquerque,Charlotte,5.0
+138.11,68.0,104.0,1.0,4177.65,Austin,Albuquerque,Austin,Boston,0.0
+456.93,28.0,193.0,1.0,7284.76,Albuquerque,Atlanta,Austin,San Diego,6.0
+101.42,66.0,146.0,1.0,6530.59,Albuquerque,Austin,Albuquerque,Fort Worth,3.0
+300.61,44.0,51.00000000000001,1.0,7895.540000000001,Atlanta,Albuquerque,Austin,Louisville,1.0
+265.94,54.0,132.0,1.0,6781.3,Albuquerque,Atlanta,Atlanta,Louisville,1.0
+345.54,29.0,50.00000000000001,1.0,2091.78,Atlanta,Albuquerque,Atlanta,Albuquerque,0.0
+411.52,41.0,88.0,1.0,11108.39,Albuquerque,Austin,Baltimore,Nashville,8.0
+111.21,35.0,111.0,1.0,9088.36,Atlanta,Austin,Atlanta,Raleigh,6.0
+316.37,53.0,86.0,1.0,4671.69,Atlanta,Austin,Albuquerque,Boston,0.0
+260.63,37.0,142.0,1.0,7534.7300000000005,Albuquerque,Austin,Austin,Memphis,1.0
+92.36,29.0,144.0,1.0,6353.14,Albuquerque,Austin,Albuquerque,,2.0
+262.06,63.0,118.0,1.0,13587.52,Austin,Atlanta,Atlanta,Charlotte,5.0
+64.5,74.0,230.0,1.0,1351.24,Albuquerque,Austin,Atlanta,Chicago,5.0
+253.55,28.0,85.0,5.0,2797.26,Albuquerque,Albuquerque,Baltimore,San Jose,2.0
+175.94,57.0,89.0,1.0,3728.0400000000004,Atlanta,Albuquerque,Baltimore,New York,8.0
+199.47,57.0,142.0,1.0,6067.44,Atlanta,Albuquerque,Atlanta,Washington,2.0
+51.07,63.0,133.0,1.0,4292.16,Atlanta,Austin,Baltimore,Portland,4.0
+435.86,56.0,134.0,1.0,3801.8200000000006,Atlanta,Atlanta,Albuquerque,Indianapolis,7.0
+74.73,64.0,162.0,1.0,6353.22,Atlanta,Albuquerque,Austin,Memphis,1.0
+182.79,23.0,14.0,1.0,1251.85,Albuquerque,Austin,Austin,Austin,0.0
+628.36,44.0,107.99999999999999,1.0,11869.71,Atlanta,Atlanta,Atlanta,Sacramento,6.0
+268.39,29.0,177.0,1.0,9409.43,Atlanta,Baltimore,Austin,Denver,3.0
+362.27,80.0,47.0,1.0,6003.59,Albuquerque,Atlanta,Baltimore,Omaha,4.0
+560.15,50.0,91.99999999999999,1.0,817.83,Atlanta,Austin,Baltimore,Charlotte,5.0
+351.99,80.0,45.0,2.0,3663.64,Atlanta,Atlanta,Albuquerque,San Jose,2.0
+132.36,28.0,160.0,1.0,319.65,Albuquerque,Atlanta,Baltimore,Fresno,3.0
+24.77,40.0,17.0,1.0,478.23,Albuquerque,Austin,Austin,Portland,4.0
+668.67,44.0,143.0,4.0,13446.81,Albuquerque,Atlanta,Austin,Phoenix,4.0
+80.24,53.0,58.00000000000001,1.0,8012.810000000001,Atlanta,Albuquerque,Austin,Albuquerque,0.0
+8.65,68.0,198.0,1.0,4201.22,Atlanta,Albuquerque,Austin,Tucson,2.0
+178.91,18.0,18.999999999999996,1.0,8870.89,Atlanta,Austin,Austin,Sacramento,6.0
+115.22,27.0,107.99999999999999,1.0,906.1999999999999,Atlanta,Albuquerque,Austin,Miami,8.0
+161.63,46.0,276.0,1.0,9286.37,Albuquerque,Albuquerque,Austin,Virginia Beach,2.0
+542.75,70.0,63.0,1.0,2224.08,Atlanta,Atlanta,Baltimore,Dallas,5.0
+317.47,67.0,16.0,1.0,14639.28,Atlanta,Atlanta,Baltimore,Chicago,5.0
+280.99,45.0,29.000000000000004,1.0,9733.59,Albuquerque,Albuquerque,Albuquerque,Oklahoma City,8.0
+24.19,29.0,28.0,1.0,2756.2,Atlanta,Albuquerque,Albuquerque,Chicago,5.0
+586.85,36.0,86.0,1.0,6655.15,Albuquerque,Austin,Baltimore,Raleigh,6.0
+372.41,55.0,143.0,1.0,3233.87,Atlanta,Atlanta,Boston,San Jose,2.0
+383.69,54.0,285.0,1.0,8371.11,Atlanta,Atlanta,Austin,Detroit,3.0
+247.16999999999996,65.0,149.0,1.0,2611.64,Austin,Atlanta,Baltimore,Dallas,5.0
+48.78,18.0,136.0,1.0,552.06,Albuquerque,Atlanta,Baltimore,El Paso,3.0
+4.15,60.0,119.0,1.0,6017.36,Albuquerque,Austin,Boston,Kansas City,7.0
+60.989999999999995,34.0,58.00000000000001,1.0,7281.46,Atlanta,Austin,Albuquerque,Columbus,5.0
+408.19,26.0,241.0,1.0,6847.47,Albuquerque,Atlanta,Atlanta,Raleigh,6.0
+524.6,58.0,75.99999999999999,1.0,13017.7,Albuquerque,Atlanta,Atlanta,Washington,2.0
+108.96,26.0,247.0,1.0,7597.660000000001,Atlanta,Atlanta,Austin,San Jose,2.0
+70.03,63.0,49.0,1.0,7330.31,Atlanta,Atlanta,Austin,,2.0
+124.84,52.0,79.0,1.0,6711.78,Austin,Albuquerque,Austin,Indianapolis,7.0
+324.04,54.0,30.0,1.0,2248.06,Albuquerque,Atlanta,Baltimore,Washington,2.0
+39.69,70.0,163.0,1.0,3524.68,Albuquerque,Austin,Baltimore,Indianapolis,7.0
+157.7,58.0,45.99999999999999,1.0,8332.58,Albuquerque,Atlanta,Baltimore,Boston,0.0
+81.27,22.0,68.00000000000001,1.0,1814.48,Albuquerque,Austin,Baltimore,Milwaukee,8.0
+193.82,37.0,176.0,1.0,3886.7699999999995,Atlanta,Baltimore,Albuquerque,New York,8.0
+16.73,79.0,165.0,1.0,7591.129999999999,Atlanta,Atlanta,Albuquerque,Houston,7.0
+474.05,57.0,214.0,1.0,1484.31,Atlanta,Austin,Atlanta,Nashville,8.0
+39.21,66.0,245.0,4.0,9385.57,Albuquerque,Albuquerque,Baltimore,Sacramento,6.0
+637.75,79.0,151.99999999999997,1.0,4202.92,Atlanta,Albuquerque,Baltimore,Virginia Beach,2.0
+153.59,66.0,174.0,1.0,4813.12,Atlanta,Austin,Albuquerque,Houston,7.0
+186.6,18.0,139.0,1.0,9716.68,Albuquerque,Albuquerque,Baltimore,San Diego,6.0
+644.08,24.0,55.0,1.0,1980.62,Albuquerque,Albuquerque,Atlanta,Sacramento,6.0
+226.66,41.0,168.00000000000003,1.0,10216.25,Albuquerque,Austin,Atlanta,Omaha,4.0
+305.0,22.0,222.0,1.0,944.83,Albuquerque,Albuquerque,Atlanta,Memphis,1.0
+233.1,42.0,37.0,1.0,7469.2,Atlanta,Atlanta,Baltimore,,2.0
+793.13,68.0,75.99999999999999,1.0,13389.16,Albuquerque,Atlanta,Austin,Boston,0.0
+224.19,52.0,93.0,1.0,8475.47,Albuquerque,Atlanta,Baltimore,Albuquerque,0.0
+214.83,23.0,63.0,1.0,991.6899999999999,Atlanta,Austin,Albuquerque,Mesa,1.0
+163.46,63.0,111.0,1.0,6953.8,Atlanta,Albuquerque,Baltimore,Portland,4.0
+194.99,34.0,91.0,1.0,1370.03,Austin,Austin,Baltimore,Baltimore,0.0
+23.4,46.0,175.0,4.0,14851.28,Atlanta,Austin,Atlanta,,2.0
+227.5,34.0,277.0,1.0,11505.35,Atlanta,Albuquerque,Baltimore,,2.0
+259.9,26.0,100.00000000000001,1.0,914.2799999999999,Albuquerque,Albuquerque,Albuquerque,Atlanta,0.0
+59.51,36.0,55.0,1.0,9955.88,Atlanta,Albuquerque,Albuquerque,Columbus,5.0
+1074.95,20.0,91.0,1.0,530.86,Atlanta,Atlanta,Atlanta,Boston,0.0
+112.94,73.0,30.999999999999996,1.0,3807.8399999999997,Albuquerque,Albuquerque,Baltimore,Omaha,4.0
+11.81,21.0,131.0,1.0,320.25,Atlanta,Albuquerque,Baltimore,Houston,7.0
+329.14,55.0,14.0,1.0,12033.92,Atlanta,Atlanta,Baltimore,Las Vegas,7.0
+154.24,61.0,82.0,1.0,6109.55,Atlanta,Austin,Albuquerque,Los Angeles,1.0
+233.44,20.0,297.0,1.0,1691.88,Albuquerque,Austin,Albuquerque,Portland,4.0
+141.8,18.0,116.00000000000001,1.0,1697.67,Albuquerque,Austin,Austin,Virginia Beach,2.0
+209.03,55.0,126.0,1.0,8359.5,Albuquerque,Atlanta,Albuquerque,Atlanta,0.0
+1137.63,26.0,144.0,1.0,1629.12,Albuquerque,Atlanta,Atlanta,Kansas City,7.0
+261.14,42.0,162.0,1.0,6100.08,Atlanta,Austin,Baltimore,,2.0
+98.71,32.0,117.0,1.0,10095.23,Atlanta,Austin,Atlanta,Los Angeles,1.0
+87.38,21.0,252.0,1.0,1504.99,Atlanta,Albuquerque,Atlanta,Fresno,3.0
+83.39,32.0,158.0,1.0,13182.11,Albuquerque,Austin,Albuquerque,Las Vegas,7.0
+267.55,46.0,40.0,1.0,4330.04,Atlanta,Austin,Baltimore,Dallas,5.0
+870.05,29.0,39.0,1.0,905.2499999999999,Atlanta,Atlanta,Atlanta,Nashville,8.0
+164.51,78.0,110.0,1.0,3553.69,Albuquerque,Atlanta,Atlanta,San Jose,2.0
+758.12,69.0,90.0,1.0,6164.65,Albuquerque,Austin,Atlanta,Tucson,2.0
+103.76,28.0,188.0,1.0,9626.14,Albuquerque,Austin,Albuquerque,Atlanta,0.0
+583.92,55.0,139.0,1.0,6364.14,Atlanta,Austin,Albuquerque,Fort Worth,3.0
+204.06,77.0,159.0,1.0,4351.83,Albuquerque,Atlanta,Albuquerque,Detroit,3.0
+53.51,56.0,165.0,1.0,5773.5,Albuquerque,Atlanta,Austin,Oklahoma City,8.0
+1108.46,30.0,262.0,1.0,9257.04,Atlanta,Baltimore,Albuquerque,Austin,0.0
+52.95,68.0,14.0,1.0,6335.58,Atlanta,Albuquerque,Boston,El Paso,3.0
+120.17,49.0,105.0,1.0,5403.79,Atlanta,Albuquerque,Baltimore,Albuquerque,0.0
+220.8,31.0,28.0,1.0,8135.31,Atlanta,Austin,Boston,Atlanta,0.0
+119.01,45.0,87.0,1.0,9798.26,Albuquerque,Albuquerque,Albuquerque,Detroit,3.0
+183.32,21.0,74.0,1.0,137.42,Albuquerque,Austin,Albuquerque,Nashville,8.0
+858.88,60.0,227.0,1.0,7015.46,Albuquerque,Albuquerque,Baltimore,San Francisco,6.0
+11.46,41.0,128.0,1.0,2356.71,Albuquerque,Austin,Atlanta,Fresno,3.0
+61.37,75.0,164.0,1.0,4294.44,Albuquerque,Atlanta,Austin,Miami,8.0
+103.08,49.0,150.0,1.0,9251.38,Atlanta,Baltimore,Austin,Los Angeles,1.0
+1.2100000000000002,55.0,196.0,1.0,7542.739999999999,Atlanta,Baltimore,Atlanta,Indianapolis,7.0
+425.18,26.0,172.0,1.0,9880.71,Albuquerque,Austin,Atlanta,Oklahoma City,8.0
+60.96,52.0,238.0,1.0,6189.24,Atlanta,Baltimore,Austin,Charlotte,5.0
+64.21,51.0,37.0,1.0,12540.18,Albuquerque,Austin,Atlanta,San Antonio,6.0
+523.02,53.0,83.0,1.0,4586.11,Austin,Albuquerque,Albuquerque,Baltimore,0.0
+50.26,65.0,164.0,1.0,1519.38,Atlanta,Austin,Boston,Miami,8.0
+110.08,19.0,95.0,1.0,1447.26,Albuquerque,Austin,Albuquerque,Baltimore,0.0
+54.47,23.0,34.0,1.0,1131.42,Albuquerque,Austin,Albuquerque,Seattle,2.0
+79.76,68.0,115.0,1.0,10278.75,Albuquerque,Austin,Baltimore,Colorado Springs,5.0
+16.79,30.0,146.0,1.0,535.15,Albuquerque,Atlanta,Baltimore,,2.0
+1531.31,18.0,61.99999999999999,4.0,859.8599999999999,Albuquerque,Atlanta,Baltimore,Sacramento,6.0
+68.62,29.0,157.0,1.0,13891.47,Albuquerque,Atlanta,Albuquerque,Albuquerque,0.0
+643.38,18.0,105.0,1.0,1046.74,Albuquerque,Austin,Albuquerque,Milwaukee,8.0
+328.34,42.0,30.999999999999996,1.0,2840.45,Atlanta,Atlanta,Albuquerque,Memphis,1.0
+72.68,69.0,44.0,1.0,6216.77,Albuquerque,Albuquerque,Atlanta,Virginia Beach,2.0
+354.76,51.0,279.0,1.0,10141.92,Albuquerque,Albuquerque,Albuquerque,Fresno,3.0
+793.88,22.0,252.0,1.0,1404.06,Austin,Albuquerque,Austin,Omaha,4.0
+29.22,27.0,69.00000000000001,1.0,7795.79,Atlanta,Austin,Austin,Nashville,8.0
+653.97,37.0,100.00000000000001,1.0,3886.65,Albuquerque,Austin,Baltimore,Boston,0.0
+366.43,21.0,91.99999999999999,1.0,1560.45,Atlanta,Austin,Baltimore,Houston,7.0
+120.86,33.0,162.0,4.0,13566.58,Albuquerque,Albuquerque,Baltimore,Portland,4.0
+233.74,72.0,142.0,1.0,4749.54,Albuquerque,Austin,Baltimore,Memphis,1.0
+471.84,18.0,138.0,1.0,1044.33,Albuquerque,Albuquerque,Atlanta,Columbus,5.0
+213.4,73.0,100.00000000000001,1.0,2012.24,Atlanta,Baltimore,Atlanta,Sacramento,6.0
+254.20999999999998,48.0,45.99999999999999,1.0,2487.2,Atlanta,Atlanta,Atlanta,Omaha,4.0
+577.73,37.0,63.0,1.0,14977.99,Atlanta,Atlanta,Boston,Houston,7.0
+170.26,27.0,265.0,1.0,1969.48,Albuquerque,Austin,Boston,San Francisco,6.0
+337.73,78.0,107.0,4.0,7001.2,Albuquerque,Atlanta,Albuquerque,El Paso,3.0
+330.61,64.0,113.0,1.0,2525.25,Albuquerque,Austin,Baltimore,Las Vegas,7.0
+132.33,35.0,47.0,1.0,7457.94,Albuquerque,Atlanta,Albuquerque,Seattle,2.0
+74.04,18.0,66.0,1.0,1690.23,Atlanta,Austin,Albuquerque,Omaha,4.0
+197.18,28.0,135.0,1.0,3114.92,Atlanta,Albuquerque,Baltimore,Louisville,1.0
+21.15,70.0,180.0,1.0,3466.74,Albuquerque,Albuquerque,Baltimore,Seattle,2.0
+590.01,29.0,140.0,3.0,9791.74,Atlanta,Austin,Albuquerque,Tucson,2.0
+697.82,44.0,153.0,1.0,6824.0,Albuquerque,Austin,Baltimore,Chicago,5.0
+302.76,38.0,88.0,3.0,8583.39,Albuquerque,Austin,Austin,Nashville,8.0
+148.0,20.0,35.0,1.0,1488.65,Albuquerque,Atlanta,Atlanta,Atlanta,0.0
+22.26,19.0,56.0,1.0,5583.88,Atlanta,Atlanta,Boston,Mesa,1.0
+0.86,25.0,139.0,1.0,1357.22,Albuquerque,Baltimore,Baltimore,Los Angeles,1.0
+757.1,65.0,203.0,1.0,10553.23,Albuquerque,Albuquerque,Albuquerque,San Diego,6.0
+38.81,25.0,145.0,1.0,1619.6,Atlanta,Albuquerque,Baltimore,San Diego,6.0
+76.51,49.0,120.0,4.0,9475.4,Albuquerque,Austin,Albuquerque,Chicago,5.0
+32.46,31.0,10.0,1.0,8656.18,Albuquerque,Austin,Baltimore,Houston,7.0
+1022.7499999999999,62.0,158.0,1.0,207.74,Albuquerque,Austin,Austin,San Diego,6.0
+20.64,22.0,59.00000000000001,1.0,949.38,Austin,Austin,Atlanta,El Paso,3.0
+662.11,23.0,219.0,1.0,1996.38,Albuquerque,Atlanta,Albuquerque,Washington,2.0
+288.77,55.0,110.0,1.0,8836.51,Albuquerque,Atlanta,Atlanta,Indianapolis,7.0
+35.05,30.0,105.0,1.0,14330.47,Austin,Atlanta,Albuquerque,Mesa,1.0
+214.73,46.0,26.0,1.0,5368.42,Albuquerque,Atlanta,Baltimore,Louisville,1.0
+25.38,57.0,66.0,1.0,8616.05,Albuquerque,Albuquerque,Austin,Fort Worth,3.0
+617.66,41.0,40.0,1.0,5906.58,Albuquerque,Atlanta,Albuquerque,Denver,3.0
+446.39,63.0,77.0,1.0,7863.6,Albuquerque,Austin,Baltimore,,2.0
+377.92,33.0,204.0,1.0,2254.71,Albuquerque,Austin,Baltimore,Baltimore,0.0
+11.04,30.0,43.0,1.0,6983.04,Albuquerque,Albuquerque,Albuquerque,Denver,3.0
+275.46,36.0,67.0,1.0,9697.75,Albuquerque,Albuquerque,Baltimore,New York,8.0
+179.76,78.0,81.0,1.0,5909.52,Albuquerque,Austin,Baltimore,Phoenix,4.0
+32.34,44.0,45.0,1.0,7847.619999999999,Albuquerque,Albuquerque,Austin,Colorado Springs,5.0
+273.92,79.0,109.0,1.0,4543.56,Albuquerque,Austin,Albuquerque,Phoenix,4.0
+375.45,19.0,32.0,1.0,1307.23,Albuquerque,Atlanta,Albuquerque,Oklahoma City,8.0
+388.98,23.0,155.0,1.0,1819.91,Albuquerque,Austin,Baltimore,Mesa,1.0
+492.84,25.0,37.99999999999999,1.0,577.67,Albuquerque,Austin,Atlanta,Baltimore,0.0
+148.85,57.0,25.000000000000004,1.0,7802.360000000001,Albuquerque,Austin,Baltimore,Philadelphia,4.0
+391.66,50.0,103.0,1.0,2406.31,Albuquerque,Austin,Austin,Tucson,2.0
+185.99,41.0,53.00000000000001,1.0,402.45,Albuquerque,Albuquerque,Albuquerque,Louisville,1.0
+322.48,27.0,57.0,1.0,1238.43,Albuquerque,Austin,Austin,Detroit,3.0
+20.27,18.0,22.0,1.0,796.3499999999999,Albuquerque,Atlanta,Baltimore,Phoenix,4.0
+280.61,47.0,129.0,3.0,7888.76,Atlanta,Austin,Albuquerque,Albuquerque,0.0
+199.02,61.0,269.0,1.0,4658.89,Atlanta,Atlanta,Austin,San Diego,6.0
+104.23,63.0,107.99999999999999,1.0,5009.29,,,,,
+353.59,52.0,109.0,5.0,1822.34,,,,,
+55.86,39.0,68.00000000000001,1.0,5346.46,,,,,
+10.77,31.0,178.0,1.0,10704.95,,,,,
+95.55,33.0,51.00000000000001,1.0,2434.74,,,,,
+477.07,27.0,278.0,1.0,6568.07,,,,,
+9.1,52.0,63.0,1.0,2791.45,,,,,
+21.41,57.0,99.0,1.0,658.91,,,,,
+278.28,28.0,26.0,1.0,1346.88,,,,,
+388.1,73.0,40.0,1.0,3022.12,,,,,
+215.39,27.0,215.99999999999997,1.0,1582.55,,,,,
+194.37,66.0,161.0,1.0,14395.88,,,,,
+37.7,20.0,109.0,1.0,1741.1,,,,,
+19.59,64.0,122.0,1.0,1061.69,,,,,
+81.35,41.0,103.0,1.0,7192.45,,,,,
+314.54,58.0,228.0,1.0,9923.45,,,,,
+466.64,58.0,11.0,1.0,10915.11,,,,,
+397.01,22.0,100.00000000000001,1.0,719.52,,,,,
+472.48,55.0,87.0,1.0,7128.82,,,,,
+67.15,59.0,14.0,1.0,9028.49,,,,,
+102.67,79.0,119.0,1.0,4656.94,,,,,
+460.09,35.0,146.0,3.0,6990.64,,,,,
+453.49,66.0,147.0,1.0,6366.43,,,,,
+267.17,26.0,170.0,1.0,1382.62,,,,,
+111.26,66.0,43.0,1.0,14350.11,,,,,
+121.17000000000002,68.0,158.0,1.0,12990.77,,,,,
+213.28,51.0,94.0,1.0,4835.91,,,,,
+187.88,60.0,180.0,1.0,2154.58,,,,,
+471.88,34.0,141.0,1.0,14833.34,,,,,
+83.79,57.0,47.0,1.0,5061.3,,,,,
+212.14,72.0,105.0,1.0,7225.06,,,,,
+99.16,79.0,202.0,1.0,2607.58,,,,,
+839.33,60.0,86.0,1.0,11538.97,,,,,
+29.91,76.0,43.0,3.0,2834.84,,,,,
+4.24,38.0,37.99999999999999,1.0,7822.729999999999,,,,,
+50.29,58.0,64.0,1.0,7604.9,,,,,
+135.85,57.0,269.0,1.0,1480.39,,,,,
+368.53,68.0,34.0,1.0,13696.31,,,,,
+17.95,64.0,135.0,1.0,12344.9,,,,,
+127.8,31.0,47.0,1.0,8630.99,,,,,
+16.73,45.0,48.0,1.0,2202.62,,,,,
+317.12,44.0,80.0,1.0,14409.74,,,,,
+476.63,79.0,115.0,1.0,4894.25,,,,,
+156.58,24.0,160.0,1.0,8981.61,,,,,
+55.12,34.0,261.0,1.0,3791.99,,,,,
+15.74,27.0,37.99999999999999,1.0,690.16,,,,,
+353.68,70.0,145.0,1.0,6777.12,,,,,
+297.15,76.0,178.0,1.0,5449.37,,,,,
+647.85,36.0,121.0,1.0,13779.97,,,,,
+75.04,49.0,178.0,1.0,9648.6,,,,,
+273.92,28.0,35.0,1.0,1029.15,,,,,
+215.8,51.0,66.0,1.0,3656.62,,,,,
+963.77,41.0,247.99999999999997,1.0,6710.51,,,,,
+420.6,26.0,55.0,1.0,1778.75,,,,,
+688.36,23.0,22.0,1.0,5191.13,,,,,
+285.18,55.0,150.0,1.0,14847.97,,,,,
+213.55,63.0,15.0,1.0,5238.37,,,,,
+463.11,51.0,159.0,1.0,10238.82,,,,,
+150.03,73.0,176.0,1.0,7491.42,,,,,
+309.56,58.0,147.0,1.0,972.04,,,,,
+377.08,26.0,71.0,1.0,6430.86,,,,,
+77.25,68.0,157.0,1.0,14077.97,,,,,
+146.92,64.0,272.0,1.0,3990.6,,,,,
+126.6,22.0,146.0,1.0,961.6499999999999,,,,,
+101.34,24.0,45.99999999999999,1.0,703.2599999999999,,,,,
+184.97,58.0,268.0,1.0,1156.67,,,,,
+451.15,46.0,175.0,1.0,1356.47,,,,,
+516.47,25.0,94.0,1.0,1305.06,,,,,
+880.04,25.0,29.000000000000004,1.0,261.97,,,,,
+66.69,25.0,140.0,1.0,1210.33,,,,,
+95.75,31.0,169.0,1.0,337.62,,,,,
+98.03,54.0,165.0,1.0,6323.45,,,,,
+617.66,42.0,128.0,1.0,7155.95,,,,,
+888.57,62.0,102.0,1.0,7896.14,,,,,
+107.48,22.0,129.0,1.0,591.2299999999999,,,,,
+36.57,62.0,69.00000000000001,1.0,2583.07,,,,,
+575.62,43.0,129.0,1.0,234.40999999999997,,,,,
+84.89,37.0,70.0,1.0,4735.61,,,,,
+180.65,22.0,37.99999999999999,5.0,816.0099999999999,,,,,
+7.759999999999999,52.0,84.00000000000001,1.0,7393.11,,,,,
+109.3,56.0,26.999999999999996,1.0,13510.11,,,,,
+230.08,79.0,123.99999999999999,1.0,4466.1,,,,,
+361.92,54.0,111.0,1.0,7474.31,,,,,
+71.29,68.0,55.0,2.0,7225.63,,,,,
+122.44999999999999,46.0,98.0,1.0,7255.49,,,,,
+642.53,65.0,128.0,1.0,11417.91,,,,,
+62.86000000000001,25.0,30.999999999999996,1.0,1040.43,,,,,
+175.21,69.0,69.00000000000001,1.0,6039.04,,,,,
+168.0,32.0,11.0,1.0,3498.58,,,,,
+11.46,67.0,73.0,1.0,6628.75,,,,,
+382.07,62.0,147.0,1.0,10156.09,,,,,
+13.48,18.0,20.0,3.0,521.88,,,,,
+65.32,28.0,53.99999999999999,1.0,9165.02,,,,,
+83.07,27.0,291.0,4.0,6704.76,,,,,
+730.1,77.0,93.0,1.0,6384.05,,,,,
+85.31,62.0,26.999999999999996,1.0,6095.65,,,,,
+726.61,18.0,277.0,1.0,1008.76,,,,,
+130.4,45.0,63.0,1.0,4381.24,,,,,
+68.1,20.0,47.0,1.0,1382.8,,,,,
+65.26,26.0,72.0,1.0,7380.63,,,,,
+191.62,63.0,51.00000000000001,1.0,1981.6700000000003,,,,,
+212.88,39.0,122.0,1.0,7036.72,,,,,
+88.38,30.0,138.0,1.0,3707.82,,,,,
+48.77,42.0,51.00000000000001,1.0,2040.1600000000003,,,,,
+390.09,26.0,49.0,1.0,2617.23,,,,,
+48.29,37.0,242.0,1.0,8883.4,,,,,
+333.83,63.0,135.0,1.0,1660.66,,,,,
+1074.29,67.0,79.0,1.0,2011.6,,,,,
+100.27,79.0,51.00000000000001,1.0,4309.9,,,,,
+44.54,31.0,164.0,1.0,362.4,,,,,
+1156.18,52.0,40.0,1.0,836.69,,,,,
+82.17,28.0,21.000000000000004,1.0,1913.06,,,,,
+1045.45,19.0,150.0,1.0,563.46,,,,,
+447.42,32.0,65.0,1.0,6133.22,,,,,
+590.26,25.0,48.0,1.0,1068.28,,,,,
+192.73,71.0,157.0,1.0,2037.7499999999998,,,,,
+146.01,26.0,269.0,1.0,221.79,,,,,
+136.05,24.0,63.0,3.0,1127.54,,,,,
+11.57,56.0,64.0,1.0,2061.61,,,,,
+7.820000000000001,36.0,273.0,1.0,2240.49,,,,,
+79.43,74.0,72.0,1.0,6579.37,,,,,
+386.97,58.0,137.0,1.0,1876.35,,,,,
+51.22,23.0,82.0,1.0,1664.59,,,,,
+256.05,54.0,35.0,1.0,6910.18,,,,,
+7.79,34.0,298.0,1.0,1319.85,,,,,
+233.71,63.0,11.0,1.0,6095.5,,,,,
+176.37,55.0,126.0,1.0,2420.86,,,,,
+122.62999999999998,21.0,153.0,1.0,359.06,,,,,
+86.41,75.0,125.0,1.0,3128.71,,,,,
+21.57,54.0,71.0,1.0,7587.48,,,,,
+82.67,26.0,45.99999999999999,1.0,290.59,,,,,
+299.42,63.0,53.00000000000001,1.0,4735.41,,,,,
+543.47,18.0,122.0,1.0,6165.03,,,,,
+346.76,21.0,116.00000000000001,1.0,1637.75,,,,,
+47.48,24.0,66.0,1.0,585.5199999999999,,,,,
+64.92,58.0,236.0,1.0,5481.76,,,,,
+350.72,28.0,48.0,1.0,1982.8999999999999,,,,,
+3.8000000000000003,65.0,174.0,1.0,5766.96,,,,,
+22.54,26.0,42.00000000000001,1.0,7139.11,,,,,
+767.14,62.0,37.99999999999999,1.0,4732.57,,,,,
+167.47,35.0,103.0,1.0,2293.13,,,,,
+43.65,30.0,212.0,1.0,2870.67,,,,,
+391.08,56.0,105.0,1.0,6885.16,,,,,
+390.77,44.0,34.0,1.0,5500.56,,,,,
+508.15999999999997,39.0,131.0,1.0,5609.44,,,,,
+36.76,65.0,107.99999999999999,1.0,1228.93,,,,,
+332.33,27.0,101.0,1.0,192.63,,,,,
+362.09,32.0,30.999999999999996,1.0,6590.28,,,,,
+42.58,30.0,80.0,1.0,13485.0,,,,,
+122.35,53.0,188.0,1.0,6472.5,,,,,
+248.65999999999997,28.0,113.0,1.0,2571.39,,,,,
+461.25,54.0,171.0,1.0,676.0999999999999,,,,,
+61.77000000000001,56.0,49.0,1.0,12352.2,,,,,
+268.92,29.0,148.0,1.0,8765.38,,,,,
+303.97,24.0,77.0,5.0,1590.88,,,,,
+219.02,54.0,68.00000000000001,1.0,7375.73,,,,,
+125.14,20.0,30.999999999999996,1.0,1845.18,,,,,
+47.6,53.0,115.0,1.0,1382.51,,,,,
+592.82,74.0,247.99999999999997,1.0,7508.98,,,,,
+372.5,22.0,211.0,1.0,3901.82,,,,,
+4.72,32.0,20.0,1.0,4792.01,,,,,
+144.93,42.0,74.0,1.0,6887.52,,,,,
+316.56,28.0,261.0,1.0,8643.51,,,,,
+9.18,22.0,140.0,1.0,887.3199999999999,,,,,
+421.25,25.0,66.0,1.0,7174.69,,,,,
+185.71,48.0,194.0,1.0,2679.91,,,,,
+1432.02,60.0,138.0,1.0,4315.07,,,,,
+26.27,45.0,177.0,1.0,8853.93,,,,,
+297.03,61.0,151.0,1.0,1088.62,,,,,
+341.67,53.0,96.0,5.0,1442.29,,,,,
+99.52,52.0,127.0,1.0,3798.0900000000006,,,,,
+881.1,28.0,16.0,1.0,9951.68,,,,,
+139.69,52.0,180.0,1.0,9567.94,,,,,
+112.72,31.0,17.0,1.0,9630.0,,,,,
+568.88,19.0,105.0,1.0,1307.86,,,,,
+189.03,28.0,50.00000000000001,1.0,1916.46,,,,,
+189.08,68.0,238.0,1.0,10790.8,,,,,
+958.9,31.0,135.0,1.0,9977.49,,,,,
+409.59,35.0,50.00000000000001,1.0,14563.02,,,,,
+283.15,24.0,180.0,1.0,603.79,,,,,
+151.82,51.0,105.0,1.0,2197.12,,,,,
+438.59,37.0,103.0,1.0,8994.39,,,,,
+590.57,79.0,93.0,1.0,3224.6,,,,,
+63.74,63.0,30.999999999999996,1.0,4336.4,,,,,
+77.02,59.0,132.0,1.0,800.8299999999999,,,,,
+501.15,47.0,208.0,1.0,8821.84,,,,,
+917.81,64.0,75.0,2.0,3173.17,,,,,
+8.95,76.0,102.0,1.0,3299.84,,,,,
+173.6,21.0,160.0,1.0,421.44,,,,,
+149.4,53.0,123.0,1.0,1035.22,,,,,
+388.21,53.0,237.0,1.0,9724.49,,,,,
+484.3,61.0,230.0,3.0,7910.300000000001,,,,,
+126.04,65.0,167.0,1.0,6041.69,,,,,
+52.04,50.0,30.999999999999996,1.0,8436.12,,,,,
+389.7,62.0,215.99999999999997,1.0,7125.15,,,,,
+309.77,67.0,137.0,1.0,4378.14,,,,,
+202.55,21.0,34.0,2.0,701.7299999999999,,,,,
+724.18,41.0,134.0,1.0,10922.78,,,,,
+124.98,24.0,78.0,1.0,641.9999999999999,,,,,
+487.32,52.0,164.0,1.0,7707.959999999999,,,,,
+635.91,46.0,78.0,1.0,13267.09,,,,,
+205.65,62.0,144.0,1.0,3582.16,,,,,
+39.41,25.0,132.0,1.0,921.91,,,,,
+254.00000000000003,35.0,63.0,1.0,5788.53,,,,,
+436.8,36.0,213.0,1.0,4515.43,,,,,
+224.73,76.0,63.0,1.0,7551.890000000001,,,,,
+752.69,65.0,115.0,1.0,14489.69,,,,,
+78.5,31.0,41.0,1.0,13991.5,,,,,
+50.0,53.0,87.0,1.0,185.87,,,,,
+132.42,18.0,164.0,1.0,726.3899999999999,,,,,
+83.16,61.0,177.0,1.0,3065.87,,,,,
+149.02,46.0,176.0,1.0,9379.72,,,,,
+74.27,59.0,148.0,1.0,13696.61,,,,,
+876.57,62.0,118.0,1.0,3743.6300000000006,,,,,
+615.58,42.0,133.0,1.0,14343.0,,,,,
+643.03,36.0,52.00000000000001,1.0,2882.16,,,,,
+7.950000000000001,79.0,65.0,1.0,5631.2,,,,,
+270.92,77.0,143.0,1.0,4574.43,,,,,
+499.47999999999996,24.0,133.0,1.0,1242.62,,,,,
+841.5,25.0,287.0,1.0,352.31,,,,,
+138.82,77.0,53.00000000000001,1.0,3100.22,,,,,
+231.46,60.0,83.0,1.0,4707.24,,,,,
+292.08,72.0,32.0,1.0,7950.48,,,,,
+63.98,54.0,258.0,1.0,7954.12,,,,,
+235.21,67.0,74.0,1.0,5946.61,,,,,
+201.73,57.0,78.0,1.0,6650.71,,,,,
+161.31,28.0,13.0,1.0,1268.67,,,,,
+18.41,53.0,168.00000000000003,1.0,8287.54,,,,,
+471.75,34.0,41.0,1.0,12948.5,,,,,
+290.02,55.0,246.0,1.0,4746.71,,,,,
+48.05,27.0,37.99999999999999,1.0,5334.97,,,,,
+359.42,55.0,30.0,1.0,1765.45,,,,,
+32.91,19.0,255.0,1.0,427.3,,,,,
+3.8000000000000003,67.0,140.0,1.0,6285.39,,,,,
+31.81,51.0,149.0,1.0,1406.6,,,,,
+220.2,28.0,102.0,1.0,1075.15,,,,,
+476.03,77.0,99.0,1.0,5958.34,,,,,
+141.91,23.0,49.0,1.0,791.9699999999999,,,,,
+95.83,27.0,91.0,1.0,1726.4,,,,,
+51.15,46.0,199.0,1.0,8992.25,,,,,
+1192.2,60.0,103.0,5.0,7816.410000000001,,,,,
+50.75,62.0,185.0,1.0,8271.47,,,,,
+185.07,22.0,159.0,1.0,636.42,,,,,
+293.54,40.0,45.0,1.0,2290.1,,,,,
+285.26,28.0,93.0,1.0,167.72,,,,,
+129.48,31.0,179.0,1.0,7581.7,,,,,
+743.03,50.0,174.0,1.0,4111.38,,,,,
+297.86,28.0,96.0,1.0,1680.14,,,,,
+231.92,66.0,12.0,1.0,5715.08,,,,,
+295.82,47.0,45.99999999999999,1.0,5897.73,,,,,
+302.86,55.0,275.0,1.0,5239.24,,,,,
+81.08,58.0,56.0,1.0,7788.910000000001,,,,,
+775.6,79.0,158.0,1.0,3898.6400000000003,,,,,
+211.91,20.0,181.0,1.0,927.4699999999999,,,,,
+17.21,23.0,219.0,1.0,914.16,,,,,
+124.22,23.0,172.0,1.0,9695.04,,,,,
+38.37,63.0,135.0,1.0,8647.04,,,,,
+269.79,52.0,17.0,1.0,1292.1,,,,,
+605.42,21.0,33.0,1.0,392.34,,,,,
+29.19,58.0,41.0,1.0,12059.85,,,,,
+701.7,61.0,64.0,1.0,6643.24,,,,,
+862.34,57.0,72.0,1.0,9903.48,,,,,
+410.97,22.0,45.0,1.0,151.42,,,,,
+36.97,41.0,79.0,1.0,2850.92,,,,,
+137.59,30.0,95.0,1.0,10679.67,,,,,
+168.11,51.0,12.0,1.0,10652.13,,,,,
+430.98,24.0,93.0,1.0,569.25,,,,,
+13.87,24.0,20.0,1.0,954.83,,,,,
+175.07,28.0,169.0,2.0,9274.64,,,,,
+302.82,36.0,175.0,1.0,9384.54,,,,,
+1647.74,67.0,52.00000000000001,1.0,1483.84,,,,,
+406.81,66.0,84.00000000000001,1.0,1968.3600000000001,,,,,
+256.3,53.0,172.0,1.0,4203.05,,,,,
+80.96,19.0,97.0,1.0,959.9399999999999,,,,,
+95.78,22.0,26.999999999999996,1.0,271.64,,,,,
+379.54,41.0,118.0,1.0,12571.76,,,,,
+903.19,22.0,65.0,1.0,8627.08,,,,,
+142.19,18.0,26.999999999999996,4.0,524.46,,,,,
+847.45,28.0,175.0,1.0,422.32,,,,,
+295.18,66.0,30.999999999999996,1.0,12961.53,,,,,
+18.46,68.0,213.0,1.0,6381.6,,,,,
+603.23,28.0,48.0,1.0,117.98000000000002,,,,,
+54.5,57.0,147.0,1.0,1715.22,,,,,
+414.77,29.0,274.0,1.0,5599.81,,,,,
+886.19,61.0,69.00000000000001,1.0,7904.240000000001,,,,,
+440.03,49.0,88.0,1.0,1490.44,,,,,
+76.39,18.0,219.0,1.0,5976.0,,,,,
+595.91,19.0,162.0,1.0,1673.76,,,,,
+6.03,76.0,70.0,1.0,3290.72,,,,,
+249.34,26.0,197.0,1.0,3030.97,,,,,
+421.52,20.0,67.0,1.0,369.86,,,,,
+189.77,58.0,24.0,1.0,6570.36,,,,,
+73.19,76.0,213.0,1.0,2264.98,,,,,
+188.13,75.0,198.0,1.0,5029.87,,,,,
+30.52,62.0,122.0,1.0,12327.74,,,,,
+1235.69,20.0,118.0,1.0,420.25,,,,,
+1159.39,41.0,150.0,1.0,6499.53,,,,,
+170.24,62.0,133.0,1.0,5172.99,,,,,
+56.62,54.0,121.0,1.0,8981.1,,,,,
+53.14,34.0,70.0,1.0,7914.999999999999,,,,,
+587.23,27.0,144.0,1.0,500.84,,,,,
+21.27,62.0,114.0,1.0,7392.79,,,,,
+1397.59,26.0,144.0,1.0,1134.79,,,,,
+76.02,34.0,189.0,1.0,14765.41,,,,,
+155.51,68.0,15.0,1.0,5360.19,,,,,
+135.15,72.0,50.00000000000001,1.0,5878.14,,,,,
+39.48,56.0,37.99999999999999,1.0,5889.51,,,,,
+451.68,33.0,15.0,1.0,4381.54,,,,,
+355.0,26.0,33.0,1.0,185.47,,,,,
+427.69,43.0,236.0,1.0,2443.54,,,,,
+254.86,23.0,102.0,1.0,699.8999999999999,,,,,
+19.48,27.0,114.0,1.0,4739.59,,,,,
+190.17,49.0,265.0,1.0,12893.85,,,,,
+206.63,59.0,128.0,1.0,7626.53,,,,,
+93.22,52.0,52.00000000000001,1.0,1014.6300000000001,,,,,
+547.98,28.0,171.0,1.0,1358.54,,,,,
+641.06,23.0,25.000000000000004,1.0,1602.13,,,,,
+314.55,27.0,18.999999999999996,2.0,1105.89,,,,,
+836.45,61.0,63.0,1.0,1731.89,,,,,
+1095.09,29.0,52.00000000000001,1.0,8692.47,,,,,
+189.45,53.0,61.99999999999999,1.0,12578.75,,,,,
+91.84,67.0,80.0,1.0,1712.41,,,,,
+609.52,78.0,169.0,1.0,3485.03,,,,,
+859.3,78.0,68.00000000000001,1.0,1146.78,,,,,
+100.01,50.0,63.0,1.0,6393.12,,,,,
+28.78,40.0,51.00000000000001,1.0,680.5499999999998,,,,,
+111.08,70.0,83.0,1.0,7037.34,,,,,
+470.96,69.0,123.99999999999999,2.0,12991.03,,,,,
+52.23,28.0,96.0,1.0,105.01,,,,,
+78.62,32.0,52.00000000000001,1.0,1360.85,,,,,
+47.79,25.0,37.0,1.0,1649.92,,,,,
+333.97,52.0,45.0,1.0,5237.36,,,,,
+30.87,33.0,295.0,1.0,14348.65,,,,,
+710.43,67.0,115.0,1.0,5625.55,,,,,
+220.23,41.0,48.0,1.0,3438.02,,,,,
+27.28,29.0,96.0,1.0,10668.24,,,,,
+101.52,49.0,98.0,1.0,2018.9000000000003,,,,,
+162.65,59.0,147.0,1.0,9500.95,,,,,
+10.52,55.0,30.0,1.0,2472.99,,,,,
+270.72,38.0,37.0,1.0,6522.47,,,,,
+247.58,39.0,151.99999999999997,1.0,778.74,,,,,
+359.65,25.0,289.0,1.0,219.53,,,,,
+109.91,38.0,90.0,1.0,12896.06,,,,,
+215.72,30.0,137.0,1.0,8697.11,,,,,
+490.76,66.0,156.0,1.0,6414.11,,,,,
+224.28,64.0,68.00000000000001,1.0,5767.51,,,,,
+608.79,55.0,157.0,1.0,2991.17,,,,,
+840.16,20.0,68.00000000000001,1.0,1236.76,,,,,
+203.34,60.0,66.0,1.0,13586.99,,,,,
+90.88,26.0,284.0,1.0,7117.35,,,,,
+60.11,61.0,122.0,1.0,7235.87,,,,,
+393.92,72.0,47.0,1.0,7318.64,,,,,
+19.39,43.0,45.0,1.0,9847.6,,,,,
+557.41,80.0,49.0,1.0,2968.75,,,,,
+57.07,31.0,99.0,1.0,9323.71,,,,,
+395.27,18.0,167.0,1.0,1764.08,,,,,
+289.05,75.0,116.00000000000001,1.0,5683.49,,,,,
+46.11,33.0,233.0,1.0,5225.73,,,,,
+335.5,63.0,47.0,1.0,6445.4,,,,,
+388.07,24.0,68.00000000000001,1.0,289.71,,,,,
+520.86,51.0,66.0,1.0,9200.74,,,,,
+787.41,25.0,39.0,1.0,300.87,,,,,
+31.699999999999996,48.0,121.0,1.0,743.8999999999999,,,,,
+22.3,21.0,90.0,1.0,1200.35,,,,,
+203.12,56.0,181.0,1.0,1562.39,,,,,
+315.94,49.0,172.0,1.0,7719.709999999999,,,,,
+192.23,54.0,39.0,3.0,2610.67,,,,,
+1510.71,66.0,51.00000000000001,1.0,2060.02,,,,,
+0.26,20.0,173.0,1.0,1833.67,,,,,
+210.77,71.0,161.0,1.0,5396.65,,,,,
+406.65,57.0,107.0,1.0,12995.7,,,,,
+422.9,40.0,111.0,1.0,7616.43,,,,,
+20.62,35.0,225.0,1.0,12500.8,,,,,
+174.39,19.0,36.0,1.0,1127.08,,,,,
+7.859999999999999,76.0,91.0,1.0,3621.98,,,,,
+54.85,58.0,40.0,1.0,2727.45,,,,,
+204.7,49.0,95.0,5.0,5117.03,,,,,
+16.55,26.0,159.0,1.0,6089.79,,,,,
+91.32,58.0,77.0,1.0,2618.1,,,,,
+49.62,55.0,111.0,1.0,3841.4199999999996,,,,,
+487.16,28.0,84.00000000000001,1.0,321.21,,,,,
+405.6,37.0,44.0,1.0,9754.73,,,,,
+512.95,57.0,143.0,1.0,9584.52,,,,,
+345.94,31.0,163.0,1.0,7624.56,,,,,
+356.56,47.0,52.00000000000001,1.0,2485.73,,,,,
+10.31,36.0,280.0,1.0,2137.9,,,,,
+211.69,30.0,111.0,1.0,6412.85,,,,,
+221.49,23.0,196.0,1.0,707.25,,,,,
+278.23,48.0,83.0,1.0,8300.54,,,,,
+116.88,45.0,263.0,1.0,7717.339999999999,,,,,
+328.77,39.0,247.0,1.0,6967.03,,,,,
+77.53,54.0,55.0,1.0,5158.6,,,,,
+421.74,67.0,103.0,1.0,12031.14,,,,,
+313.69,73.0,151.99999999999997,1.0,7093.68,,,,,
+411.72,29.0,153.0,1.0,8539.86,,,,,
+508.73,59.0,89.0,1.0,7640.57,,,,,
+153.08,24.0,201.0,1.0,1292.21,,,,,
+23.01,63.0,166.0,1.0,5958.75,,,,,
+69.28,25.0,129.0,1.0,708.7399999999999,,,,,
+51.25,28.0,66.0,1.0,1744.4,,,,,
+407.65,25.0,263.0,1.0,273.78,,,,,
+459.25,25.0,59.00000000000001,1.0,130.76,,,,,
+301.56,49.0,118.0,1.0,10389.6,,,,,
+17.67,63.0,91.0,1.0,1048.18,,,,,
+5.29,32.0,132.0,1.0,12896.68,,,,,
+401.37,43.0,251.0,1.0,8208.54,,,,,
+145.4,38.0,24.0,1.0,5244.49,,,,,
+556.34,37.0,45.99999999999999,1.0,11935.14,,,,,
+34.31,24.0,251.0,1.0,1484.76,,,,,
+780.59,23.0,145.0,1.0,6513.34,,,,,
+282.65,35.0,161.0,1.0,13801.15,,,,,
+305.27,68.0,147.0,1.0,12958.65,,,,,
+185.81,32.0,116.00000000000001,1.0,9588.71,,,,,
+66.01,49.0,179.0,1.0,3475.99,,,,,
+447.95,29.0,75.0,1.0,7544.399999999999,,,,,
+279.3,19.0,48.0,1.0,1193.61,,,,,
+611.15,27.0,121.0,1.0,892.8299999999999,,,,,
+275.2,54.0,81.0,1.0,1230.12,,,,,
+427.79,18.0,189.0,1.0,1479.67,,,,,
+469.13,54.0,139.0,1.0,1265.28,,,,,
+102.81,76.0,47.0,1.0,3228.87,,,,,
+22.61,19.0,145.0,1.0,1111.67,,,,,
+68.28,56.0,293.0,1.0,3213.16,,,,,
+33.65,63.0,146.0,1.0,12719.93,,,,,
+362.68,63.0,137.0,1.0,2040.77,,,,,
+73.23,20.0,172.0,1.0,1309.85,,,,,
+654.49,25.0,104.0,1.0,164.61,,,,,
+18.56,49.0,161.0,1.0,4230.37,,,,,
+389.05,27.0,41.0,1.0,761.0,,,,,
+66.91,39.0,85.0,1.0,871.1,,,,,
+335.48,45.0,155.0,1.0,3023.16,,,,,
+38.14,19.0,174.0,1.0,1119.21,,,,,
+1076.98,60.0,173.0,1.0,11833.73,,,,,
+360.02,68.0,68.00000000000001,1.0,6400.59,,,,,
+567.71,63.0,80.0,1.0,13884.24,,,,,
+218.19,19.0,185.0,1.0,620.83,,,,,
+209.99,19.0,40.0,1.0,1938.0100000000002,,,,,
+11.02,19.0,280.0,1.0,964.79,,,,,
+83.43,56.0,109.0,1.0,1870.16,,,,,
+344.97,34.0,106.0,1.0,5577.94,,,,,
+172.29,36.0,283.0,1.0,8700.8,,,,,
+195.54,60.0,255.0,1.0,2794.66,,,,,
+101.23,45.0,87.0,1.0,6169.71,,,,,
+180.46,25.0,34.0,1.0,831.7499999999999,,,,,
+692.55,53.0,109.0,1.0,2451.56,,,,,
+147.31,34.0,91.99999999999999,1.0,13625.52,,,,,
+107.48,20.0,103.0,1.0,1379.39,,,,,
+1831.02,62.0,83.0,1.0,11498.01,,,,,
+81.51,25.0,97.0,1.0,865.4899999999999,,,,,
+365.48,76.0,215.99999999999997,1.0,7147.4,,,,,
+491.1,35.0,125.0,1.0,7833.85,,,,,
+452.8,80.0,151.0,1.0,4840.67,,,,,
+645.04,70.0,78.0,1.0,7361.47,,,,,
+169.28,45.0,114.0,1.0,5128.44,,,,,
+88.42,62.0,91.0,1.0,12381.45,,,,,
+155.53,29.0,66.0,1.0,4008.05,,,,,
+991.8200000000002,43.0,300.0,1.0,3493.13,,,,,
+39.24,77.0,106.0,1.0,6462.41,,,,,
+152.01,42.0,111.0,3.0,4625.12,,,,,
+78.77,48.0,50.00000000000001,1.0,6470.57,,,,,
+26.5,48.0,179.0,1.0,4854.83,,,,,
+83.62,48.0,146.0,1.0,12652.22,,,,,
+142.78,68.0,150.0,1.0,11705.88,,,,,
+55.99,35.0,95.0,1.0,932.61,,,,,
+774.48,61.0,30.999999999999996,1.0,11613.58,,,,,
+105.37,25.0,160.0,1.0,1068.55,,,,,
+118.83,28.0,295.0,1.0,1616.3,,,,,
+46.22,23.0,217.0,1.0,471.2799999999999,,,,,
+659.71,21.0,148.0,1.0,106.86,,,,,
+377.97,72.0,160.0,1.0,2457.1,,,,,
+114.1,69.0,148.0,1.0,5882.12,,,,,
+11.3,55.0,41.0,1.0,1938.99,,,,,
+95.5,57.0,17.0,1.0,4079.09,,,,,
+130.93,28.0,149.0,1.0,860.1199999999999,,,,,
+272.97,68.0,174.0,1.0,7811.310000000001,,,,,
+73.35,24.0,47.0,1.0,1181.84,,,,,
+29.94,58.0,243.0,1.0,10915.54,,,,,
+307.24,19.0,136.0,2.0,1670.72,,,,,
+50.52,20.0,140.0,1.0,1121.19,,,,,
+820.46,53.0,243.0,1.0,5621.86,,,,,
+153.07,56.0,116.00000000000001,1.0,8873.43,,,,,
+52.94,41.0,146.0,1.0,6990.92,,,,,
+384.41,60.0,65.0,1.0,7831.56,,,,,
+235.42,51.0,175.0,1.0,6173.23,,,,,
+114.23,56.0,64.0,1.0,9523.72,,,,,
+12.62,33.0,61.00000000000001,1.0,6420.47,,,,,
+997.37,23.0,145.0,1.0,1146.09,,,,,
+373.52,35.0,235.0,1.0,6430.41,,,,,
+336.05,28.0,164.0,1.0,1635.05,,,,,
+366.93,66.0,33.0,1.0,6697.79,,,,,
+112.27,58.0,102.0,1.0,7369.89,,,,,
+494.9599999999999,40.0,132.0,1.0,6903.68,,,,,
+561.58,65.0,22.999999999999996,1.0,11748.86,,,,,
+440.94,42.0,148.0,1.0,7303.23,,,,,
+71.9,29.0,51.00000000000001,1.0,10619.35,,,,,
+256.66,54.0,137.0,1.0,1794.5,,,,,
+166.55,59.0,99.0,1.0,12970.21,,,,,
+276.26,56.0,143.0,1.0,120.88999999999999,,,,,
+35.46,67.0,164.0,1.0,5692.31,,,,,
+38.14,50.0,165.0,1.0,9879.87,,,,,
+506.25999999999993,64.0,86.0,1.0,6266.65,,,,,
+736.32,31.0,28.0,1.0,14268.95,,,,,
+389.43,52.0,151.0,1.0,6449.83,,,,,
+25.58,60.0,166.0,1.0,6741.41,,,,,
+446.1,25.0,243.0,1.0,1008.44,,,,,
+147.74,23.0,15.0,1.0,1711.78,,,,,
+1228.81,26.0,254.0,1.0,1821.0,,,,,
+46.23,77.0,282.0,1.0,5107.75,,,,,
+265.37,33.0,77.0,1.0,5229.95,,,,,
+342.57,20.0,91.0,1.0,339.16,,,,,
+417.26,32.0,45.0,1.0,10442.48,,,,,
+33.63,63.0,75.99999999999999,1.0,4324.4,,,,,
+64.58,55.0,173.0,1.0,6292.29,,,,,
+23.23,21.0,122.0,1.0,269.01,,,,,
+278.88,64.0,179.0,2.0,1334.09,,,,,
+285.49,53.0,109.0,1.0,6366.84,,,,,
+71.87,22.0,258.0,1.0,1839.1,,,,,
+308.8,53.0,41.0,1.0,3966.5399999999995,,,,,
+288.43,66.0,72.0,1.0,4577.09,,,,,
+147.46,65.0,205.0,1.0,7458.029999999999,,,,,
+214.15,32.0,217.0,1.0,6397.29,,,,,
+71.34,49.0,144.0,3.0,6345.03,,,,,
+170.36,30.0,118.0,1.0,6034.73,,,,,
+965.66,53.0,32.0,1.0,765.8099999999998,,,,,
+736.53,55.0,120.0,1.0,9826.26,,,,,
+213.42,45.0,17.0,1.0,3736.3800000000006,,,,,
+94.09,27.0,203.0,1.0,646.8499999999999,,,,,
+91.23,72.0,86.0,1.0,6385.12,,,,,
+263.92,57.0,233.0,1.0,4161.71,,,,,
+77.5,51.0,201.0,1.0,11079.77,,,,,
+3.65,69.0,146.0,1.0,10017.11,,,,,
+43.88,26.0,251.0,1.0,1644.09,,,,,
+224.79,18.0,129.0,1.0,528.38,,,,,
+64.3,55.0,67.0,1.0,7530.299999999999,,,,,
+111.79,62.0,49.0,1.0,10887.59,,,,,
+927.16,59.0,153.0,1.0,7104.61,,,,,
+613.7,61.0,37.0,1.0,7307.11,,,,,
+26.07,20.0,18.999999999999996,3.0,349.98,,,,,
+170.45,60.0,199.0,1.0,2284.41,,,,,
+344.27,22.0,123.0,1.0,1918.3600000000001,,,,,
+872.72,22.0,288.0,1.0,503.01,,,,,
+292.95,37.0,56.0,1.0,1216.91,,,,,
+28.44,18.0,243.0,1.0,1071.04,,,,,
+209.02,21.0,74.0,1.0,187.9,,,,,
+20.05,72.0,171.0,1.0,7145.67,,,,,
+175.02,28.0,71.0,1.0,1493.88,,,,,
+89.5,41.0,134.0,1.0,8658.95,,,,,
+69.96,28.0,30.999999999999996,1.0,164.12,,,,,
+376.78,21.0,88.0,1.0,841.6499999999999,,,,,
+148.54,71.0,107.0,1.0,5677.05,,,,,
+388.77,26.0,30.0,1.0,1658.49,,,,,
+100.38,63.0,49.0,1.0,10171.68,,,,,
+137.23,64.0,63.0,1.0,13847.99,,,,,
+870.3,51.0,229.0,1.0,3688.98,,,,,
+458.94,52.0,180.0,1.0,5619.95,,,,,
+327.35,20.0,175.0,1.0,342.08,,,,,
+757.15,53.0,37.99999999999999,1.0,4702.86,,,,,
+47.23,73.0,160.0,1.0,6659.81,,,,,
+239.41,42.0,247.99999999999997,1.0,7860.65,,,,,
+170.97,26.0,292.0,1.0,1265.27,,,,,
+262.43,37.0,274.0,5.0,12841.01,,,,,
+659.15,22.0,204.0,1.0,1241.59,,,,,
+31.53,25.0,283.0,1.0,874.93,,,,,
+111.66,48.0,140.0,1.0,5716.72,,,,,
+250.01,62.0,88.0,1.0,1541.48,,,,,
+554.15,49.0,107.99999999999999,1.0,14817.22,,,,,
+598.66,32.0,222.0,1.0,2587.11,,,,,
+28.38,55.0,98.0,1.0,173.7,,,,,
+16.8,49.0,94.0,1.0,11847.07,,,,,
+896.79,33.0,168.00000000000003,1.0,11146.74,,,,,
+159.0,49.0,37.99999999999999,1.0,369.79,,,,,
+56.31,75.0,195.0,1.0,6396.08,,,,,
+203.99,52.0,215.0,1.0,4840.31,,,,,
+50.99,29.0,75.99999999999999,1.0,1334.6,,,,,
+101.28,32.0,75.0,1.0,2774.35,,,,,
+299.92,27.0,122.0,1.0,1368.0,,,,,
+77.54,67.0,73.0,1.0,4536.38,,,,,
+18.35,21.0,78.0,1.0,1293.39,,,,,
+732.53,26.0,116.00000000000001,1.0,441.54,,,,,
+65.11,34.0,150.0,1.0,8485.14,,,,,
+67.07,24.0,56.0,1.0,999.6200000000001,,,,,
+137.48,55.0,47.0,1.0,14273.42,,,,,
+398.36,22.0,56.0,1.0,1863.7,,,,,
+469.46,20.0,149.0,1.0,8640.56,,,,,
+37.58,57.0,182.0,1.0,259.44,,,,,
+160.24,31.0,15.0,1.0,5526.97,,,,,
+315.39,23.0,93.0,1.0,929.6,,,,,
+434.17,21.0,148.0,5.0,5335.44,,,,,
+165.91,26.0,84.00000000000001,1.0,587.1199999999999,,,,,
+211.36,47.0,194.0,1.0,4760.34,,,,,
+241.45000000000002,26.0,158.0,1.0,1594.04,,,,,
+23.24,68.0,129.0,1.0,13777.79,,,,,
+70.88,74.0,176.0,1.0,1794.65,,,,,
+1143.67,66.0,111.0,1.0,7677.760000000001,,,,,
+314.52,80.0,229.0,1.0,7071.32,,,,,
+181.81,78.0,122.0,1.0,7525.7300000000005,,,,,
+854.64,56.0,118.0,1.0,2989.25,,,,,
+261.19,64.0,52.00000000000001,1.0,7620.6,,,,,
+220.68,71.0,217.0,1.0,5549.2,,,,,
+11.86,31.0,129.0,1.0,6782.61,,,,,
+122.65000000000002,28.0,41.0,1.0,1968.51,,,,,
+395.16,56.0,17.0,1.0,5340.73,,,,,
+704.69,51.0,150.0,1.0,3267.84,,,,,
+369.89,69.0,69.00000000000001,1.0,6941.47,,,,,
+10.92,67.0,268.0,1.0,7567.2,,,,,
+199.14,31.0,36.0,1.0,7001.25,,,,,
+109.43,70.0,140.0,1.0,1983.65,,,,,
+304.15,20.0,40.0,1.0,686.9099999999999,,,,,
+620.54,28.0,98.0,1.0,213.36,,,,,
+757.79,22.0,117.0,1.0,1443.02,,,,,
+122.81,52.0,12.0,1.0,8450.84,,,,,
+96.25,61.0,171.0,1.0,7996.699999999999,,,,,
+1431.33,30.0,49.0,1.0,5567.98,,,,,
+142.55,67.0,97.0,1.0,1262.68,,,,,
+35.94,23.0,141.0,1.0,1697.28,,,,,
+24.86,58.0,292.0,1.0,2591.65,,,,,
+103.08,60.0,109.0,1.0,12002.16,,,,,
+116.27,57.0,94.0,1.0,8726.92,,,,,
+363.84,73.0,118.0,3.0,5415.64,,,,,
+108.75,50.0,22.999999999999996,4.0,14829.85,,,,,
+50.9,28.0,150.0,1.0,1277.7,,,,,
+206.84,20.0,154.0,1.0,454.66,,,,,
+37.4,20.0,84.00000000000001,1.0,1519.51,,,,,
+154.21,46.0,75.0,1.0,8045.77,,,,,
+199.37,24.0,79.0,1.0,1331.3,,,,,
+1360.01,67.0,218.0,1.0,6601.5,,,,,
+18.23,56.0,28.0,1.0,8422.2,,,,,
+398.7,47.0,276.0,1.0,7987.740000000001,,,,,
+378.2,40.0,167.0,1.0,7372.81,,,,,
+124.74,49.0,33.0,1.0,2987.97,,,,,
+17.1,53.0,101.0,1.0,1619.54,,,,,
+287.05,22.0,212.0,1.0,1204.65,,,,,
+874.72,28.0,173.0,1.0,4630.58,,,,,
+1762.28,24.0,150.0,1.0,1380.34,,,,,
+40.12,36.0,269.0,1.0,14304.38,,,,,
+125.00000000000001,49.0,177.0,1.0,3215.76,,,,,
+348.44,24.0,147.0,1.0,1022.94,,,,,
+128.4,69.0,30.999999999999996,1.0,2610.64,,,,,
+320.93,55.0,178.0,1.0,9451.66,,,,,
+1.41,53.0,278.0,1.0,1244.17,,,,,
+50.52,54.0,293.0,1.0,12815.24,,,,,
+383.95,31.0,143.0,1.0,9933.56,,,,,
+12.94,23.0,158.0,1.0,921.23,,,,,
+329.75,56.0,211.0,1.0,6009.43,,,,,
+981.76,45.0,234.0,1.0,602.3599999999999,,,,,
+40.79,18.0,80.0,1.0,1769.33,,,,,
+99.25,63.0,93.0,1.0,2570.34,,,,,
+150.6,69.0,59.00000000000001,1.0,3240.14,,,,,
+29.5,73.0,129.0,1.0,1229.32,,,,,
+54.34,65.0,45.99999999999999,1.0,8019.890000000001,,,,,
+18.25,53.0,18.0,1.0,14328.29,,,,,
+633.87,27.0,175.0,1.0,330.16,,,,,
+81.15,19.0,114.0,1.0,1595.26,,,,,
+83.95,75.0,170.0,1.0,7413.18,,,,,
+410.4,61.0,78.0,1.0,2563.91,,,,,
+172.68,33.0,17.0,1.0,10724.95,,,,,
+139.88,34.0,162.0,1.0,2969.71,,,,,
+165.55,28.0,115.0,1.0,761.7799999999999,,,,,
+53.79,54.0,137.0,3.0,6229.36,,,,,
+285.69,63.0,35.0,1.0,2552.54,,,,,
+532.4,22.0,149.0,1.0,1033.73,,,,,
+293.85,25.0,144.0,1.0,1919.97,,,,,
+27.94,79.0,120.0,1.0,1893.4399999999998,,,,,
+270.36,25.0,37.0,1.0,1783.04,,,,,
+112.66,29.0,176.0,3.0,852.98,,,,,
+506.03000000000003,21.0,21.000000000000004,1.0,1123.89,,,,,
+206.95,22.0,30.999999999999996,1.0,1817.65,,,,,
+350.96,63.0,167.0,1.0,5463.94,,,,,
+261.63,20.0,150.0,1.0,477.03,,,,,
+46.12,59.0,30.0,1.0,8874.01,,,,,
+27.25,63.0,91.99999999999999,1.0,5365.2,,,,,
+1353.93,26.0,171.0,1.0,7858.41,,,,,
+331.66,76.0,145.0,1.0,7216.3,,,,,
+667.95,62.0,253.0,1.0,13558.56,,,,,
+49.84,49.0,146.0,1.0,7872.04,,,,,
+556.04,72.0,26.999999999999996,1.0,5200.04,,,,,
+88.06,18.0,288.0,1.0,1779.85,,,,,
+745.95,58.0,127.0,1.0,13264.14,,,,,
+67.25,19.0,157.0,1.0,467.4,,,,,
+93.63,29.0,141.0,1.0,9873.62,,,,,
+74.11,22.0,49.0,1.0,1257.9,,,,,
+41.13,77.0,58.00000000000001,1.0,6067.54,,,,,
+192.02,79.0,154.0,1.0,5169.07,,,,,
+291.27,77.0,121.0,1.0,6878.86,,,,,
+296.46,23.0,136.0,1.0,558.99,,,,,
+341.84,27.0,89.0,1.0,1400.04,,,,,
+98.41,27.0,48.0,1.0,912.7099999999999,,,,,
+109.28,36.0,112.0,4.0,6338.35,,,,,
+27.51,40.0,103.0,1.0,13645.63,,,,,
+207.71,25.0,63.0,1.0,570.0999999999999,,,,,
+25.77,45.0,277.0,1.0,11749.77,,,,,
+127.56999999999998,52.0,75.0,1.0,6118.2,,,,,
+392.05,60.0,172.0,1.0,4383.69,,,,,
+521.01,41.0,73.0,1.0,4004.55,,,,,
+849.76,25.0,269.0,1.0,373.88,,,,,
+172.5,68.0,30.999999999999996,1.0,6851.16,,,,,
+152.34,55.0,115.0,1.0,6853.51,,,,,
+21.13,28.0,153.0,1.0,948.7,,,,,
+111.55,46.0,101.0,1.0,12221.17,,,,,
+321.82,32.0,43.0,1.0,6500.5,,,,,
+1294.81,45.0,279.0,1.0,9927.75,,,,,
+148.77,67.0,175.0,1.0,2138.42,,,,,
+14.08,57.0,154.0,1.0,3908.6499999999996,,,,,
+566.33,24.0,66.0,1.0,379.82,,,,,
+206.51,51.0,275.0,1.0,3921.74,,,,,
+180.94,75.0,57.0,1.0,7659.990000000001,,,,,
+77.9,21.0,128.0,1.0,664.7199999999999,,,,,
+318.92,21.0,60.00000000000001,1.0,1167.25,,,,,
+583.3,59.0,142.0,1.0,5896.01,,,,,
+100.68,63.0,139.0,1.0,1123.75,,,,,
+589.64,62.0,210.0,1.0,2039.4,,,,,
+225.93,25.0,199.0,1.0,1864.27,,,,,
+651.55,72.0,82.0,1.0,2325.78,,,,,
+80.97,38.0,157.0,1.0,5926.31,,,,,
+191.89,25.0,14.0,1.0,399.57,,,,,
+304.75,78.0,125.0,1.0,1916.34,,,,,
+201.53,68.0,287.0,1.0,2732.86,,,,,
+8.45,22.0,141.0,1.0,1115.3,,,,,
+435.98,30.0,105.0,1.0,7334.08,,,,,
+743.24,19.0,109.0,1.0,1024.19,,,,,
+16.27,57.0,44.0,1.0,10971.32,,,,,
+290.86,45.0,36.0,1.0,14631.88,,,,,
+85.73,41.0,266.0,1.0,14928.35,,,,,
+555.71,22.0,73.0,1.0,830.3699999999999,,,,,
+40.03,23.0,200.00000000000003,1.0,6408.8,,,,,
+73.01,25.0,61.99999999999999,1.0,1997.3299999999997,,,,,
+346.12,44.0,12.0,1.0,13084.27,,,,,
+1.9299999999999997,47.0,175.0,5.0,5684.09,,,,,
+252.92999999999998,75.0,222.0,1.0,2760.37,,,,,
+238.54,19.0,12.0,4.0,868.9099999999999,,,,,
+58.7,67.0,141.0,1.0,8937.35,,,,,
+7.5600000000000005,40.0,145.0,1.0,8528.72,,,,,
+540.4,45.0,272.0,1.0,425.77,,,,,
+264.14,64.0,125.0,1.0,8459.26,,,,,
+248.15000000000003,75.0,202.0,1.0,2649.23,,,,,
+24.34,54.0,110.0,1.0,6659.12,,,,,
+428.61,66.0,61.99999999999999,1.0,11937.04,,,,,
+117.66,39.0,126.0,1.0,6794.17,,,,,
+165.8,60.0,287.0,1.0,2064.76,,,,,
+289.18,65.0,64.0,1.0,3139.75,,,,,
+125.38999999999999,21.0,140.0,1.0,202.69,,,,,
+305.18,58.0,215.99999999999997,1.0,4474.2,,,,,
+506.90000000000003,64.0,56.0,1.0,11471.87,,,,,
+504.11999999999995,25.0,101.0,1.0,1107.28,,,,,
+42.09,29.0,118.0,1.0,5526.28,,,,,
+607.28,32.0,84.00000000000001,1.0,9679.68,,,,,
+91.9,77.0,125.0,1.0,1033.94,,,,,
+303.43,22.0,30.0,1.0,1833.24,,,,,
+668.78,20.0,141.0,1.0,983.6799999999998,,,,,
+270.54,20.0,139.0,1.0,269.78,,,,,
+247.93,37.0,79.0,1.0,9801.48,,,,,
+34.67,19.0,71.0,1.0,888.6,,,,,
+326.03,18.0,137.0,1.0,290.24,,,,,
+148.26,25.0,57.0,1.0,958.7,,,,,
+1086.6,19.0,37.99999999999999,1.0,1605.67,,,,,
+373.99,60.0,140.0,1.0,8590.5,,,,,
+819.48,25.0,26.0,1.0,1804.5,,,,,
+14.0,49.0,173.0,1.0,7975.179999999999,,,,,
+57.16,40.0,74.0,1.0,222.22,,,,,
+282.26,37.0,278.0,1.0,6857.2,,,,,
+473.2,34.0,173.0,1.0,248.52,,,,,
+192.97,59.0,140.0,1.0,3019.04,,,,,
+168.99,18.0,203.0,1.0,1523.57,,,,,
+1.8200000000000003,80.0,60.00000000000001,1.0,5571.39,,,,,
+40.9,55.0,37.0,1.0,1514.34,,,,,
+78.91,61.0,157.0,1.0,1817.43,,,,,
+169.97,22.0,12.0,1.0,6269.12,,,,,
+17.79,61.0,162.0,5.0,2281.9,,,,,
+486.61,48.0,130.0,1.0,2006.69,,,,,
+148.13,58.0,56.0,1.0,2189.38,,,,,
+164.52,61.0,162.0,1.0,11036.74,,,,,
+720.89,27.0,120.0,1.0,447.06,,,,,
+268.7,53.0,63.0,1.0,2104.74,,,,,
+637.34,51.0,278.0,1.0,5183.5,,,,,
+216.76,47.0,138.0,1.0,643.6399999999999,,,,,
+418.02,46.0,110.0,1.0,11011.86,,,,,
+292.03,46.0,154.0,1.0,951.3300000000002,,,,,
+251.4,57.0,178.0,1.0,2561.67,,,,,
+184.56,21.0,93.0,1.0,1549.27,,,,,
+33.76,26.0,227.0,1.0,3253.51,,,,,
+1612.37,65.0,173.0,1.0,3910.5900000000006,,,,,
+138.68,22.0,44.0,1.0,206.2,,,,,
+42.56,18.0,146.0,1.0,4361.44,,,,,
+680.76,21.0,165.0,1.0,572.97,,,,,
+53.83,70.0,131.0,1.0,4580.59,,,,,
+11.09,51.0,95.0,1.0,2990.05,,,,,
+37.81,63.0,195.0,1.0,5208.98,,,,,
+449.18,67.0,50.00000000000001,1.0,1025.99,,,,,
+1135.8,30.0,250.0,1.0,13534.3,,,,,
+297.6,39.0,162.0,1.0,1461.17,,,,,
+683.75,32.0,106.0,1.0,6333.72,,,,,
+21.4,48.0,129.0,1.0,8551.6,,,,,
+315.94,78.0,93.0,1.0,4273.99,,,,,
+331.32,61.0,137.0,5.0,13054.54,,,,,
+223.76,74.0,110.0,1.0,4102.23,,,,,
+216.03,42.0,300.0,1.0,10462.77,,,,,
+17.42,74.0,150.0,1.0,6851.31,,,,,
+491.91,78.0,155.0,1.0,2421.94,,,,,
+350.11,74.0,178.0,1.0,4639.04,,,,,
+218.07,23.0,243.0,1.0,443.62,,,,,
+422.14,26.0,109.0,1.0,1436.32,,,,,
+613.21,61.0,157.0,1.0,3279.12,,,,,
+73.83,69.0,69.00000000000001,1.0,6020.29,,,,,
+67.33,59.0,36.0,1.0,5925.98,,,,,
+26.92,62.0,43.0,1.0,1674.94,,,,,
+18.3,48.0,155.0,1.0,3733.5200000000004,,,,,
+317.94,54.0,123.99999999999999,1.0,2996.51,,,,,
+179.38,40.0,173.0,1.0,11666.18,,,,,
+918.95,68.0,139.0,1.0,7006.46,,,,,
+13.92,37.0,209.0,1.0,2735.84,,,,,
+365.43,25.0,176.0,1.0,1073.51,,,,,
+263.59,71.0,16.0,1.0,6996.35,,,,,
+54.8,34.0,140.0,1.0,4943.49,,,,,
+141.49,24.0,75.0,1.0,1665.58,,,,,
+31.389999999999997,20.0,15.0,1.0,998.4900000000001,,,,,
+93.82,39.0,176.0,1.0,8422.06,,,,,
+5.71,21.0,106.0,1.0,1285.42,,,,,
+178.39,34.0,98.0,1.0,8469.43,,,,,
+126.91,22.0,42.00000000000001,1.0,692.6899999999999,,,,,
+36.09,53.0,167.0,1.0,12319.26,,,,,
+91.77,51.0,174.0,1.0,9240.73,,,,,
+198.92,36.0,100.00000000000001,1.0,2854.66,,,,,
+137.81,58.0,44.0,1.0,2631.47,,,,,
+136.88,24.0,71.0,1.0,7465.950000000001,,,,,
+133.07,21.0,155.0,1.0,1670.99,,,,,
+1.14,43.0,137.0,1.0,13913.92,,,,,
+256.34,69.0,99.0,1.0,7471.630000000001,,,,,
+56.11,36.0,109.0,1.0,11123.65,,,,,
+118.1,50.0,50.00000000000001,1.0,7976.6,,,,,
+137.86,66.0,120.0,1.0,8046.939999999999,,,,,
+813.78,54.0,55.0,1.0,14935.500000000002,,,,,
+237.97,69.0,69.00000000000001,1.0,13486.15,,,,,
+684.96,21.0,30.999999999999996,1.0,526.67,,,,,
+878.63,60.0,139.0,1.0,4954.37,,,,,
+276.56,68.0,15.0,1.0,8942.58,,,,,
+8.75,79.0,199.0,1.0,4044.6199999999994,,,,,
+637.48,65.0,207.0,1.0,4148.85,,,,,
+103.15,51.0,179.0,1.0,11388.15,,,,,
+505.59999999999997,52.0,183.0,1.0,5347.57,,,,,
+371.86,46.0,91.0,1.0,1329.45,,,,,
+14.26,50.0,37.0,1.0,2475.65,,,,,
+13.16,43.0,98.0,1.0,1019.46,,,,,
+167.92,40.0,136.0,2.0,14321.73,,,,,
+73.01,56.0,101.0,1.0,2833.12,,,,,
+201.5,61.0,196.0,1.0,12148.32,,,,,
+150.3,41.0,204.0,1.0,14371.08,,,,,
+23.7,46.0,32.0,1.0,7947.439999999999,,,,,
+49.59,48.0,147.0,1.0,6037.03,,,,,
+720.13,22.0,96.0,1.0,387.02,,,,,
+134.92,19.0,101.0,1.0,1081.97,,,,,
+116.97,18.0,299.0,1.0,729.7,,,,,
+11.06,34.0,13.0,3.0,2782.21,,,,,
+88.29,50.0,287.0,1.0,5245.93,,,,,
+5.81,25.0,222.0,1.0,1290.95,,,,,
+103.48,32.0,33.0,1.0,6494.25,,,,,
+156.74,70.0,136.0,1.0,4004.35,,,,,
+505.14,68.0,179.0,1.0,2525.47,,,,,
+31.060000000000002,46.0,61.00000000000001,1.0,11014.25,,,,,
+7.610000000000001,50.0,163.0,1.0,6275.0,,,,,
+276.16,53.0,71.0,1.0,1733.34,,,,,
+145.77,68.0,237.0,1.0,5294.98,,,,,
+369.44,34.0,18.999999999999996,1.0,5018.67,,,,,
+558.86,60.0,95.0,1.0,9844.32,,,,,
+429.15,26.0,218.0,1.0,712.1299999999999,,,,,
+36.74,33.0,133.0,1.0,6217.58,,,,,
+79.14,57.0,22.0,1.0,2229.56,,,,,
+132.48,36.0,101.0,1.0,9313.05,,,,,
+136.48,52.0,138.0,4.0,4618.53,,,,,
+203.76,55.0,37.0,1.0,6747.16,,,,,
+750.95,78.0,26.999999999999996,1.0,5134.37,,,,,
+0.84,52.0,30.999999999999996,1.0,2207.54,,,,,
+257.18,67.0,28.0,1.0,13336.15,,,,,
+767.66,63.0,155.0,1.0,1801.69,,,,,
+182.29,54.0,123.0,1.0,522.39,,,,,
+184.51,54.0,118.0,1.0,9381.64,,,,,
+451.31,62.0,166.0,5.0,2963.29,,,,,
+144.1,57.0,30.0,1.0,11523.64,,,,,
+72.5,40.0,30.0,1.0,12723.62,,,,,
+74.11,69.0,71.0,4.0,3920.11,,,,,
+22.15,44.0,73.0,1.0,7451.83,,,,,
+777.92,62.0,97.0,1.0,7061.58,,,,,
+790.07,28.0,197.0,1.0,985.7700000000001,,,,,
+406.33,59.0,103.0,1.0,4298.34,,,,,
+767.41,56.0,26.999999999999996,1.0,12799.34,,,,,
+4.58,21.0,135.0,1.0,811.2399999999999,,,,,
+49.67,21.0,146.0,1.0,842.94,,,,,
+77.83,49.0,146.0,1.0,2471.53,,,,,
+702.87,19.0,183.99999999999997,1.0,1237.5,,,,,
+133.56,25.0,177.0,1.0,783.8299999999999,,,,,
+868.05,49.0,119.0,1.0,3931.03,,,,,
+52.87,24.0,70.0,1.0,960.96,,,,,
+179.0,78.0,121.0,1.0,7310.88,,,,,
+1168.26,73.0,37.0,1.0,1385.74,,,,,
+384.11,58.0,12.0,1.0,7902.5199999999995,,,,,
+227.61,71.0,61.00000000000001,1.0,4405.28,,,,,
+40.83,48.0,24.0,1.0,3944.12,,,,,
+19.76,20.0,240.0,1.0,1523.04,,,,,
+484.24,67.0,77.0,1.0,8042.299999999999,,,,,
+301.47,21.0,291.0,1.0,560.73,,,,,
+199.09,70.0,89.0,1.0,1658.52,,,,,
+38.95,27.0,50.00000000000001,1.0,731.52,,,,,
+515.94,29.0,37.0,1.0,1389.89,,,,,
+41.93,48.0,136.0,1.0,5081.26,,,,,
+95.35,21.0,131.0,1.0,1639.9,,,,,
+93.14,67.0,151.0,1.0,5473.82,,,,,
+1427.71,64.0,159.0,1.0,1729.26,,,,,
+79.33,51.0,109.0,1.0,14798.1,,,,,
+233.71,19.0,297.0,1.0,1231.98,,,,,
+14.92,26.0,120.0,1.0,6611.26,,,,,
+242.17,60.0,147.0,1.0,883.7199999999999,,,,,
+122.98,79.0,228.0,1.0,5055.99,,,,,
+129.35,52.0,130.0,1.0,7166.88,,,,,
+138.33,21.0,69.00000000000001,1.0,232.56,,,,,
+39.31,25.0,178.0,1.0,1236.38,,,,,
+91.85,21.0,148.0,1.0,802.09,,,,,
+277.7,58.0,107.0,1.0,1423.2,,,,,
+114.03,51.0,172.0,1.0,13388.56,,,,,
+302.63,27.0,10.0,1.0,2801.28,,,,,
+31.19,52.0,74.0,1.0,5545.96,,,,,
+112.91,27.0,135.0,1.0,4764.48,,,,,
+742.26,27.0,36.0,1.0,7868.189999999999,,,,,
+256.8,26.0,80.0,1.0,1128.38,,,,,
+378.68,60.0,239.0,1.0,7627.04,,,,,
+571.93,52.0,119.0,1.0,4026.0300000000007,,,,,
+26.31,77.0,163.0,1.0,7095.76,,,,,
+533.61,48.0,115.0,1.0,3656.93,,,,,
+428.62,55.0,72.0,1.0,3473.24,,,,,
+361.22,64.0,167.0,1.0,7061.73,,,,,
+837.29,25.0,215.99999999999997,1.0,6012.67,,,,,
+117.25,31.0,73.0,1.0,13694.68,,,,,
+135.27,48.0,131.0,1.0,9410.51,,,,,
+185.1,53.0,22.999999999999996,1.0,6115.63,,,,,
+113.54,38.0,273.0,1.0,5581.21,,,,,
+354.96,69.0,96.0,1.0,6712.94,,,,,
+224.22,53.0,37.0,1.0,8400.87,,,,,
+737.1,60.0,91.99999999999999,1.0,4644.19,,,,,
+223.22,27.0,96.0,1.0,1734.22,,,,,
+557.26,69.0,53.00000000000001,1.0,5237.12,,,,,
+1496.57,33.0,95.0,1.0,969.06,,,,,
+27.44,62.0,164.0,1.0,5950.48,,,,,
+310.09,36.0,166.0,1.0,9962.5,,,,,
+80.38,52.0,116.00000000000001,1.0,9662.88,,,,,
+26.1,66.0,115.0,1.0,5243.0,,,,,
+845.14,73.0,183.0,1.0,1702.65,,,,,
+59.73,27.0,56.0,1.0,800.93,,,,,
+758.77,60.0,114.0,1.0,7231.47,,,,,
+301.51,22.0,284.0,1.0,1052.31,,,,,
+418.03,58.0,161.0,1.0,10721.29,,,,,
+118.06,32.0,30.999999999999996,1.0,13560.63,,,,,
+483.92,70.0,115.0,1.0,3138.0,,,,,
+78.93,38.0,145.0,1.0,9916.24,,,,,
+36.63,75.0,261.0,1.0,7941.73,,,,,
+87.85,49.0,63.0,1.0,3753.2400000000002,,,,,
+1001.83,31.0,55.0,1.0,9733.83,,,,,
+705.34,59.0,123.99999999999999,1.0,5003.22,,,,,
+146.55,54.0,123.99999999999999,5.0,4087.4400000000005,,,,,
+116.89,71.0,226.0,1.0,4880.31,,,,,
+106.41,57.0,87.0,1.0,1310.38,,,,,
+1087.9,78.0,103.0,1.0,2513.51,,,,,
+584.41,23.0,41.0,1.0,4475.22,,,,,
+584.98,55.0,121.0,1.0,6521.05,,,,,
+79.21,56.0,140.0,1.0,1615.04,,,,,
+173.13,20.0,288.0,1.0,1490.34,,,,,
+335.7,80.0,57.0,1.0,6601.44,,,,,
+1225.5,50.0,109.0,1.0,8611.17,,,,,
+422.81,28.0,193.0,1.0,1929.2799999999997,,,,,
+135.43,57.0,91.99999999999999,1.0,5315.83,,,,,
+584.88,26.0,121.0,1.0,548.45,,,,,
+308.94,25.0,167.0,1.0,1931.6599999999999,,,,,
+295.93,36.0,117.0,1.0,1050.63,,,,,
+1512.99,19.0,50.00000000000001,1.0,9963.39,,,,,
+77.44,58.0,268.0,1.0,1950.63,,,,,
+92.5,40.0,70.0,1.0,6295.45,,,,,
+97.74,41.0,137.0,1.0,4113.63,,,,,
+291.68,21.0,90.0,1.0,1451.02,,,,,
+56.96,22.0,135.0,1.0,1597.85,,,,,
+436.8,27.0,91.99999999999999,1.0,1256.33,,,,,
+259.49,72.0,292.0,1.0,7320.61,,,,,
+726.26,57.0,147.0,1.0,2150.38,,,,,
+568.68,72.0,101.0,1.0,2940.04,,,,,
+77.57,49.0,225.0,1.0,12801.93,,,,,
+999.28,29.0,40.0,1.0,4272.41,,,,,
+14.16,74.0,290.0,1.0,5399.76,,,,,
+1142.83,61.0,48.0,1.0,2467.39,,,,,
+61.330000000000005,27.0,129.0,1.0,7537.400000000001,,,,,
+27.64,54.0,22.999999999999996,1.0,7498.509999999999,,,,,
+3.85,29.0,32.0,1.0,10506.41,,,,,
+431.22,73.0,129.0,1.0,6505.98,,,,,
+178.55,55.0,67.0,1.0,7568.400000000001,,,,,
+248.76,18.0,56.0,1.0,546.46,,,,,
+76.16,23.0,99.0,1.0,1072.25,,,,,
+347.25,69.0,250.0,1.0,7273.55,,,,,
+325.98,19.0,277.0,1.0,782.35,,,,,
+249.56000000000003,76.0,246.0,1.0,4444.95,,,,,
+17.43,56.0,33.0,1.0,10658.88,,,,,
+198.01,26.0,40.0,1.0,250.93000000000004,,,,,
+585.58,23.0,55.0,1.0,1729.02,,,,,
+434.67,27.0,123.99999999999999,1.0,1298.13,,,,,
+510.7,27.0,294.0,1.0,5828.48,,,,,
+331.98,74.0,12.0,1.0,7600.99,,,,,
+199.54,56.0,268.0,1.0,9603.73,,,,,
+212.97,59.0,178.0,1.0,4180.4,,,,,
+270.56,23.0,139.0,1.0,1268.44,,,,,
+306.37,26.0,120.0,1.0,9609.67,,,,,
+643.02,38.0,85.0,1.0,11989.39,,,,,
+98.48,47.0,12.0,1.0,9538.92,,,,,
+889.01,36.0,169.0,1.0,4826.88,,,,,
+537.86,27.0,134.0,1.0,293.06,,,,,
+241.18,25.0,162.0,1.0,1445.53,,,,,
+130.54,64.0,94.0,1.0,11204.62,,,,,
+800.29,20.0,84.00000000000001,1.0,693.4,,,,,
+8.81,57.0,165.0,1.0,13523.65,,,,,
+28.52,20.0,163.0,1.0,662.51,,,,,
+431.31,23.0,99.0,1.0,342.73,,,,,
+885.33,47.0,59.00000000000001,1.0,7764.159999999999,,,,,
+199.23,29.0,53.99999999999999,1.0,9834.0,,,,,
+42.26,44.0,171.0,1.0,268.77,,,,,
+166.06,30.0,172.0,1.0,5397.68,,,,,
+357.72,53.0,25.000000000000004,1.0,7659.500000000001,,,,,
+588.37,28.0,284.0,1.0,1926.0799999999997,,,,,
+72.82,68.0,127.0,1.0,6911.62,,,,,
+162.36,36.0,147.0,1.0,7527.040000000001,,,,,
+584.82,43.0,109.0,1.0,12071.1,,,,,
+38.15,72.0,129.0,1.0,1425.47,,,,,
+477.54,23.0,52.00000000000001,1.0,1598.63,,,,,
+639.57,60.0,43.0,1.0,11726.47,,,,,
+58.23,28.0,34.0,1.0,9189.76,,,,,
+776.21,78.0,99.0,1.0,4895.87,,,,,
+188.61,67.0,26.0,1.0,7167.57,,,,,
+675.37,56.0,30.999999999999996,1.0,4704.91,,,,,
+94.82,67.0,56.0,1.0,1267.72,,,,,
+425.18,59.0,135.0,1.0,5790.55,,,,,
+50.28,60.0,65.0,1.0,5729.1,,,,,
+70.68,25.0,105.0,1.0,1478.41,,,,,
+261.77,28.0,45.99999999999999,1.0,824.7099999999999,,,,,
+183.22,27.0,63.0,1.0,1024.42,,,,,
+58.32,29.0,275.0,4.0,6027.49,,,,,
+156.86,51.0,102.0,1.0,14453.35,,,,,
+120.67,42.0,233.0,1.0,5374.54,,,,,
+308.62,59.0,101.0,1.0,9148.08,,,,,
+506.81,59.0,41.0,1.0,2757.23,,,,,
+328.39,41.0,107.99999999999999,1.0,2523.83,,,,,
+796.3,67.0,64.0,1.0,1498.79,,,,,
+72.47,29.0,72.0,1.0,1305.56,,,,,
+279.6,25.0,131.0,1.0,1910.9000000000003,,,,,
+304.2,25.0,102.0,1.0,423.64,,,,,
+351.38,64.0,21.000000000000004,1.0,7606.63,,,,,
+86.07,31.0,22.999999999999996,1.0,842.5599999999998,,,,,
+604.5,28.0,80.0,1.0,709.4199999999998,,,,,
+258.7,27.0,123.0,1.0,1358.37,,,,,
+994.6299999999999,61.0,158.0,1.0,13538.14,,,,,
+11.46,75.0,64.0,1.0,7258.33,,,,,
+63.75999999999999,69.0,100.00000000000001,1.0,4980.26,,,,,
+446.83,55.0,143.0,1.0,1623.5,,,,,
+63.540000000000006,26.0,136.0,1.0,4401.78,,,,,
+81.11,48.0,110.0,1.0,2051.37,,,,,
+441.26,58.0,87.0,5.0,13704.92,,,,,
+170.96,64.0,69.00000000000001,1.0,13374.89,,,,,
+48.51,22.0,69.00000000000001,1.0,3363.23,,,,,
+325.03,60.0,106.0,1.0,13521.76,,,,,
+125.83,57.0,138.0,1.0,6109.86,,,,,
+506.83,37.0,45.0,1.0,9975.79,,,,,
+738.94,41.0,173.0,1.0,13856.18,,,,,
+180.36,33.0,55.0,1.0,9905.23,,,,,
+225.1,28.0,35.0,1.0,1547.71,,,,,
+359.51,79.0,157.0,1.0,7153.72,,,,,
+720.46,54.0,44.0,1.0,3101.54,,,,,
+1116.57,56.0,104.0,1.0,1393.14,,,,,
+291.46,57.0,135.0,1.0,7142.53,,,,,
+1192.95,23.0,73.0,1.0,325.15,,,,,
+98.24,28.0,148.0,1.0,580.66,,,,,
+100.48,18.0,104.0,1.0,6149.81,,,,,
+45.9,56.0,264.0,1.0,5698.25,,,,,
+258.21,39.0,225.0,1.0,9562.41,,,,,
+1079.11,53.0,211.0,1.0,2038.31,,,,,
+287.51,22.0,255.0,1.0,187.65,,,,,
+501.29999999999995,26.0,146.0,1.0,8520.08,,,,,
+26.1,27.0,32.0,1.0,1435.72,,,,,
+436.77,20.0,176.0,1.0,825.69,,,,,
+292.38,68.0,224.0,1.0,5803.89,,,,,
+1026.46,53.0,165.0,1.0,3134.47,,,,,
+25.29,50.0,125.0,1.0,5374.69,,,,,
+123.34999999999998,31.0,10.0,1.0,6852.16,,,,,
+139.52,23.0,30.999999999999996,1.0,1570.22,,,,,
+51.2,18.0,83.0,1.0,730.6,,,,,
+122.85,47.0,127.0,3.0,13185.39,,,,,
+161.38,24.0,101.0,1.0,3900.3399999999997,,,,,
+2.51,63.0,32.0,1.0,4891.56,,,,,
+22.62,64.0,102.0,1.0,7682.0,,,,,
+126.83000000000001,57.0,39.0,1.0,6100.98,,,,,
+46.6,55.0,68.00000000000001,1.0,1562.9,,,,,
+243.8,57.0,48.0,1.0,13732.81,,,,,
+231.51,60.0,96.0,1.0,5790.7,,,,,
+175.05,39.0,34.0,1.0,1447.35,,,,,
+762.74,64.0,244.0,1.0,207.1,,,,,
+34.03,57.0,37.99999999999999,1.0,3077.2,,,,,
+15.950000000000001,25.0,52.00000000000001,1.0,1983.0,,,,,
+101.51,46.0,199.0,1.0,3052.47,,,,,
+309.42,27.0,42.00000000000001,1.0,8564.46,,,,,
+257.6,59.0,293.0,1.0,7950.74,,,,,
+746.78,21.0,64.0,1.0,1699.81,,,,,
+82.01,23.0,156.0,1.0,287.46,,,,,
+476.99,23.0,187.0,1.0,1154.48,,,,,
+320.11,23.0,130.0,1.0,4076.4799999999996,,,,,
+333.39,68.0,35.0,1.0,10628.59,,,,,
+10.3,47.0,197.0,1.0,7801.32,,,,,
+737.46,53.0,75.0,4.0,634.16,,,,,
+416.55,33.0,73.0,1.0,922.9599999999999,,,,,
+98.95,75.0,73.0,1.0,5670.82,,,,,
+18.14,58.0,48.0,1.0,6020.85,,,,,
+1154.79,51.0,107.99999999999999,1.0,6180.3,,,,,
+215.13,46.0,114.0,1.0,3956.6899999999996,,,,,
+218.57,62.0,102.0,1.0,13869.86,,,,,
+341.88,43.0,89.0,1.0,4159.52,,,,,
+691.92,19.0,61.00000000000001,1.0,1084.65,,,,,
+50.43,32.0,51.00000000000001,1.0,9794.26,,,,,
+440.43,78.0,22.999999999999996,1.0,5123.24,,,,,
+299.03,39.0,52.00000000000001,1.0,1381.28,,,,,
+1.98,66.0,170.0,1.0,11619.1,,,,,
+173.45,31.0,161.0,1.0,9077.62,,,,,
+438.76,22.0,73.0,1.0,1824.19,,,,,
+519.62,71.0,40.0,1.0,4159.33,,,,,
+738.68,50.0,123.99999999999999,1.0,14352.33,,,,,
+151.14,64.0,37.99999999999999,1.0,2156.54,,,,,
+75.77,51.0,148.0,1.0,8361.7,,,,,
+444.52,27.0,17.0,1.0,5424.6,,,,,
+5.29,52.0,276.0,1.0,11263.89,,,,,
+97.63,48.0,127.0,1.0,12467.31,,,,,
+256.95,26.0,71.0,1.0,2531.24,,,,,
+734.86,48.0,290.0,1.0,6242.03,,,,,
+1250.94,36.0,107.0,2.0,11565.97,,,,,
+84.28,39.0,142.0,1.0,13586.06,,,,,
+927.45,24.0,95.0,1.0,1161.84,,,,,
+202.49,48.0,69.00000000000001,1.0,7447.099999999999,,,,,
+154.99,25.0,53.00000000000001,1.0,1419.31,,,,,
+481.53,58.0,277.0,1.0,6142.54,,,,,
+172.92,20.0,212.0,1.0,416.37,,,,,
+275.59,53.0,238.0,1.0,6313.22,,,,,
+207.2,60.0,133.0,1.0,8092.9400000000005,,,,,
+136.82,31.0,14.0,1.0,6229.13,,,,,
+624.0,26.0,132.0,5.0,4976.18,,,,,
+10.15,59.0,58.00000000000001,5.0,7155.04,,,,,
+26.3,32.0,33.0,1.0,7473.73,,,,,
+319.5,29.0,69.00000000000001,1.0,2366.3,,,,,
+182.42,51.0,137.0,1.0,3051.29,,,,,
+716.62,44.0,241.0,1.0,6987.4,,,,,
+222.96,65.0,150.0,1.0,7370.41,,,,,
+79.77,68.0,167.0,1.0,5010.31,,,,,
+592.24,52.0,140.0,1.0,9817.05,,,,,
+200.19,52.0,107.99999999999999,1.0,4389.96,,,,,
+297.5,73.0,80.0,1.0,6768.14,,,,,
+345.86,51.0,145.0,1.0,1504.64,,,,,
+343.88,63.0,97.0,1.0,6486.18,,,,,
+16.52,25.0,135.0,1.0,835.5299999999999,,,,,
+162.1,41.0,151.0,1.0,8576.65,,,,,
+36.12,22.0,234.0,1.0,1593.03,,,,,
+354.91,74.0,191.0,1.0,3872.5500000000006,,,,,
+38.41,40.0,117.0,1.0,9129.68,,,,,
+53.52,49.0,55.0,1.0,2227.49,,,,,
+13.3,23.0,63.0,1.0,213.0,,,,,
+189.65,21.0,60.00000000000001,1.0,8457.09,,,,,
+255.32,80.0,26.999999999999996,1.0,6290.62,,,,,
+230.51,51.0,56.0,1.0,9522.37,,,,,
+237.74,61.0,151.99999999999997,1.0,11795.12,,,,,
+512.76,52.0,26.0,1.0,5121.36,,,,,
+151.37,54.0,53.00000000000001,1.0,8356.08,,,,,
+85.01,25.0,157.0,1.0,1299.4,,,,,
+444.47,57.0,61.00000000000001,1.0,6062.94,,,,,
+55.98,24.0,87.0,1.0,7047.04,,,,,
+54.91,41.0,275.0,1.0,7927.2699999999995,,,,,
+1047.69,20.0,139.0,1.0,1889.7799999999997,,,,,
+393.74,26.0,90.0,1.0,1769.06,,,,,
+58.94,30.0,26.0,1.0,4575.98,,,,,
+515.57,27.0,56.0,1.0,9269.67,,,,,
+332.15,59.0,105.0,1.0,9749.46,,,,,
+177.94,19.0,173.0,1.0,123.23999999999998,,,,,
+68.68,49.0,141.0,1.0,4718.51,,,,,
+1431.54,20.0,84.00000000000001,1.0,1171.98,,,,,
+240.03,33.0,30.999999999999996,1.0,7807.73,,,,,
+168.34,64.0,240.0,1.0,7483.01,,,,,
+474.77,46.0,284.0,1.0,8494.53,,,,,
+451.7,29.0,103.0,1.0,8994.67,,,,,
+243.84999999999997,39.0,43.0,1.0,4576.78,,,,,
+5.76,38.0,164.0,1.0,5859.79,,,,,
+435.08,55.0,78.0,1.0,2103.41,,,,,
+127.78,20.0,170.0,1.0,1046.66,,,,,
+23.14,47.0,93.0,1.0,10536.54,,,,,
+545.87,27.0,41.0,1.0,4860.01,,,,,
+21.21,55.0,37.0,1.0,9575.42,,,,,
+423.53,50.0,81.0,1.0,5453.4,,,,,
+142.1,18.0,109.0,1.0,1545.64,,,,,
+114.15,19.0,52.00000000000001,1.0,1612.4,,,,,
+275.98,72.0,67.0,1.0,6151.05,,,,,
+590.68,27.0,22.999999999999996,1.0,852.1999999999999,,,,,
+152.42,42.0,176.0,1.0,9141.79,,,,,
+395.77,43.0,118.0,1.0,6425.99,,,,,
+615.16,26.0,140.0,1.0,214.61,,,,,
+207.82,19.0,30.0,1.0,229.02,,,,,
+220.52,57.0,151.99999999999997,1.0,1793.09,,,,,
+281.47,34.0,142.0,1.0,4437.48,,,,,
+57.91,58.0,97.0,1.0,3641.06,,,,,
+30.48,32.0,78.0,1.0,11481.85,,,,,
+1152.58,65.0,180.0,1.0,7567.17,,,,,
+424.47,22.0,116.00000000000001,1.0,5491.55,,,,,
+228.4,67.0,116.00000000000001,1.0,9598.43,,,,,
+67.17,63.0,48.0,1.0,14410.44,,,,,
+284.89,53.0,115.0,1.0,9738.6,,,,,
+118.69,33.0,296.0,1.0,749.3399999999999,,,,,
+221.33,27.0,276.0,1.0,1185.43,,,,,
+252.31,26.0,172.0,1.0,1584.6,,,,,
+58.85,71.0,115.0,1.0,1789.8,,,,,
+194.68,32.0,165.0,1.0,14494.18,,,,,
+433.53,38.0,231.0,1.0,6368.32,,,,,
+178.26,59.0,59.00000000000001,1.0,1137.13,,,,,
+237.0,49.0,115.0,1.0,14021.4,,,,,
+1169.59,28.0,114.0,1.0,5946.45,,,,,
+347.63,25.0,272.0,1.0,1400.04,,,,,
+517.68,31.0,24.0,1.0,11305.81,,,,,
+36.25,52.0,75.99999999999999,1.0,193.06,,,,,
+46.53,42.0,34.0,1.0,4468.12,,,,,
+207.47,53.0,12.0,1.0,1688.9,,,,,
+199.7,43.0,285.0,1.0,7574.449999999999,,,,,
+307.89,62.0,90.0,1.0,2637.55,,,,,
+403.63,31.0,167.0,3.0,3304.02,,,,,
+20.06,27.0,144.0,1.0,445.21,,,,,
+236.57,79.0,112.0,1.0,3488.77,,,,,
+0.32,39.0,136.0,1.0,7158.58,,,,,
+14.28,23.0,81.0,1.0,1597.51,,,,,
+232.35,33.0,153.0,1.0,4186.25,,,,,
+317.53,44.0,104.0,1.0,6237.68,,,,,
+74.67,43.0,283.0,1.0,3449.35,,,,,
+65.01,29.0,67.0,1.0,10235.19,,,,,
+0.45,34.0,172.0,1.0,8670.23,,,,,
+364.13,63.0,61.00000000000001,1.0,8198.0,,,,,
+340.13,24.0,32.0,3.0,1149.74,,,,,
+15.810000000000002,69.0,11.0,4.0,8384.85,,,,,
+222.66,39.0,88.0,1.0,14466.38,,,,,
+638.24,48.0,64.0,1.0,5695.78,,,,,
+241.21,31.0,107.99999999999999,1.0,1220.86,,,,,
+171.16,51.0,42.00000000000001,1.0,6126.5,,,,,
+1360.67,29.0,118.0,1.0,2861.65,,,,,
+37.65,27.0,109.0,1.0,411.78,,,,,
+25.77,68.0,18.0,1.0,4331.54,,,,,
+789.8,40.0,94.0,1.0,13948.09,,,,,
+308.85,20.0,33.0,2.0,333.19,,,,,
+1454.52,27.0,20.0,1.0,1189.03,,,,,
+806.97,25.0,11.0,1.0,102.2,,,,,
+364.81,25.0,53.00000000000001,1.0,1145.23,,,,,
+490.82,26.0,114.0,1.0,8704.27,,,,,
+1021.3799999999999,61.0,125.0,1.0,6223.26,,,,,
+311.28,49.0,198.0,1.0,135.96,,,,,
+85.03,51.0,48.0,1.0,4597.57,,,,,
+307.75,64.0,63.0,1.0,1061.58,,,,,
+333.67,36.0,68.00000000000001,1.0,9238.08,,,,,
+589.89,56.0,213.0,3.0,9404.63,,,,,
+372.08,66.0,63.0,1.0,13330.74,,,,,
+502.9,26.0,141.0,1.0,341.24,,,,,
+103.81,36.0,34.0,1.0,7044.63,,,,,
+69.43,30.0,162.0,1.0,9281.85,,,,,
+110.4,56.0,61.99999999999999,1.0,8639.36,,,,,
+275.65,28.0,14.0,1.0,4957.57,,,,,
+251.8,62.0,102.0,1.0,11796.66,,,,,
+334.07,59.0,200.00000000000003,1.0,7306.79,,,,,
+52.44,27.0,87.0,1.0,3157.75,,,,,
+1030.85,25.0,39.0,1.0,1941.8,,,,,
+141.37,46.0,77.0,1.0,1019.7699999999999,,,,,
+211.7,50.0,205.0,1.0,12272.78,,,,,
+61.39999999999999,41.0,20.0,2.0,7892.87,,,,,
+308.23,60.0,22.999999999999996,1.0,4150.63,,,,,
+111.41,21.0,181.0,1.0,1204.11,,,,,
+675.49,61.0,159.0,1.0,1892.9999999999998,,,,,
+29.72,26.0,37.99999999999999,1.0,1059.62,,,,,
+301.73,67.0,163.0,1.0,990.7399999999999,,,,,
+294.61,60.0,74.0,1.0,7375.59,,,,,
+106.43,52.0,164.0,1.0,9403.12,,,,,
+381.52,36.0,79.0,1.0,5798.92,,,,,
+1142.76,25.0,71.0,1.0,1498.93,,,,,
+5.66,40.0,33.0,1.0,5434.64,,,,,
+209.09,48.0,203.0,1.0,9100.81,,,,,
+521.81,47.0,34.0,1.0,4750.96,,,,,
+588.36,33.0,134.0,1.0,8434.99,,,,,
+146.67,20.0,273.0,1.0,1569.75,,,,,
+176.52,73.0,94.0,5.0,7132.08,,,,,
+57.34,27.0,81.0,1.0,1100.64,,,,,
+294.77,77.0,101.0,1.0,2272.17,,,,,
+881.32,31.0,59.00000000000001,1.0,2287.93,,,,,
+162.59,64.0,18.999999999999996,1.0,7104.83,,,,,
+56.15,31.0,77.0,1.0,13265.92,,,,,
+524.55,39.0,175.0,1.0,8292.75,,,,,
+535.4,23.0,110.0,1.0,651.8399999999999,,,,,
+56.84,45.0,185.0,1.0,7977.78,,,,,
+135.94,71.0,258.0,1.0,4710.21,,,,,
+47.1,42.0,178.0,1.0,6308.07,,,,,
+124.05,61.0,220.0,1.0,7009.54,,,,,
+802.89,19.0,175.0,1.0,1973.63,,,,,
+193.16,64.0,109.0,1.0,2304.56,,,,,
+541.52,48.0,161.0,1.0,6087.24,,,,,
+20.17,77.0,86.0,1.0,3869.3699999999994,,,,,
+35.98,40.0,133.0,1.0,11147.34,,,,,
+273.24,51.0,173.0,1.0,2202.21,,,,,
+663.45,67.0,147.0,1.0,5897.29,,,,,
+343.86,57.0,70.0,1.0,3278.65,,,,,
+69.38,69.0,280.0,2.0,12072.11,,,,,
+75.43,77.0,266.0,1.0,1441.86,,,,,
+414.64,32.0,74.0,1.0,7253.22,,,,,
+86.79,33.0,166.0,1.0,8795.37,,,,,
+1105.88,34.0,36.0,1.0,2636.32,,,,,
+14.1,45.0,73.0,1.0,6949.21,,,,,
+63.330000000000005,23.0,123.99999999999999,1.0,792.33,,,,,
+606.27,29.0,42.00000000000001,1.0,9668.78,,,,,
+4.47,27.0,132.0,1.0,1381.75,,,,,
+289.01,66.0,96.0,1.0,4226.26,,,,,
+338.69,18.0,169.0,1.0,1137.89,,,,,
+97.73,69.0,156.0,1.0,7885.209999999999,,,,,
+27.61,54.0,26.0,1.0,3679.64,,,,,
+284.17,51.0,189.0,1.0,3479.56,,,,,
+76.21,22.0,69.00000000000001,1.0,664.9299999999998,,,,,
+584.51,74.0,75.99999999999999,1.0,3254.56,,,,,
+432.18,18.0,162.0,1.0,678.8299999999999,,,,,
+134.55,59.0,165.0,1.0,14852.42,,,,,
+61.66,26.0,86.0,1.0,5705.4,,,,,
+12.35,25.0,22.0,1.0,1846.85,,,,,
+213.25,25.0,63.0,1.0,677.7899999999998,,,,,
+34.93,31.0,72.0,1.0,2810.37,,,,,
+335.68,24.0,142.0,1.0,1188.95,,,,,
+423.96,43.0,75.0,1.0,8374.38,,,,,
+361.38,72.0,71.0,3.0,4972.92,,,,,
+220.82,42.0,30.999999999999996,1.0,4298.13,,,,,
+717.36,22.0,138.0,1.0,514.88,,,,,
+406.12,42.0,106.0,1.0,10501.53,,,,,
+427.83,47.0,29.000000000000004,1.0,3293.06,,,,,
+416.62,26.0,67.0,1.0,9700.9,,,,,
+21.9,28.0,30.0,1.0,1052.27,,,,,
+393.68,55.0,141.0,1.0,10135.88,,,,,
+281.91,25.0,269.0,1.0,225.53,,,,,
+239.85,70.0,50.00000000000001,1.0,1477.63,,,,,
+237.84,26.0,16.0,1.0,8932.39,,,,,
+459.29,64.0,109.0,1.0,1006.12,,,,,
+196.49,41.0,65.0,1.0,7516.560000000001,,,,,
+21.23,23.0,103.0,4.0,319.18,,,,,
+95.23,20.0,60.00000000000001,3.0,966.8799999999999,,,,,
+344.87,58.0,25.000000000000004,1.0,7447.44,,,,,
+129.62,23.0,123.99999999999999,1.0,620.28,,,,,
+16.53,21.0,220.0,1.0,707.95,,,,,
+277.02,46.0,227.0,1.0,8586.38,,,,,
+13.02,51.0,42.00000000000001,1.0,6076.45,,,,,
+199.02,22.0,185.0,1.0,793.6299999999999,,,,,
+684.5,29.0,75.99999999999999,1.0,6258.63,,,,,
+1173.74,61.0,61.00000000000001,1.0,10456.24,,,,,
+45.92,26.0,22.999999999999996,1.0,544.56,,,,,
+761.73,19.0,26.999999999999996,1.0,151.28,,,,,
+331.38,42.0,122.0,1.0,844.5499999999998,,,,,
+602.8,60.0,173.0,1.0,7417.69,,,,,
+64.12,57.0,222.0,1.0,1029.09,,,,,
+57.38,28.0,86.0,1.0,899.5199999999999,,,,,
+94.64,28.0,144.0,1.0,586.76,,,,,
+155.56,19.0,64.0,1.0,129.79,,,,,
+301.39,47.0,104.0,1.0,10548.58,,,,,
+136.31,74.0,65.0,1.0,4384.95,,,,,
+4.39,26.0,63.0,1.0,1429.61,,,,,
+429.25,29.0,107.0,1.0,5019.68,,,,,
+138.54,60.0,93.0,1.0,8274.77,,,,,
+33.03,21.0,28.0,1.0,935.8800000000001,,,,,
+76.39,30.0,80.0,1.0,11584.32,,,,,
+25.32,19.0,25.000000000000004,1.0,1642.34,,,,,
+330.91,36.0,28.0,1.0,6481.35,,,,,
+153.55,37.0,16.0,1.0,5619.91,,,,,
+217.61,27.0,120.0,1.0,1661.1,,,,,
+131.69,53.0,59.00000000000001,1.0,2958.43,,,,,
+953.17,60.0,84.00000000000001,1.0,3506.11,,,,,
+68.49,67.0,49.0,1.0,6683.31,,,,,
+1493.0,69.0,151.0,1.0,1619.16,,,,,
+470.62,57.0,127.0,1.0,12470.62,,,,,
+385.35,38.0,269.0,1.0,5184.13,,,,,
+74.72,26.0,132.0,1.0,165.75,,,,,
+352.03,27.0,219.0,1.0,4846.68,,,,,
+275.87,25.0,112.0,1.0,1697.58,,,,,
+90.94,63.0,56.0,1.0,3896.08,,,,,
+206.25,74.0,56.0,1.0,3651.07,,,,,
+116.76,51.0,212.0,1.0,4480.43,,,,,
+91.5,47.0,77.0,1.0,667.6599999999999,,,,,
+489.31000000000006,43.0,36.0,1.0,5595.22,,,,,
+1664.33,18.0,65.0,1.0,1588.31,,,,,
+414.49,58.0,107.99999999999999,1.0,12709.58,,,,,
+315.13,30.0,143.0,1.0,6570.94,,,,,
+28.38,45.0,260.0,1.0,8892.62,,,,,
+456.05,68.0,20.0,1.0,11729.51,,,,,
+277.22,35.0,41.0,1.0,12104.51,,,,,
+54.84,52.0,123.99999999999999,1.0,3495.51,,,,,
+29.92,68.0,63.0,1.0,7855.01,,,,,
+133.06,35.0,143.0,1.0,8843.44,,,,,
+14.34,67.0,24.0,1.0,7932.509999999999,,,,,
+468.32,69.0,151.99999999999997,1.0,4710.04,,,,,
+245.62,23.0,127.0,1.0,1879.8200000000002,,,,,
+981.9,43.0,112.0,1.0,9018.33,,,,,
+83.6,47.0,192.0,1.0,13899.24,,,,,
+331.22,61.0,161.0,1.0,12613.25,,,,,
+57.49,24.0,177.0,1.0,765.1499999999999,,,,,
+157.56,43.0,159.0,1.0,7541.160000000001,,,,,
+230.3,46.0,24.0,1.0,8356.88,,,,,
+305.92,72.0,88.0,1.0,1445.47,,,,,
+942.7,35.0,29.000000000000004,1.0,5141.32,,,,,
+116.33,27.0,144.0,1.0,1696.15,,,,,
+537.71,19.0,175.0,1.0,1806.08,,,,,
+538.17,27.0,252.0,1.0,5908.04,,,,,
+219.44,42.0,22.999999999999996,1.0,4207.27,,,,,
+61.62,57.0,18.999999999999996,1.0,8365.37,,,,,
+58.77,27.0,191.0,1.0,7261.7,,,,,
+538.13,62.0,165.0,1.0,5008.59,,,,,
+177.05,24.0,235.0,1.0,4287.82,,,,,
+403.01,63.0,286.0,3.0,10513.52,,,,,
+719.76,19.0,190.0,1.0,690.5199999999999,,,,,
+163.22,26.0,217.0,1.0,1788.27,,,,,
+242.85,42.0,93.0,1.0,4672.8,,,,,
+291.22,41.0,100.00000000000001,1.0,3677.63,,,,,
+56.52,42.0,151.99999999999997,1.0,6911.2,,,,,
+195.8,39.0,186.0,1.0,12027.68,,,,,
+66.76,36.0,44.0,1.0,184.72,,,,,
+190.9,28.0,40.0,1.0,101.25,,,,,
+106.99,38.0,151.99999999999997,1.0,5771.4,,,,,
+655.81,55.0,164.0,2.0,4539.99,,,,,
+107.1,25.0,175.0,1.0,193.8,,,,,
+79.92,44.0,274.0,2.0,9138.76,,,,,
+430.83,18.0,292.0,1.0,941.4899999999999,,,,,
+235.34,26.0,68.00000000000001,1.0,566.83,,,,,
+86.35,52.0,24.0,1.0,1550.48,,,,,
+337.99,70.0,115.0,1.0,9038.63,,,,,
+577.13,40.0,66.0,1.0,6640.51,,,,,
+213.33,52.0,161.0,1.0,5400.44,,,,,
+54.52,32.0,164.0,1.0,6980.98,,,,,
+883.92,53.0,129.0,1.0,2342.64,,,,,
+69.8,27.0,138.0,1.0,136.77,,,,,
+768.94,64.0,53.00000000000001,1.0,6860.18,,,,,
+179.62,24.0,119.0,1.0,409.26,,,,,
+425.91,23.0,47.0,1.0,383.58,,,,,
+263.34,64.0,55.0,1.0,2411.02,,,,,
+113.03,36.0,12.0,1.0,6756.13,,,,,
+11.02,42.0,42.00000000000001,1.0,7879.66,,,,,
+865.17,24.0,161.0,1.0,9297.5,,,,,
+152.0,51.0,63.0,1.0,7531.429999999999,,,,,
+270.39,25.0,104.0,1.0,899.15,,,,,
+246.40999999999997,54.0,22.999999999999996,1.0,1431.6,,,,,
+336.84,22.0,100.00000000000001,1.0,4500.26,,,,,
+261.45,50.0,96.0,1.0,6735.74,,,,,
+99.98,73.0,151.99999999999997,1.0,3037.97,,,,,
+400.69,32.0,26.0,1.0,9040.33,,,,,
+411.47,26.0,120.0,1.0,796.63,,,,,
+204.63,52.0,91.99999999999999,1.0,9199.52,,,,,
+421.56,53.0,144.0,1.0,8037.870000000001,,,,,
+193.38,18.0,285.0,1.0,1081.79,,,,,
+377.04,34.0,64.0,1.0,3812.87,,,,,
+54.1,28.0,17.0,1.0,940.91,,,,,
+18.1,57.0,66.0,1.0,6474.34,,,,,
+408.62,48.0,159.0,1.0,2498.48,,,,,
+162.1,64.0,221.0,1.0,9578.74,,,,,
+165.31,49.0,28.0,1.0,7346.66,,,,,
+267.48,21.0,159.0,2.0,811.86,,,,,
+856.9,36.0,150.0,1.0,8579.69,,,,,
+433.9,65.0,37.0,1.0,9013.1,,,,,
+271.22,45.0,87.0,1.0,6863.02,,,,,
+307.68,75.0,162.0,1.0,2052.84,,,,,
+348.17,21.0,181.0,1.0,1887.84,,,,,
+557.78,26.0,102.0,1.0,1289.48,,,,,
+325.6,69.0,88.0,1.0,13777.1,,,,,
+235.83,53.0,169.0,1.0,4120.75,,,,,
+603.54,44.0,26.0,1.0,10517.47,,,,,
+270.25,31.0,42.00000000000001,1.0,5414.97,,,,,
+123.38,59.0,40.0,1.0,13542.41,,,,,
+577.12,39.0,69.00000000000001,1.0,5265.88,,,,,
+92.24,60.0,93.0,1.0,6937.48,,,,,
+856.21,33.0,109.0,1.0,12690.79,,,,,
+251.54000000000002,48.0,177.0,1.0,254.75,,,,,
+28.63,56.0,146.0,1.0,3382.91,,,,,
+185.97,23.0,18.999999999999996,1.0,1776.91,,,,,
+243.08000000000004,24.0,93.0,1.0,131.25,,,,,
+506.90000000000003,64.0,56.0,1.0,11471.87,,,,,
+313.69,73.0,151.99999999999997,1.0,7093.68,,,,,
+973.3899999999999,77.0,296.0,1.0,2042.22,,,,,
+787.41,25.0,39.0,1.0,300.87,,,,,
+121.17000000000002,68.0,158.0,1.0,12990.77,,,,,
+21.9,28.0,30.0,1.0,1052.27,,,,,
+515.94,29.0,37.0,1.0,1389.89,,,,,
+174.39,19.0,36.0,1.0,1127.08,,,,,
+356.56,47.0,52.00000000000001,1.0,2485.73,,,,,
+183.32,21.0,74.0,1.0,137.42,,,,,
+20.17,77.0,86.0,1.0,3869.3699999999994,,,,,
+12.18,76.0,77.0,1.0,4909.24,,,,,
+232.12,37.0,51.00000000000001,1.0,6689.87,,,,,
+255.03999999999996,45.0,151.99999999999997,1.0,6217.86,,,,,
+196.16,27.0,146.0,1.0,9418.86,,,,,
+20.64,22.0,59.00000000000001,1.0,949.38,,,,,
+254.20999999999998,48.0,45.99999999999999,1.0,2487.2,,,,,
+291.46,57.0,135.0,1.0,7142.53,,,,,
+46.6,55.0,68.00000000000001,1.0,1562.9,,,,,
+20.54,51.0,72.0,1.0,5327.03,,,,,
+230.08,79.0,123.99999999999999,1.0,4466.1,,,,,
+561.58,65.0,22.999999999999996,1.0,11748.86,,,,,
+493.11,53.0,236.0,1.0,7432.99,,,,,
+198.62,27.0,84.00000000000001,1.0,1196.07,,,,,
+7.49,65.0,276.0,1.0,3634.67,,,,,
